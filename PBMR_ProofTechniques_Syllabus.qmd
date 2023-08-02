@@ -1,0 +1,198 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Proof Techniques**  \n 2023 Summer"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 11pt
+    geometry: 
+      - right=1.9cm
+      - left=1.9cm
+      - top=1.9cm
+      - bottom=1.9cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor} 
+        \usepackage{cancel}
+        \newcommand{\Cancel}[2][black]{{\color{#1}\cancel{\color{black}#2}}}
+        \newcommand{\indep}{\perp \!\!\! \perp}
+        \usepackage{stackengine, scalerel}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+```
+
+\newpage
+
+# Motivation 
+
+  - *Proof-Based Math Readings* is an independent online reading group. 
+  - The goal of the reading group is to understand mathematical concepts required in the economics master's/PhD programs with an intuitive approach.
+  - This first session of the reading group is on *Proof Techniques*.
+
+# Prerequisites
+
+  - CGPA: 3.00/4.00
+  - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/closedform) until 23:59, 04 June 2023.  
+    Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
+    Students who applied will be informed about their application result via email at 10:00, 06 June 2023.
+
+# Format
+
+  - This session will last 5 weeks from 12 June 2023 to 16 July 2023.
+  - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
+  - We will not have face-to-face/online meetings due to size of the group.
+  - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+
+# Resources [All are open-access]
+
+## Main Book and Main Book's Playlist
+
+Book of Proof by Richard Hammack is our main book because it is a well-structured pedagogical masterpiece. It is also free and provides detailed solutions for odd-numbered exercises at the end of the book.
+
+Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his narrative is just great.
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist to main book, Jeremy Teitelbaum)}
+\end{itemize}
+
+## Supplementary
+
+### Proof
+
+In case we need to watch a proof topic from another instructor, we have 2 additional companion playlists.  
+Because our main playlist does not cover Chapter 13-14, we will cover theese chapters from Penn's playlist.
+
+\begin{itemize}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn, Ch 1-14)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLpcwHaLYiaEUk-DVrPHjPpGmwL04WMbNQ}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Valerie Hower, Exams)}
+  \item[\faBook] \href{https://summit.plymouth.edu/bitstream/handle/20.500.12774/381/psu-oer-024.pdf?sequence=1&isAllowed=y}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion workbook by Justin Wright)}
+\end{itemize}
+
+### Calculus
+
+In case we need to remember a topic from calculus, we can use these playlists.
+
+\begin{itemize}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr}{Essence of Calculus - 3Blue1Brown (2023)}
+  \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006}{Single Variable Calculus - David Jerison (2006)}
+  \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007}{Multi Variable Calculus - Denis Auroux (2007)}
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+I recommend this study routine:
+
+  1) We read the chapter from the main book.
+  2) We watch the main playlist of the chapter.
+  3) We solve odd-numbered exercises and check their solutions at the end of the main book. 
+  4) We solve even-numbered exercises.
+  5) If we cannot solve/understand an exercise, we can discuss the exercise in our Discord server.
+  6) We move on to the next chapter of the book.
+
+::: {.callout-tip icon=false}
+## **Week 01 \hfill \faCalendar* 12 June - 18 June**
+
+\begin{itemize}
+  \item[\faBook] Book of Proof, Chapter 1: Sets
+  \item[\faBook] Book of Proof, Chapter 2: Logic
+  \item[\faBook] Book of Proof, Chapter 3: Counting
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 02 \hfill \faCalendar* 19 June - 25 June**
+
+\begin{itemize}
+  \item[\faBook] Book of Proof, Chapter 4: Direct Proof
+  \item[\faBook] Book of Proof, Chapter 5: Contrapositive Proof
+  \item[\faBook] Book of Proof, Chapter 6: Proof by Contradiction
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 03 \hfill \faCalendar* 26 June - 02 July**
+
+\begin{itemize}
+  \item[\faBook] Book of Proof, Chapter 7: Proving Non-Conditional Statements
+  \item[\faBook] Book of Proof, Chapter 8: Proofs Involving Sets
+  \item[\faBook] Book of Proof, Chapter 9: Disproof
+  \item[\faBook] Book of Proof, Chapter 10: Mathematical Induction
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 04 \hfill \faCalendar* 03 July - 09 July**
+
+\begin{itemize}
+  \item[\faBook] Book of Proof, Chapter 11: Relations
+  \item[\faBook] Book of Proof, Chapter 12: Functions
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 05 \hfill \faCalendar* 10 July - 16 July**
+
+\begin{itemize}
+  \item[\faBook] Book of Proof, Chapter 14: Cardinality of Sets
+  \item[\faBook] Book of Proof, Chapter 13: Proofs in Calculus
+\end{itemize}
+:::
+
+# The Next Session After This One
+
+::: {.callout-note icon=false}
+## **Real Analysis: [Application Deadline 23:59, 28 July 2023 via [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeD7asHGf1_mFrMCPZRgsQplnrYfBD0Y5XVOS-q-mVe7slDhg/viewform)]**
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist to the main real analysis book)}
+\end{itemize}
+
+If you are admitted to *Proof Techniques* session, you do not have to apply for *Real Analysis* session again. In other words, you can directly join *Real Analysis* session if you wish.
+:::
