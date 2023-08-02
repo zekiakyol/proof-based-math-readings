@@ -1,4 +1,4 @@
-# Proof-Based Math Readings <a href='https://zekiakyol.com/'><img src='figures/proofbasedmath_readings_logo_square.png' align="right" height="256" /></a>
+# Proof-Based Math Readings
 
 This repo contains syllabuses for the following sessions:
 
@@ -8,6 +8,12 @@ This repo contains syllabuses for the following sessions:
 - :scroll: Measure Theory (will be added)
 - :scroll: Linear Algebra (will be added)
 - :scroll: Graph Theory (will be added)
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github.com/zekiakyol/logos/blob/main/logos_png/proofbasedmath_readings_logo.png" width="300"></td>
+  </tr>
+</table> 
 
 # Licences
 
