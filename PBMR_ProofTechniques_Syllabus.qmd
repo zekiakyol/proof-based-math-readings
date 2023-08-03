@@ -19,8 +19,8 @@ format:
     papersize: letter
     fontsize: 11pt
     geometry: 
-      - right=1.9cm
-      - left=1.9cm
+      - right=1.8cm
+      - left=1.8cm
       - top=1.9cm
       - bottom=1.9cm
     toc: true
@@ -77,7 +77,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   - CGPA: 3.00/4.00
   - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/closedform) until 23:59, 04 June 2023.  
     Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
-    Students who applied will be informed about their application result via email at 10:00, 06 June 2023.
+    Students who applied will be informed about their application results via email at 10:00, 06 June 2023.
 
 # Format
 

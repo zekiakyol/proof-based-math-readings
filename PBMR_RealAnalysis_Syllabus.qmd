@@ -77,7 +77,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   - CGPA: 3.00/4.00 and **Book of Proof - Richard Hammack (3.3 Edition, 2022)**.
   - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeD7asHGf1_mFrMCPZRgsQplnrYfBD0Y5XVOS-q-mVe7slDhg/viewform) until 23:59, 28 July 2023.  
     Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
-    Students who applied will be informed about their application result via email at 10:00, 30 July 2023.
+    Students who applied will be informed about their application results via email at 10:00, 30 July 2023.
 
 # Format
 
