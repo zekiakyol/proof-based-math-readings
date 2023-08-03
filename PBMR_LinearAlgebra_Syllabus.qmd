@@ -1,0 +1,200 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Linear Algebra**  \n 2024 Spring"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.75cm
+      - left=1.75cm
+      - top=1.5cm
+      - bottom=2cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor} 
+        \usepackage{cancel}
+        \newcommand{\Cancel}[2][black]{{\color{#1}\cancel{\color{black}#2}}}
+        \newcommand{\indep}{\perp \!\!\! \perp}
+        \usepackage{stackengine, scalerel}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+```
+
+\newpage
+
+# Motivation 
+
+  - *Proof-Based Math Readings* is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+  - This session of the reading group is on *Linear Algebra*.
+
+# Prerequisites
+
+  - CGPA: 3.00/4.00 and \href{https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8}{\faYoutube Linear Algebra - Gilbert Strang (2005)}
+  - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf2cwRPXWqVCckj8O1YOTDVseADO7s1afsAbc9tePf-kQnHQQ/viewform) until 23:59, 10 March 2024.  
+    Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
+    Students who applied will be informed about their application results via email at 10:00, 12 March 2024.
+
+# Format
+
+  - This session will last 12 weeks from 25 March 2024 to 16 June 2024.
+  - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+  - We will not have face-to-face/online meetings due to the size of the group.
+  - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+
+# Resources [All are open-access]
+
+## Main Book and Main Book's Playlist
+
+**Linear Algebra Done Right** by Sheldon Axler is our main book for this session because it is well-written, well-structured, open-access, and -most importantly- the author's cat is on the cover photo of the playlist.
+
+\begin{itemize}
+  \item[\faBook] \href{https://linear.axler.net/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023, Forthcoming)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist to the book)}
+  \item[]
+  \item[\faBook] \href{https://linearalgebras.com/}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
+  \item[\faBook] \href{https://github.com/jubnoske08/linear_algebra}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by jubnoske08)}
+  \item[\faBook] \href{https://math.solverer.com/library/sheldon_axler/linear_algebra_done_right?utm_source=reddit&utm_medium=link}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by math.solverer.com)}
+\end{itemize}
+
+## Supplementary
+
+### Linear Algebra
+
+\begin{itemize}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab}{Essence of Linear Algebra - 3Blue1Brown (2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Robert Won)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLflMyS1QOtxwiN5oOuyY4W_8fZlTTnRcF}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Jason Morton)}
+  \item[\faYoutube] \href{https://mediaspace.illinois.edu/channel/MATH%2B416%2BAbstract%2BLinear%2BAlgebra/223194603}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Felix Leditzky)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAvgI3H-gclbucHp-i_p1OxzeFxadw8b3}{Linear Algebra - Elliot Nicholson (2021)}
+  \item[\faBook] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch17.pdf}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (Chapter 17 Proof in Linear Algebra, 4th Edition, 2018)} and \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch16-19_odd_answers.pdf#page=2}{Odd-Numbered Exercise Solutions}
+\end{itemize}
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+- **LADR** is the abbreviation of Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023).
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 1: Vector Spaces \hfill Week 01 \faCalendar* 25 March - 31 March**
+
+\begin{itemize}
+  \item[] LADR, Chapter 1.A: $\mathbf{R}^n$ and $\mathbf{C}^n$
+  \item[] LADR, Chapter 1.B: Definition of Vector Space
+  \item[] LADR, Chapter 1.C: Subspaces
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 2: Finite-Dimensional Vector Spaces \hfill Week 02 \faCalendar* 01 April - 07 April**
+
+\begin{itemize}
+  \item[] LADR, Chapter 2.A: Span and Linear Independence
+  \item[] LADR, Chapter 2.B: Bases
+  \item[] LADR, Chapter 2.C: Dimension
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 3: Linear Maps \hfill Week 03-04-05 \faCalendar* 08 April - 28 April**
+
+\begin{itemize}
+  \item[] LADR, Chapter 3.A: Vector Space of Linear Maps
+  \item[] LADR, Chapter 3.B: Null Spaces and Ranges
+  \item[] LADR, Chapter 3.C: Matrices
+  \item[] LADR, Chapter 3.D: Invertibility and Isomorphism
+  \item[] LADR, Chapter 3.E: Products and Quotients of Vector Spaces
+  \item[] LADR, Chapter 3.F: Duality
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 4: Polynomials \hfill  Week 06 \faCalendar* 29 April - 05 May**
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 5: Eigenvalues and Eigenvectors \hfill Week 07-08 \faCalendar* 06 May - 19 May**
+
+\begin{itemize}
+  \item[] LADR, Chapter 5.A: Invariant Subspaces
+  \item[] LADR, Chapter 5.B: Eigenvectors and Minimal Polynomial
+  \item[] LADR, Chapter 5.C: Upper-Triangular Matrices
+  \item[] LADR, Chapter 5.D: Diagonalizable Operators
+  \item[] LADR, Chapter 5.E: Commuting Operators
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 6: Inner Product Spaces \hfill Week 09-10 \faCalendar* 20 May - 02 June**
+
+\begin{itemize}
+  \item[] LADR, Chapter 6.A: Inner Products and Norms
+  \item[] LADR, Chapter 6.B: Orthonormal Bases
+  \item[] LADR, Chapter 6.C: Orthogonal Complements and Minimization Problems
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook LADR, Chapter 7: Operators on Inner Product Spaces \hfill Week 11-12 \faCalendar* 03 June - 16 June**
+
+\begin{itemize}
+  \item[] LADR, Chapter 7.A: Self-Adjoint and Normal Operators
+  \item[] LADR, Chapter 7.B: Spectral Theorem
+  \item[] LADR, Chapter 7.C: Positive Operators
+  \item[] LADR, Chapter 7.D: Isometries, Unitary Operators, and Matrix Factorization
+  \item[] LADR, Chapter 7.E: Singular Value Decomposition
+  \item[] LADR, Chapter 7.F: Consequences of Singular Value Decomposition
+\end{itemize}
+:::

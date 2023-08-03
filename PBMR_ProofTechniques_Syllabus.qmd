@@ -68,8 +68,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Motivation 
 
-  - *Proof-Based Math Readings* is an independent online reading group. 
-  - The goal of the reading group is to understand mathematical concepts required in the economics master's/PhD programs with an intuitive approach.
+  - *Proof-Based Math Readings* is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
   - This first session of the reading group is on *Proof Techniques*.
 
 # Prerequisites

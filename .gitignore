@@ -1,10 +1,9 @@
 .gitattributes
 .DS_Store
 
-PBMR_GraphTheory_Syllabus.*
-PBMR_LinearAlgebra_Syllabus.*
 PBMR_Topology_Syllabus.*
 PBMR_MeasureTheory_Syllabus.*
+PBMR_Optimization_Syllabus.*
 
 # TeX
 
