@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Proof Techniques**  \n 2023 Summer"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -17,7 +17,7 @@ format:
   pdf: 
     documentclass: article
     papersize: letter
-    fontsize: 11pt
+    fontsize: 10pt
     geometry: 
       - right=1.8cm
       - left=1.8cm
@@ -89,7 +89,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-Book of Proof by Richard Hammack is our main book because it is a well-structured pedagogical masterpiece. It is also free and provides detailed solutions for odd-numbered exercises at the end of the book.
+**Book of Proof** by Richard Hammack is our main book because it is a well-structured pedagogical masterpiece. It is also free and provides detailed solutions for odd-numbered exercises at the end of the book.
 
 Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his narrative is just great.
 

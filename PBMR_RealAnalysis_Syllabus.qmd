@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Real Analysis**  \n 2023 Fall"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -107,6 +107,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLztBpqftvzxWo4HxUYV58ENhxHV32Wxli}{Real Analysis - Wrath of Math (2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLysi2xmniDSzz6xT7IzOifpoexeKccThh}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Playlist by Marc Renaulty)}
   \item[\faBook] \href{https://uli.rocks/abbott}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions by Ulisse Mini, Jesse Liby)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
 
 ### Calculus
