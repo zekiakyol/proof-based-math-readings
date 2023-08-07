@@ -89,13 +89,13 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Book of Proof** by Richard Hammack is our main book because it is a well-structured pedagogical masterpiece. It is also free and provides detailed solutions for odd-numbered exercises at the end of the book.
+**Book of Proof** by Richard Hammack is our main book because it is a well-written and well-structured pedagogical masterpiece. It is also open-access and provides detailed solutions for odd-numbered exercises at the end of the book.
 
 Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his narrative is just great.
 
 \begin{itemize}
   \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist to main book, Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum, Chapter 1-12)}
 \end{itemize}
 
 ## Supplementary
@@ -106,8 +106,8 @@ In case we need to watch a proof topic from another instructor, we have 2 additi
 Because our main playlist does not cover Chapter 13-14, we will cover theese chapters from Penn's playlist.
 
 \begin{itemize}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn, Ch 1-14)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLpcwHaLYiaEUk-DVrPHjPpGmwL04WMbNQ}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Valerie Hower, Exams)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn, Chapter 1-14)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLpcwHaLYiaEUk-DVrPHjPpGmwL04WMbNQ}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Valerie Hower, Chapter 1-12)}
   \item[\faBook] \href{https://summit.plymouth.edu/bitstream/handle/20.500.12774/381/psu-oer-024.pdf?sequence=1&isAllowed=y}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion workbook by Justin Wright)}
 \end{itemize}
 

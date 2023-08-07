@@ -1,8 +1,9 @@
 # Proof-Based Math Readings
 
 - **Proof-Based Math Readings** is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-- The reading group has 20 members and accepts new members before each session.
+- Our reading group has **22 members** and accepts new members before each session.
 - Now, [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) session is available to apply.
+- If you are admitted to one session, you do not have to apply for other sessions.
 
 ## Syllabuses
 This repo contains syllabuses for the following sessions:

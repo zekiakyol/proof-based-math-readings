@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 # Motivation 
 
   - *Proof-Based Math Readings* is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-  - This session of the reading group is on *Real Analysis*.
+  - This second session of the reading group is on *Real Analysis*.
 
 # Prerequisites
 
@@ -122,8 +122,8 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 \begin{itemize}
   \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum, Chapter 1-12)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn, Chapter 1-14)}
 \end{itemize}
 
 \newpage
