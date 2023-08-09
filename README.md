@@ -11,9 +11,6 @@
   </tr>
 </table> 
 
-## Syllabuses
-This repo contains syllabuses for the following sessions:
-
 :date: Term | :closed_book: Book | :hourglass: Duration | :scroll: Syllabus
 :--: | :--: | :--: | :--:
 2024 Summer | Measure, Integration & Real Analysis <br /> - Sheldon Axler (2nd Edition, 202X) | 12 weeks | Soon!
