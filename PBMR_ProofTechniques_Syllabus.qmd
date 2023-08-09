@@ -130,9 +130,9 @@ I recommend this study routine:
   1) We read the chapter from the main book.
   2) We watch the main playlist of the chapter.
   3) We solve odd-numbered exercises and check their solutions at the end of the main book. 
-  4) We solve even-numbered exercises.
+  4) We solve even-numbered exercises in the main book.
   5) If we cannot solve/understand an exercise, we can discuss the exercise in our Discord server.
-  6) We move on to the next chapter of the book.
+  6) We move on to the next chapter of the main book.
 
 ::: {.callout-tip icon=false}
 ## **Week 01 \hfill \faCalendar* 12 June - 18 June**
@@ -175,9 +175,10 @@ I recommend this study routine:
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 05 \hfill \faCalendar* 10 July - 16 July**
+## **Week 05-06 \hfill \faCalendar* 10 July - 23 July**
 
 \begin{itemize}
+  \item[] These two chapters are essential for real analysis, so they are more challenging than the previous ones. \\ We first read Chapter 14, then Chapter 13.
   \item[\faBook] Book of Proof, Chapter 14: Cardinality of Sets
   \item[\faBook] Book of Proof, Chapter 13: Proofs in Calculus
 \end{itemize}
