@@ -15,7 +15,7 @@
 
 :date: Term | :closed_book: Book | :hourglass: Duration | :scroll: Syllabus
 :--: | :--: | :--: | :--:
-2024 Summer | Measure, Integration & Real Analysis <br /> - Sheldon Axler (2nd Edition, 202X) | 13 weeks | Soon!
+2024 Summer | Measure, Integration & Real Analysis <br /> - Sheldon Axler (1st Edition, 2020) | 13 weeks | Soon!
 2024 Spring | Linear Algebra Done Right <br /> - Sheldon Axler (4th Edition, 2023) | 12 weeks | [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf)
 2023 Winter | General Topology <br /> - Seymour Lipschutz (2011) | 12 weeks | Soon!
 2023 Fall | Basic Analysis I <br /> - Jiri Lebl (Version 6.0, 2023) | 12 weeks | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf)
