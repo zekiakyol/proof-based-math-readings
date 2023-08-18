@@ -105,7 +105,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1_xaQoS}{Real Analysis - Michael Penn (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLztBpqftvzxWo4HxUYV58ENhxHV32Wxli}{Real Analysis - Wrath of Math (2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLysi2xmniDSzz6xT7IzOifpoexeKccThh}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Playlist by Marc Renaulty)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLysi2xmniDSzz6xT7IzOifpoexeKccThh}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Playlist by Marc Renault)}
   \item[\faBook] \href{https://uli.rocks/abbott}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions by Ulisse Mini, Jesse Liby)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
@@ -165,7 +165,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
   \item[\faBook] \textbf{BAI, Chapter 2: Sequence and Series}
   \item[] BAI, Chapter 2.1: Sequences and limits
   \item[] BAI, Chapter 2.2: Facts about limits of sequences
-  \item[] BAI, Chapter 2.3: Limit superior, limit inferior, and Bolzano–Weierstrass
+  \item[] BAI, Chapter 2.3: Limit superior, limit inferior, and Bolzano-Weierstrass
   \item[] BAI, Chapter 2.4: Cauchy sequences
   \item[] BAI, Chapter 2.5: Series
   \item[] BAI, Chapter 2.6: More on series
