@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 # Motivation 
 
   - *Proof-Based Math Readings* is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-  - This second session of the reading group is on *Real Analysis*.
+  - This session of the reading group is on *Real Analysis*.
 
 # Prerequisites
 
@@ -80,7 +80,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Format
 
-  - This session will last 12 weeks from 31 July 2023 to 22 October 2023.
+  - This session will last 13 weeks from 31 July 2023 to 30 October 2023.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
   - We will not have face-to-face/online meetings due to size of the group.
   - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
@@ -89,7 +89,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Basic Analysis: I Introduction to Real Analysis [Volume I]** by Jiri Lebl is our main book for this session because it is well-written, well-structured, and open-access. \newline
+**Basic Analysis I: Introduction to Real Analysis [Volume I]** by Jiri Lebl is our main book for this session because it is well-written, well-structured, and open-access. \newline
 Casey Rodriguez's playlist is our main playlist because his narrative is just great.
 
 \begin{itemize}
@@ -130,7 +130,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 # Reading Schedule
 
-  - BAI is the abbreviation of our main book in the previous page.
+  - **BAI** is the abbreviation of Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023).
   - We use Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions) for exercises.
 
 ::: {.callout-tip icon=false}

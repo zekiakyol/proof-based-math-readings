@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 # Motivation 
 
   - *Proof-Based Math Readings* is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-  - This fourth session of the reading group is on *Linear Algebra*.
+  - This session of the reading group is on *Linear Algebra*.
 
 # Prerequisites
 
@@ -161,6 +161,10 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 4: Polynomials \hfill  Week 06 \faCalendar* 29 April - 05 May**
+
+\begin{itemize}
+  \item[] There is no subsection in this chapter, so we will read the whole chapter.
+\end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
