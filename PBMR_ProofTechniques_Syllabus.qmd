@@ -184,15 +184,15 @@ I recommend this study routine:
 \end{itemize}
 :::
 
-# The Next Session After This One
+# Further Readings & Playlists (Optional)
+
+If we want to solve more problems after this session, the following resources will be extremely helpful.
 
 ::: {.callout-note icon=false}
-## **Real Analysis: [Application Deadline 23:59, 28 July 2023 via [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeD7asHGf1_mFrMCPZRgsQplnrYfBD0Y5XVOS-q-mVe7slDhg/viewform)]**
-
+## 
 \begin{itemize}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist to the main real analysis book)}
+  \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapter 0-14}, 4th Edition, 2018).
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (\textbf{Chapter 0}, Version 6.0, 2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (\textbf{Video 1-2}, 2020, Companion playlist to Basic Analysis I)}
 \end{itemize}
-
-If you are admitted to *Proof Techniques* session, you do not have to apply for *Real Analysis* session again. In other words, you can directly join *Real Analysis* session if you wish.
 :::
