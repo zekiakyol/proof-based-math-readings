@@ -80,7 +80,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Format
 
-  - This session will last 5 weeks from 12 June 2023 to 16 July 2023.
+  - This session will last 6 weeks from 12 June 2023 to 23 July 2023.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
   - We will not have face-to-face/online meetings due to size of the group.
   - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
