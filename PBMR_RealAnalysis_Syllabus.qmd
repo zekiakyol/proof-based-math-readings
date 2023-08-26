@@ -68,19 +68,19 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Motivation 
 
-  - *Proof-Based Math Readings* is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+  - *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
   - This session of the reading group is on *Real Analysis*.
 
 # Prerequisites
 
   - CGPA: 3.00/4.00 and **Book of Proof - Richard Hammack (3.3 Edition, 2022)**.
-  - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeD7asHGf1_mFrMCPZRgsQplnrYfBD0Y5XVOS-q-mVe7slDhg/viewform) until 23:59, 28 July 2023.  
+  - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) until 23:59, 28 July 2023.  
     Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
     Students who applied will be informed about their application results via email at 10:00, 30 July 2023.
 
 # Format
 
-  - This session will last 13 weeks from 31 July 2023 to 30 October 2023.
+  - This session will last 13 weeks from 31 July 2023 to 29 October 2023.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
   - We will not have face-to-face/online meetings due to size of the group.
   - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
@@ -130,7 +130,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 # Reading Schedule
 
-  - **BAI** is the abbreviation of Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023).
+  - **BAI** is the abbreviation of Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023) in the previous page.
   - We use Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions) for exercises.
 
 ::: {.callout-tip icon=false}
@@ -193,7 +193,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 12-13 \hfill \faCalendar* 16 October - 30 October**
+## **Week 12-13 \hfill \faCalendar* 16 October - 29 October**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 6: Sequence of Functions}

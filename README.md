@@ -1,8 +1,8 @@
 ## Proof-Based Math Readings
 
-- **Proof-Based Math Readings** is an independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+- **Proof-Based Math Readings** is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 - Our reading group has **22 members** and accepts new members before each session.
-- Now, [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) session is available to apply.
+- You can use our [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to apply.
 - If you are admitted to one session, you do not have to apply for the other sessions.
 
 <table align="center">
@@ -18,7 +18,8 @@
 2024 Summer | Measure, Integration & Real Analysis <br /> - Sheldon Axler (1st Edition, 2020) | 13 weeks | Soon!
 2024 Spring | Linear Algebra Done Right <br /> - Sheldon Axler (4th Edition, 2023) | 12 weeks | [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf)
 2023 Winter | General Topology <br /> - Seymour Lipschutz (2011) | 12 weeks | Soon!
-2023 Fall | Basic Analysis I <br /> - Jiri Lebl (Version 6.0, 2023) | 13 weeks | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf)
+2023 Fall   | Matrix Algebra <br /> - Karim M. Abadir, Jan R. Magnus (2005) | 10 weeks | [Matrix Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MatrixAlgebra_Syllabus.pdf)
+2023 Fall   | Basic Analysis I <br /> - Jiri Lebl (Version 6.0, 2023) | 13 weeks | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf)
 2023 Summer | Book of Proof <br /> - Richard Hammack (3.3 Edition, 2022) | 6 weeks | [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf)
 
 ## Licencses

@@ -1,0 +1,181 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Matrix Calculus**  \n 2023 Fall"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.8cm
+      - left=1.8cm
+      - top=1.5cm
+      - bottom=1.7cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor} 
+        \usepackage{cancel}
+        \newcommand{\Cancel}[2][black]{{\color{#1}\cancel{\color{black}#2}}}
+        \newcommand{\indep}{\perp \!\!\! \perp}
+        \usepackage{stackengine, scalerel}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+```
+
+\newpage
+
+# Motivation 
+
+  - *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+  - This session of the reading group is on *Matrix Calculus*.
+
+# Prerequisites
+
+  - CGPA: 3.00/4.00, Book of Proof - Richard Hammack (3.3 Edition), \href{https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8}{\faYoutube Linear Algebra - Gilbert Strang (2005)}
+  - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) until 23:59, 30 October 2023.  
+    Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
+    Students who applied will be informed about their application results via email at 10:00, 02 November 2023.
+
+# Format
+
+  - This session will last 10 weeks from 30 October 2023 to 14 January 2024.
+  - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+  - We will not have face-to-face/online meetings due to size of the group.
+  - Members are expected to read the chapters from the book.
+
+# Resources [All are open-access]
+
+## Main Book
+
+**Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)** is our main book because it is a well-structured and well-written.
+
+\begin{itemize}
+  \item[\faBook] Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)
+  \item[\faBook] \href{https://www.janmagnus.nl/misc/corrections03.pdf}{Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005, Errata)}
+\end{itemize}
+
+## Supplementary
+
+### Matrix Algebra
+
+\begin{itemize}
+  \item[\faBook] Matrix Differential Calculus with Applications in Statistics and Econometrics - Jan R. Magnus, Heinz Neudecker (3rd Edition, 2019)
+\end{itemize}
+
+### Proof
+
+In case we need to review a proof topic we can use following book and its playlists.
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+  - **MA** is the abrevviation of Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005) in the previous page.
+  
+::: {.callout-tip icon=false}
+## **Week 01-02 \hfill \faCalendar* 30 October - 12 November**
+
+\begin{itemize}
+  \item[\faBook] MA, Appendix B: Notation
+  \item[\faBook] MA, Chapter 1: Vectors
+  \item[\faBook] MA, Chapter 2: Matrices
+  \item[\faBook] MA, Chapter 3: Vector spaces
+  \item[\faBook] MA, Chapter 4: Rank, inverse, and determinant
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 03-04 \hfill \faCalendar* 13 November - 26 November**
+
+\begin{itemize}
+  \item[\faBook] MA, Chapter 5: Partitioned matrices
+  \item[\faBook] MA, Chapter 6: Systems of equations
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 05-06 \hfill \faCalendar* 27 November - 10 December**
+
+\begin{itemize}
+  \item[\faBook] MA, Chapter 7: Eigenvalues, eigenvectors, and factorizations
+  \item[\faBook] MA, Chapter 8: Positive (semi)definite and idempotent matrices
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 07-08 \hfill \faCalendar* 11 December - 31 December**
+
+\begin{itemize}
+  \item[\faBook] MA, Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
+  \item[\faBook] MA, Chapter 11: Patterned matrices: commutation- and duplication matrix
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 09-10 \hfill \faCalendar* 01 January - 14 January**
+
+\begin{itemize}
+  \item[\faBook] MA, Chapter 12: Matrix inequalities
+  \item[\faBook] MA, Chapter 13: Matrix calculus
+\end{itemize}
+:::
+
+# Further Readings & Playlists (Optional)
+
+If we want to read a more abstract linear algebra book, the following book and its playlist are great.
+
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] \href{https://linear.axler.net/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023, Forthcoming)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist to the book)}
+\end{itemize}
+:::
