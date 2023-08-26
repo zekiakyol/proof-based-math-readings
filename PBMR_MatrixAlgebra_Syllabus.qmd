@@ -1,5 +1,5 @@
 ---
-title: "**Proof-Based Math Readings  \n Session: Matrix Calculus**  \n 2023 Fall"
+title: "**Proof-Based Math Readings  \n Session: Matrix Algebra**  \n 2023 Fall"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
 author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 # Motivation 
 
   - *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-  - This session of the reading group is on *Matrix Calculus*.
+  - This session of the reading group is on *Matrix Algebra*.
 
 # Prerequisites
 
@@ -170,12 +170,13 @@ In case we need to review a proof topic we can use following book and its playli
 
 # Further Readings & Playlists (Optional)
 
-If we want to read a more abstract linear algebra book, the following book and its playlist are great.
+If we want to read a more abstract book, the following book and its playlist are great.
 
 ::: {.callout-note icon=false}
 ## 
 \begin{itemize}
   \item[\faBook] \href{https://linear.axler.net/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023, Forthcoming)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist to the book)}
+  \item[] We will also have a session on this book. Please see our syllabus at \href{https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf}{Linear Algebra}
 \end{itemize}
 :::
