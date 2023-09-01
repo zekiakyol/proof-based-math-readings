@@ -129,7 +129,6 @@ In case we need to review a proof topic, we can use following book and its playl
   \item[\faBook] MA, Appendix B: Notation
   \item[\faBook] MA, Chapter 1: Vectors
   \item[\faBook] MA, Chapter 2: Matrices
-  \item[\faBook] MA, Chapter 3: Vector spaces
   \item[\faBook] MA, Chapter 4: Rank, inverse, and determinant
 \end{itemize}
 :::
@@ -167,6 +166,7 @@ In case we need to review a proof topic, we can use following book and its playl
 \begin{itemize}
   \item[\faBook] MA, Chapter 12: Matrix inequalities
   \item[\faBook] MA, Chapter 13: Matrix calculus
+  \item[\faBook] MA, Chapter 3: Vector spaces
 \end{itemize}
 :::
 
