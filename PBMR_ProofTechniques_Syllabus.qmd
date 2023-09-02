@@ -74,9 +74,8 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 # Prerequisites
 
   - CGPA: 3.00/4.00
-  - Please apply by uploading your CV and transcript to this [\faLink Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) until 23:59, 04 June 2023.  
-    Please upload your CV and transcript as **NameSurname.pdf**, not **CV.pdf**.  
-    Students who applied will be informed about their application results via email at 10:00, 06 June 2023.
+  - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.  
+    People who applied will be informed about their application results within a week.
 
 # Format
 
