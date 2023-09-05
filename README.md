@@ -3,7 +3,7 @@
 - **Proof-Based Math Readings** is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 - Our reading group has **22 members** for now and accepts new members.
 - Please use our [:page_facing_up: Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.
-- If you are admitted to one session, you do not have to apply for the other sessions.
+- People who applied will be informed about their application results within a week.
 
 <table align="center">
   <tr>
