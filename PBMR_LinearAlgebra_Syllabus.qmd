@@ -73,9 +73,11 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Prerequisites
 
-  - CGPA: 3.00/4.00 and \href{https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8}{\faYoutube Linear Algebra - Gilbert Strang (2005)}
-  - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.  
-    People who applied will be informed about their application results within a week.
+  - CGPA: 3.00/4.00
+  - [\faBook Book of Proof - Richard Hammack (3.3 Edition, 2022)](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+  - [\faYoutube Linear Algebra - Gilbert Strang (2005)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+  - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+  - People who applied will be informed about their application results within a week.
 
 # Format
 
