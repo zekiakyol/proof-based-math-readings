@@ -177,7 +177,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 09-10-11 \hfill \faCalendar* 25 September - 15 October**
+## **Week 09-10-11-12 \hfill \faCalendar* 25 September - 22 October**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 4: The Derivative}
@@ -192,7 +192,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 12-13 \hfill \faCalendar* 16 October - 29 October**
+## **Week 13 \hfill \faCalendar* 23 October - 29 October**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 6: Sequence of Functions}
