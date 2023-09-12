@@ -133,7 +133,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
   - We use Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions) for exercises.
 
 ::: {.callout-tip icon=false}
-## **Week 01-02-03-04 \hfill \faCalendar* 31 July - 27 August**
+## **Week 01-02-03 \hfill \faCalendar* 31 July - 20 August**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, List of Notation} (Page 309-312)
@@ -151,7 +151,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 05-06 \hfill \faCalendar* 28 August - 10 September**
+## **Week 04-05-06 \hfill \faCalendar* 21 August - 10 September**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 2: Sequence and Series}
