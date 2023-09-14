@@ -110,7 +110,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLflMyS1QOtxwiN5oOuyY4W_8fZlTTnRcF}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Jason Morton)}
   \item[\faYoutube] \href{https://mediaspace.illinois.edu/channel/MATH%2B416%2BAbstract%2BLinear%2BAlgebra/223194603}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Felix Leditzky)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAvgI3H-gclbucHp-i_p1OxzeFxadw8b3}{Linear Algebra - Elliot Nicholson (2021)}
-  \item[\faBook] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch17.pdf}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (Chapter 17 Proof in Linear Algebra, 4th Edition, 2018)} and \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch16-19_odd_answers.pdf#page=2}{Odd-Numbered Exercise Solutions}
+  \item[\faBook] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch17.pdf}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (Chapter 17: Proofs in Linear Algebra, 4th Edition, 2018)} and \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch16-19_odd_answers.pdf#page=2}{Odd-Numbered Exercise Solutions}
 \end{itemize}
 
 ### Proof

@@ -103,6 +103,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] Matrix Differential Calculus with Applications in Statistics and Econometrics - Jan R. Magnus, Heinz Neudecker (3rd Edition, 2019)
+  \item[\faBook] \href{https://pages.stern.nyu.edu/~wgreene/Text/Greene-EA-7&8ed-Appendices.pdf}{Econometric Theory - William H. Greene (8th Edition, 2020, Appendix A)}
 \end{itemize}
 
 ### Proof
