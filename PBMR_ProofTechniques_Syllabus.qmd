@@ -118,6 +118,7 @@ In case we need to remember a topic from calculus, we can use these playlists.
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr}{Essence of Calculus - 3Blue1Brown (2023)}
   \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006}{Single Variable Calculus - David Jerison (2006)}
   \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007}{Multi Variable Calculus - Denis Auroux (2007)}
+  \item[\faCalculator] \href{https://www.geogebra.org/m/f08hfjvx}{Geogebra - Sequences and Series Calculator} and \href{https://www.geogebra.org/graphing}{Geogebra - Function Graph}
 \end{itemize}
 
 \newpage
