@@ -23,7 +23,7 @@
 2023 Fall   | Basic Analysis I <br> - Jiri Lebl (Version 6.0, 2023) | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | 13 weeks
 2023 Summer | Book of Proof <br> - Richard Hammack (3.3 Edition, 2022) | [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf) | 6 weeks
 
-## Licencses
+## Licenses
 
 - Figures are licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
 - Codes are licensed under [MIT License](https://github.com/zekiakyol/proof-based-math-readings/blob/main/LICENSE).
