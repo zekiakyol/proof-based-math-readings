@@ -75,13 +75,13 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
   - CGPA: 3.00/4.00
   - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
-  - People who applied will be informed about their application results within a week.
+  - People who applied will be informed about their application results via email within a week.
 
 # Format
 
   - This session will last 6 weeks from 12 June 2023 to 23 July 2023.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
-  - We will not have face-to-face/online meetings due to size of the group.
+  - We will not have face-to-face/online meetings due to the size of the group.
   - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
 
 # Resources [All are open-access]
@@ -102,7 +102,7 @@ Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his n
 ### Proof
 
 In case we need to watch a proof topic from another instructor, we have 2 additional companion playlists.  
-Because our main playlist does not cover Chapter 13-14, we will cover theese chapters from Penn's playlist.
+Because our main playlist does not cover Chapter 13-14, we will cover these chapters from Penn's playlist.
 
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn, Chapter 1-14)}
@@ -131,7 +131,7 @@ I recommend this study routine:
   2) We watch the main playlist of the chapter.
   3) We solve odd-numbered exercises and check their solutions at the end of the main book. 
   4) We solve even-numbered exercises in the main book.
-  5) If we cannot solve/understand an exercise, we can discuss the exercise in our Discord server.
+  5) If we cannot solve/understand an exercise, we discuss the exercise in our Discord server.
   6) We move on to the next chapter of the main book.
 
 ::: {.callout-tip icon=false}
@@ -178,7 +178,8 @@ I recommend this study routine:
 ## **Week 05-06 \hfill \faCalendar* 10 July - 23 July**
 
 \begin{itemize}
-  \item[] These two chapters are essential for real analysis, so they are more challenging than the previous ones. \\ We first read Chapter 14, then Chapter 13.
+  \item[] These two chapters are essential for real analysis, so they are more challenging than the previous ones. \\
+          We first read Chapter 14, then Chapter 13.
   \item[\faBook] Book of Proof, Chapter 14: Cardinality of Sets
   \item[\faBook] Book of Proof, Chapter 13: Proofs in Calculus
 \end{itemize}
@@ -194,5 +195,6 @@ If we want to solve more problems after this session, the following resources wi
   \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapter 0-14}, 4th Edition, 2018)
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (\textbf{Chapter 0}, Version 6.0, 2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (\textbf{Video 1-2}, 2020, Companion playlist to Basic Analysis I)}
+  \item[] We will also have a session on Basic Analysis I book. Please see our syllabus at \href{https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf}{Real Analysis}
 \end{itemize}
 :::
