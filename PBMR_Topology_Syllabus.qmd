@@ -82,7 +82,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   - This session will last 10 weeks from 15 January 2024 to 24 March 2024.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
   - We will not have face-to-face/online meetings due to the size of the group.
-  - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+  - Members are expected to read the chapters, and watch the chapter videos from the book's playlist. \vspace*{-0.5cm}
 
 # Resources
 
@@ -98,7 +98,7 @@ Bruno Zimmermann's playlist is our main playlist because its narrative is just g
   \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by math.solverer)}
   \item[\faBook] \href{https://positron0802.wordpress.com/topology-munkres}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 2-3 by positron0802)}
   \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2-3-4 by dbFin)}
-\end{itemize} \vspace*{-0.5cm}
+\end{itemize}
 
 ## Supplementary
 
@@ -126,7 +126,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 
 \begin{itemize}
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist to Basic Analysis I)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
 

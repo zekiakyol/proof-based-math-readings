@@ -177,8 +177,8 @@ If we want to read a more abstract book, the following book and its playlist are
 ::: {.callout-note icon=false}
 ## 
 \begin{itemize}
-  \item[\faBook] \href{https://linear.axler.net/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023, Forthcoming)}
+  \item[\faBook] \href{https://linear.axler.net/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist to the book)}
-  \item[] We will also have a session on this book. Please see our syllabus at \href{https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf}{Linear Algebra}
+  \item[] We will also have a session on Linear Algebra Done Right. Please see our syllabus at \href{https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf}{Linear Algebra}
 \end{itemize}
 :::
