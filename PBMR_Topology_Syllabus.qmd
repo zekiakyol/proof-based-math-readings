@@ -1,0 +1,205 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Topology**  \n 2023 Winter"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.9cm
+      - left=1.9cm
+      - top=1.3cm
+      - bottom=1.5cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor} 
+        \usepackage{cancel}
+        \newcommand{\Cancel}[2][black]{{\color{#1}\cancel{\color{black}#2}}}
+        \newcommand{\indep}{\perp \!\!\! \perp}
+        \usepackage{stackengine, scalerel}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+```
+
+\newpage
+
+# Motivation  
+
+  - *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+  - This session of the reading group is on *Topology*. \vspace*{-0.5cm}
+
+# Prerequisites
+
+  - CGPA: 3.00/4.00 and Proof and Real Analysis books/playlists listed below.
+  - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+  - People who applied will be informed about their application results via email within a week. \vspace*{-0.5cm}
+
+# Format
+
+  - This session will last 10 weeks from 15 January 2024 to 24 March 2024.
+  - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+  - We will not have face-to-face/online meetings due to the size of the group.
+  - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+
+# Resources
+
+## Main Book and Main Book's Playlist
+
+**Topology (2nd Edition, 2014)** by James Munkres is our main book for this session because it is well-written, well-structured, and has plenty of intuitive figures. \newline
+Bruno Zimmermann's playlist is our main playlist because its narrative is just great.
+
+\begin{itemize}
+  \item[\faBook] Topology - James Munkres (2nd Edition, 2014)
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx}{Topology - James Munkres (2nd Edition, 2014, Companion playlist by Bruno Zimmermann, Video 1-15)}
+  \item[\faBook] \href{https://math-study.net/topology}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by Dan Whitman)}
+  \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by math.solverer)}
+  \item[\faBook] \href{https://positron0802.wordpress.com/topology-munkres}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 2-3 by positron0802)}
+  \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2-3-4 by dbFin)}
+\end{itemize} \vspace*{-0.5cm}
+
+## Supplementary
+
+### Topology
+
+We use **Schaum's Outline of General Topology** for exercises because it has solutions for all 391 exercises. 
+
+\begin{itemize}
+  \item[\faBook] Schaum's Outline of General Topology - Seymour Lipschutz (2011) $\rightarrow$ Beginner friendly
+  \item[\faBook] \href{https://www.topologywithouttears.net}{Topology Without Tears - Sidney A. Morris (2023)} $\mspace{127mu} \rightarrow$ Beginner friendly and open-access
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLoWHl5YajIf6MNTh7Ok024T1JkhZEcYXm}{General Topology - Bernard Badzioch (2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0}{Topology - Marius Furter (2022)}
+  \item[\faBook] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch19.pdf}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (Chapter 19: Proofs in Topology, 4th Edition, 2018)} and \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch16-19_odd_answers.pdf#page=12}{Odd-Numbered Exercise Solutions}
+\end{itemize}
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+\end{itemize}
+
+### Real Analysis
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+TM is the abbreviation of **Topology - James Munkres (2nd Edition, 2014)** in the previous page.
+
+::: {.callout-tip icon=false}
+## **Week 01 \hfill \faCalendar* 15 January - 21 January**
+
+\begin{itemize}
+  \item[\faBook] \textbf{TM, Chapter 1: Set Theory and Logic}
+  \item[] \textbf{1} Fundamental Concepts
+  \item[] \textbf{2} Functions
+  \item[] \textbf{3} Relations
+  \item[] \textbf{4} The Integers and the Real Numbers
+  \item[] \textbf{5} Cartesian Products
+  \item[] \textbf{6} Finite Sets
+  \item[] \textbf{7} Countable and Uncountable Sets
+  \item[] \textbf{8} The Principle of Recursive Definition
+  \item[] \textbf{9} Infinite Sets and the Axiom of Choice
+  \item[] \textbf{10} Well-Ordered Sets
+  \item[] \textbf{11} The Maximum Principle
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 02-03-04-05 \hfill \faCalendar* 22 January - 18 February**
+
+\begin{itemize}
+  \item[\faBook] \textbf{TM, Chapter 2: Topological Spaces and Continuous Functions}
+  \item[] \textbf{12} Topological Spaces
+  \item[] \textbf{13} Basis for a Topology
+  \item[] \textbf{14} The Order Topology
+  \item[] \textbf{15} The Product Topology on $X \times Y$
+  \item[] \textbf{16} The Subspace Topology
+  \item[] \textbf{17} Closed Sets and Limit Points
+  \item[] \textbf{18} Continuous Functions
+  \item[] \textbf{19} The Product Topology
+  \item[] \textbf{20} The Metric Topology
+  \item[] \textbf{21} The Metric Topology (continued)
+  \item[] \textbf{22} The Quotient Topology
+\end{itemize}
+:::
+
+
+::: {.callout-tip icon=false}
+## **Week 06-07-08 \hfill \faCalendar* 19 February - 10 March**
+
+\begin{itemize}
+  \item[\faBook] \textbf{TM, Chapter 3: Connectedness and Compactness}
+  \item[] \textbf{23} Connected Spaces
+  \item[] \textbf{24} Connected Subspaces of the Real Line
+  \item[] \textbf{25} Components and Local Connectedness
+  \item[] \textbf{26} Compact Spaces
+  \item[] \textbf{27} Compact Subspaces of the Real Line
+  \item[] \textbf{28} Limit Point Compactness
+  \item[] \textbf{29} Local Compactness
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 09-10 \hfill \faCalendar* 11 March - 24 March**
+
+\begin{itemize}
+  \item[\faBook] \textbf{TM, Chapter 4: Countability and Separation Axioms}
+  \item[] \textbf{30} The Countability Axioms
+  \item[] \textbf{31} The Separation Axioms
+  \item[] \textbf{32} Normal Spaces
+  \item[] \textbf{33} The Urysohn Lemma
+  \item[] \textbf{34} The Urysohn Metrization Theorem
+  \item[] \textbf{35} The Tietze Extension Theorem
+\end{itemize}
+:::

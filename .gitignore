@@ -1,10 +1,6 @@
 .gitattributes
 .DS_Store
 
-PBMR_Topology_Syllabus.*
-PBMR_MeasureTheory_Syllabus.*
-PBMR_Optimization_Syllabus.*
-
 # TeX
 
 ## Core latex/pdflatex auxiliary files:
