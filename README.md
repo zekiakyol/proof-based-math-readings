@@ -16,7 +16,6 @@
 :date: Term | :closed_book: Book | :scroll: Syllabus | :hourglass: Duration 
 :--: | :--: | :--: | :--:
 2024 Summer | Measure, Integration & Real Analysis <br> - Sheldon Axler (2023) | Soon! | 12 weeks
-2024 Summer | Elements of Large-Sample Theory <br> - Erich Leo Lehmann (1999) | Soon! | 12 weeks
 2024 Spring | Linear Algebra Done Right <br> - Sheldon Axler (4th Edition, 2023) | [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) | 12 weeks
 2023 Winter | Topology <br> - James Munkres (2nd Edition, 2014) | [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf) | 10 weeks
 2023 Fall   | Matrix Algebra <br> - Karim M. Abadir, Jan R. Magnus (2005) | [Matrix Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MatrixAlgebra_Syllabus.pdf) | 10 weeks

@@ -194,6 +194,7 @@ TM is the abbreviation of **Topology - James Munkres (2nd Edition, 2014)** in th
 ## **Week 09-10 \hfill \faCalendar* 11 March - 24 March**
 
 \begin{itemize}
+  \item[] This chapter is optional.
   \item[\faBook] \textbf{TM, Chapter 4: Countability and Separation Axioms}
   \item[] \textbf{30} The Countability Axioms
   \item[] \textbf{31} The Separation Axioms
