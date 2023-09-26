@@ -166,7 +166,7 @@ In case we need to review a proof topic, we can use following book and its playl
 \begin{itemize}
   \item[\faBook] MA, Chapter 12: Matrix inequalities
   \item[\faBook] MA, Chapter 13: Matrix calculus
-  \item[\faBook] MA, Chapter 3: Vector spaces
+  \item[\faBook] MA, Chapter 3: Vector spaces (Optional)
 \end{itemize}
 :::
 

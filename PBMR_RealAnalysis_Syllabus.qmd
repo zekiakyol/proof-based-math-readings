@@ -133,7 +133,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
   - We use Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions) for exercises.
 
 ::: {.callout-tip icon=false}
-## **Week 01-02-03 \hfill \faCalendar* 31 July - 20 August**
+## **Week 01-02 \hfill \faCalendar* 31 July - 13 August**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, List of Notation} (Page 309-312)
@@ -151,7 +151,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 04-05-06 \hfill \faCalendar* 21 August - 10 September**
+## **Week 03-04-05 \hfill \faCalendar* 14 August - 03 September**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 2: Sequence and Series}
@@ -165,7 +165,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 07-08 \hfill \faCalendar* 11 September - 24 September**
+## **Week 06-07 \hfill \faCalendar* 04 September - 17 September**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 3: Continuous Functions}
@@ -177,7 +177,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 09-10-11-12 \hfill \faCalendar* 25 September - 22 October**
+## **Week 08-09-10-11 \hfill \faCalendar* 18 September - 15 October**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 4: The Derivative}
@@ -192,7 +192,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 13 \hfill \faCalendar* 23 October - 29 October**
+## **Week 12 \hfill \faCalendar* 16 October - 22 October**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 6: Sequence of Functions}
