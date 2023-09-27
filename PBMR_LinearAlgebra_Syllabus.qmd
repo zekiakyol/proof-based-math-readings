@@ -156,7 +156,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[] LADR, Chapter 3.C: Matrices
   \item[] LADR, Chapter 3.D: Invertibility and Isomorphism
   \item[] LADR, Chapter 3.E: Products and Quotients of Vector Spaces
-  \item[] LADR, Chapter 3.F: Duality
+  \item[] LADR, Chapter 3.F: Duality (Optional)
 \end{itemize}
 :::
 
@@ -176,7 +176,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[] LADR, Chapter 5.B: Eigenvectors and Minimal Polynomial
   \item[] LADR, Chapter 5.C: Upper-Triangular Matrices
   \item[] LADR, Chapter 5.D: Diagonalizable Operators
-  \item[] LADR, Chapter 5.E: Commuting Operators
+  \item[] LADR, Chapter 5.E: Commuting Operators (Optional)
 \end{itemize}
 :::
 
