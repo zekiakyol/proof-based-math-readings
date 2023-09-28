@@ -81,7 +81,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Format
 
-  - This session will last 10 weeks from 30 October 2023 to 14 January 2024.
+  - This session will last 10 weeks from 23 October 2023 to 07 January 2024.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
   - We will not have face-to-face/online meetings due to the size of the group.
   - Members are expected to read the chapters from the main book.
@@ -123,7 +123,7 @@ In case we need to review a proof topic, we can use following book and its playl
   - **MA** is the abrevviation of Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005) in the previous page.
   
 ::: {.callout-tip icon=false}
-## **Week 01-02 \hfill \faCalendar* 30 October - 12 November**
+## **Week 01-02 \hfill \faCalendar* 23 October - 05 November**
 
 \begin{itemize}
   \item[\faBook] MA, Appendix B: Notation
@@ -134,7 +134,7 @@ In case we need to review a proof topic, we can use following book and its playl
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 03-04 \hfill \faCalendar* 13 November - 26 November**
+## **Week 03-04 \hfill \faCalendar* 06 November - 19 November**
 
 \begin{itemize}
   \item[\faBook] MA, Chapter 5: Partitioned matrices
@@ -143,7 +143,7 @@ In case we need to review a proof topic, we can use following book and its playl
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 05-06 \hfill \faCalendar* 27 November - 10 December**
+## **Week 05-06 \hfill \faCalendar* 20 November - 03 December**
 
 \begin{itemize}
   \item[\faBook] MA, Chapter 7: Eigenvalues, eigenvectors, and factorizations
@@ -152,7 +152,7 @@ In case we need to review a proof topic, we can use following book and its playl
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 07-08 \hfill \faCalendar* 11 December - 31 December**
+## **Week 07-08 \hfill \faCalendar* 04 December - 24 December**
 
 \begin{itemize}
   \item[\faBook] MA, Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
@@ -161,7 +161,7 @@ In case we need to review a proof topic, we can use following book and its playl
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 09-10 \hfill \faCalendar* 01 January - 14 January**
+## **Week 09-10 \hfill \faCalendar* 25 December - 07 January**
 
 \begin{itemize}
   \item[\faBook] MA, Chapter 12: Matrix inequalities
