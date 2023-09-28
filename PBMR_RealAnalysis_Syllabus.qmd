@@ -21,7 +21,7 @@ format:
     geometry: 
       - right=1.9cm
       - left=1.9cm
-      - top=2cm
+      - top=1.9cm
       - bottom=1.4cm
     toc: true
     toc-depth: 3
@@ -129,7 +129,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 # Reading Schedule
 
-  - **BAI** is the abbreviation of Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023) in the previous page.
+  - **BAI** is Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023).
   - We use Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions) for exercises.
 
 ::: {.callout-tip icon=false}
@@ -175,13 +175,20 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 08-09-10-11 \hfill \faCalendar* 18 September - 15 October**
+## **Week 08-09 \hfill \faCalendar* 18 September - 01 October**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 4: The Derivative}
   \item[] BAI, Chapter 4.1: The derivative
   \item[] BAI, Chapter 4.2: Mean value theorem
-  \item[] BAI, Chapter 4.3: Taylor's theorem (Optional)
+  \item[] BAI, Chapter 4.3: Taylor's theorem
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **Week 10-11 \hfill \faCalendar* 02 October - 15 October**
+
+\begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 5: The Riemann Integral}
   \item[] BAI, Chapter 5.1: The Riemann integral
   \item[] BAI, Chapter 5.2: Properties of the integral
