@@ -138,7 +138,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook LADR, Chapter 2: Finite-Dimensional Vector Spaces \hfill Week 02 \faCalendar* 01 April - 07 April**
+## **\faBook LADR, Chapter 2: Finite-Dimensional Vector Spaces \hfill Week 02-03 \faCalendar* 01 April - 14 April**
 
 \begin{itemize}
   \item[] LADR, Chapter 2.A: Span and Linear Independence
@@ -148,7 +148,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook LADR, Chapter 3: Linear Maps \hfill Week 03-04-05 \faCalendar* 08 April - 28 April**
+## **\faBook LADR, Chapter 3: Linear Maps \hfill Week 04-05-06 \faCalendar* 15 April - 05 May**
 
 \begin{itemize}
   \item[] LADR, Chapter 3.A: Vector Space of Linear Maps
@@ -156,15 +156,6 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[] LADR, Chapter 3.C: Matrices
   \item[] LADR, Chapter 3.D: Invertibility and Isomorphism
   \item[] LADR, Chapter 3.E: Products and Quotients of Vector Spaces
-  \item[] LADR, Chapter 3.F: Duality (Optional)
-\end{itemize}
-:::
-
-::: {.callout-tip icon=false}
-## **\faBook LADR, Chapter 4: Polynomials \hfill  Week 06 \faCalendar* 29 April - 05 May**
-
-\begin{itemize}
-  \item[] There is no subsection in this chapter, so we will read the whole chapter.
 \end{itemize}
 :::
 
@@ -176,7 +167,6 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[] LADR, Chapter 5.B: Eigenvectors and Minimal Polynomial
   \item[] LADR, Chapter 5.C: Upper-Triangular Matrices
   \item[] LADR, Chapter 5.D: Diagonalizable Operators
-  \item[] LADR, Chapter 5.E: Commuting Operators (Optional)
 \end{itemize}
 :::
 
