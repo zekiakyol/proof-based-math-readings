@@ -86,7 +86,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   - We will not have face-to-face/online meetings due to the size of the group.
   - Members are expected to read the chapters from the main book.
 
-# Resources [All are open-access]
+# Resources
 
 ## Main Book
 
