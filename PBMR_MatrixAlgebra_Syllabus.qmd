@@ -170,7 +170,7 @@ In case we need to review a proof topic, we can use following book and its playl
 \end{itemize}
 :::
 
-# Further Readings & Playlists (Optional)
+# Further Readings (Optional)
 
 If we want to read a more abstract book, the following book and its playlist are great.
 

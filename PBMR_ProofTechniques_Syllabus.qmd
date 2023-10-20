@@ -185,14 +185,16 @@ I recommend this study routine:
 \end{itemize}
 :::
 
-# Further Readings & Playlists (Optional)
+# Further Readings (Optional)
 
-If we want to solve more problems after this session, the following book will be extremely helpful.
+If we want to solve more problems after this session, the following book will be extremely helpful. \
+The book itself is not open-access but its official slides are open-access.
 
 ::: {.callout-note icon=false}
 ## 
 \begin{itemize}
   \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapter 0-14}, 4th Edition, 2018)
+  \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapter 0-14}, 4th Edition, 2018, Slides)}
   \item[] 
   \item[] We also have a session on Real Analysis at \href{https://github.com/zekiakyol/proof-based-math-readings}{github.com/zekiakyol/proof-based-math-readings}
 \end{itemize}
