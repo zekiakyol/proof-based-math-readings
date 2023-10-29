@@ -94,7 +94,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://linear.axler.net}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Companion playlist to the book)}
+  \item[\faYoutube] \href{https://linear.axler.net/LADRvideos.html}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Companion playlist to the book)}
   \item[\faBook] \href{https://linearalgebras.com}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
   \item[\faBook] \href{https://github.com/jubnoske08/linear_algebra}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by jubnoske08)}
   \item[\faBook] \href{https://math.solverer.com/library/sheldon_axler/linear_algebra_done_right?utm_source=reddit&utm_medium=link}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by solverer.com)}
