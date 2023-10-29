@@ -93,9 +93,9 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 **Linear Algebra Done Right** by Sheldon Axler is our main book for this session because it is well-written, well-structured, open-access, and -most importantly- the author's cat is on the cover photo of the playlist.
 
 \begin{itemize}
-  \item[\faBook] \href{https://linear.axler.net/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist to the book)}
-  \item[\faBook] \href{https://linearalgebras.com/}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
+  \item[\faBook] \href{https://linear.axler.net}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Companion playlist to the book)}
+  \item[\faBook] \href{https://linearalgebras.com}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
   \item[\faBook] \href{https://github.com/jubnoske08/linear_algebra}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by jubnoske08)}
   \item[\faBook] \href{https://math.solverer.com/library/sheldon_axler/linear_algebra_done_right?utm_source=reddit&utm_medium=link}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by solverer.com)}
 \end{itemize}
@@ -125,7 +125,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Reading Schedule
 
-- **LADR** is the abbreviation of Linear Algebra Done Right - Sheldon Axler (4th Edition, 2023).
+- **LADR** is the abbreviation of Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024).
 
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 1: Vector Spaces \hfill Week 01 \faCalendar* 25 March - 31 March**
@@ -154,7 +154,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[] LADR, Chapter 3.A: Vector Space of Linear Maps
   \item[] LADR, Chapter 3.B: Null Spaces and Ranges
   \item[] LADR, Chapter 3.C: Matrices
-  \item[] LADR, Chapter 3.D: Invertibility and Isomorphism
+  \item[] LADR, Chapter 3.D: Invertibility and Isomorphisms
   \item[] LADR, Chapter 3.E: Products and Quotients of Vector Spaces
 \end{itemize}
 :::
@@ -164,7 +164,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 \begin{itemize}
   \item[] LADR, Chapter 5.A: Invariant Subspaces
-  \item[] LADR, Chapter 5.B: Eigenvectors and Minimal Polynomial
+  \item[] LADR, Chapter 5.B: The Minimal Polynomial
   \item[] LADR, Chapter 5.C: Upper-Triangular Matrices
   \item[] LADR, Chapter 5.D: Diagonalizable Operators
 \end{itemize}
