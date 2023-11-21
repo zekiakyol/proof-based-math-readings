@@ -78,7 +78,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   - [\faBook Book of Proof - Richard Hammack (3.3 Edition, 2022)](https://www.people.vcu.edu/~rhammack/BookOfProof/)
   - [\faYoutube Linear Algebra - Gilbert Strang (2005)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
   - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
-  - People who applied will be informed about their application results via email within a week.
+  - People who applied will be informed about their application results within a week via email.
 
 # Format
 
@@ -95,6 +95,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://linear.axler.net}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024)}
+  \item[\faBook] \href{https://linear.axler.net/LADRErrata4e.html}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Errata)}
   \item[\faYoutube] \href{https://linear.axler.net/LADRvideos.html}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Companion playlist to the book)}
   \item[\faBook] \href{https://linearalgebras.com}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
   \item[\faBook] \href{https://github.com/jubnoske08/linear_algebra}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by jubnoske08)}
@@ -110,7 +111,6 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Robert Won)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLflMyS1QOtxwiN5oOuyY4W_8fZlTTnRcF}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Jason Morton)}
   \item[\faYoutube] \href{https://mediaspace.illinois.edu/channel/MATH%2B416%2BAbstract%2BLinear%2BAlgebra/223194603}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Companion playlist by Felix Leditzky)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAvgI3H-gclbucHp-i_p1OxzeFxadw8b3}{Linear Algebra - Elliot Nicholson (2021)}
   \item[\faBook] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch17.pdf}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (Chapter 17: Proofs in Linear Algebra, 4th Edition, 2018)} and \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e/Chartrand4e_Ch16-19_odd_answers.pdf#page=2}{Odd-Numbered Exercise Solutions}
 \end{itemize}
 
