@@ -75,7 +75,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
   - CGPA: 3.00/4.00 and **Book of Proof - Richard Hammack (3.3 Edition, 2022)**.
   - Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
-  - People who applied will be informed about their application results via email within a week.
+  - People who applied will be informed about their application results within a week via email.
 
 # Format
 
