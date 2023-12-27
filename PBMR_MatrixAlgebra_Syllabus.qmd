@@ -81,7 +81,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Format
 
-  - This session will last 10 weeks from 23 October 2023 to 31 December 2023.
+  - This session will last 10 weeks from 23 October 2023 to 14 January 2024.
   - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
   - We will not have face-to-face/online meetings due to the size of the group.
   - Members are expected to read the chapters from the main book.
@@ -152,7 +152,7 @@ In case we need to review a proof topic, we can use following book and its playl
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 07-08 \hfill \faCalendar* 04 December - 17 December**
+## **Week 07-08-09 \hfill \faCalendar* 04 December - 24 December**
 
 \begin{itemize}
   \item[\faBook] MA, Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
@@ -161,7 +161,7 @@ In case we need to review a proof topic, we can use following book and its playl
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 09-10 \hfill \faCalendar* 18 December - 31 December**
+## **Week 10-11-12 \hfill \faCalendar* 25 December - 14 January**
 
 \begin{itemize}
   \item[\faBook] MA, Chapter 12: Matrix inequalities
