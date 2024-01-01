@@ -1,7 +1,7 @@
 ## Proof-Based Math Readings
 
 - **Proof-Based Math Readings** is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-- Our reading group has **24 members** for now and accepts new members.
+- Our reading group has **25 members** for now and accepts new members.
 - Please use the [:page_facing_up: Application Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join the reading group.
 - People who applied will be informed about their application results within a week via email.
 
@@ -15,6 +15,7 @@
 
 :date: Term | :closed_book: Book | :scroll: Syllabus | :hourglass: Duration 
 :--: | :--: | :--: | :--:
+2024 Fall | A First Course in Optimization Theory <br> - Rangarajan K. Sundaram (1996) | Soon! | 12 weeks
 2024 Summer | Measure, Integration & Real Analysis <br> - Sheldon Axler (2023) | Soon! | 12 weeks
 2024 Spring | Linear Algebra Done Right <br> - Sheldon Axler (4th Edition, 2024) | [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) | 12 weeks
 2023 Winter | Topology <br> - James Munkres (2nd Edition, 2014) | [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf) | 10 weeks
