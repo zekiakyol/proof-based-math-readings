@@ -66,7 +66,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 - *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 - This session of the reading group is on *Linear Algebra*.
-- This session is dedicated to Sheldon Axler's cat, [\faCat Moon](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf#page=6), who passed away in August 2023.
+- This session is dedicated to Sheldon Axler's lovely cat, [\faCat Moon](https://twitter.com/AxlerLinear/status/1691162877888204800), who passed away in August 2023.
 
 # Prerequisites
 
