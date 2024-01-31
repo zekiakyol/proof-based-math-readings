@@ -121,14 +121,14 @@ In case we need to remember a topic from calculus, we can use these playlists.
 
 # Reading Schedule
 
-I recommend this study routine:
+I recommend the study routine below:
 
-  1) We read the chapter from the main book.
-  2) We watch the main playlist of the chapter.
-  3) We solve odd-numbered exercises and check their solutions at the end of the main book. 
-  4) We solve even-numbered exercises in the main book.
-  5) If we cannot solve/understand an exercise, we discuss the exercise in our Discord server.
-  6) We move on to the next chapter of the main book.
+1) Read a chapter from the main book.
+2) Watch the main playlist of the chapter.
+3) Solve odd-numbered exercises and check their solutions at the end of the main book.
+4) Solve even-numbered exercises in the main book.
+5) If you cannot solve/understand an exercise, discuss the exercise in our Discord server.
+6) Move on to the next chapter of the main book.
 
 ::: {.callout-tip icon=false}
 ## **Week 01 \hfill \faCalendar* 12 June - 18 June**
@@ -174,8 +174,7 @@ I recommend this study routine:
 ## **Week 05-06 \hfill \faCalendar* 10 July - 23 July**
 
 \begin{itemize}
-  \item[] These two chapters are essential for real analysis, so they are more challenging than the previous ones. \\
-          We first read Chapter 14, then Chapter 13.
+  \item[] We first read Chapter 14, then Chapter 13. These chapters are more challenging than the previous ones.
   \item[\faBook] Book of Proof, Chapter 14: Cardinality of Sets
   \item[\faBook] Book of Proof, Chapter 13: Proofs in Calculus
 \end{itemize}
@@ -183,8 +182,7 @@ I recommend this study routine:
 
 # Further Readings (Optional)
 
-If we want to solve more problems after this session, the following book will be extremely helpful.  
-The book itself is not open-access but its official slides are.
+We can use the following book to solve more problems. Although the book is not open-access, its official slides are.
 
 ::: {.callout-note icon=false}
 ## 
