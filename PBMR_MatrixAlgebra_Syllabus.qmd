@@ -116,12 +116,13 @@ In case we need to review a proof topic, we can use following book and its playl
 
 # Reading Schedule
 
-- **MA** is the abrevviation of Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005) in the previous page.
+- **MA** is the abrevviation of **Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)**.
   
 ::: {.callout-tip icon=false}
 ## **Week 01-02 \hfill \faCalendar* 23 October - 05 November**
 
 \begin{itemize}
+  \item[\faBook] MA, Appendix A: Some mathematical tools
   \item[\faBook] MA, Appendix B: Notation
   \item[\faBook] MA, Chapter 1: Vectors
   \item[\faBook] MA, Chapter 2: Matrices
@@ -168,14 +169,4 @@ In case we need to review a proof topic, we can use following book and its playl
 
 # Further Readings (Optional)
 
-If we want to read a more abstract book, the following book and its playlist are great.
-
-::: {.callout-note icon=false}
-## 
-\begin{itemize}
-  \item[\faBook] \href{https://linear.axler.net}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Companion playlist to the book)}
-  \item[] 
-  \item[] We also have a session on Linear Algebra at \href{https://github.com/zekiakyol/proof-based-math-readings}{github.com/zekiakyol/proof-based-math-readings}
-\end{itemize}
-:::
+You can check out our Linear Algebra syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
