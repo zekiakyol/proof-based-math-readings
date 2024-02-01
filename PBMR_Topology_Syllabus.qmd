@@ -130,7 +130,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 
 # Reading Schedule
 
-**TM** is the abbreviation of **Topology - James Munkres (2nd Edition, 2014)**.
+- **TM** is the abbreviation of **Topology - James Munkres (2nd Edition, 2014)**.
 
 ::: {.callout-tip icon=false}
 ## **Week 01 \hfill \faCalendar* 15 January - 21 January**
