@@ -1,0 +1,202 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Statistics**  \n 2024 Winter"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.8cm
+      - left=1.8cm
+      - top=1.7cm
+      - bottom=1.7cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+```
+
+\newpage
+
+# Motivation 
+
+- *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+- This session of the reading group is on *Statistics*.
+
+# Prerequisites
+
+- CGPA: 3.00/4.00
+- [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Summary Material)](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf)
+- [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Playlist)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+- [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions and Errata)](http://athenasc.com/probbook.html)
+- Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Applicants will be informed about their application results within a week via email.
+
+# Format
+
+- This session will last 12 weeks.
+- We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
+- We will not have face-to-face/online meetings due to the size of the group.
+- Members are expected to read the chapters from the book's playlist.
+
+# Resources
+
+## Main Book and Main Book's Playlist
+
+**Statistical Inference** by George Casella and Roger Berger is our main book because it is a well-written and well-structured.
+
+\begin{itemize}
+  \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)
+  \item[\faBook] \href{https://archived.stat.ufl.edu/casella/class/errata7.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Errata)}
+  \item[\faBook] \href{https://www.ams.sunysb.edu/~zhu/ams570/Solutions-Casella-Berger.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Solutions)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist by for Chapter 1-5)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist for Chapter 5-9)}
+\end{itemize}
+
+## Supplementary
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+  \item[\faBook] \href{https://summit.plymouth.edu/bitstream/handle/20.500.12774/381/psu-oer-024.pdf?sequence=1&isAllowed=y}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion workbook by Justin Wright)}
+\end{itemize}
+
+### Real Analysis
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist to Basic Analysis I)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+**SI** is the abbreviation of **Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)**.
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01**
+
+\begin{itemize}
+  \item[\textbf{1}] Set Theory, \textbf{2} Basics of Probability Theory, \textbf{3} Conditional Probability and Independence,
+  \item[\textbf{4}] Random Variables, \textbf{5} Distribution Functions, \textbf{6} Density and Mass Functions
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 2: Transformations and Expectations \hfill Week 02**
+
+\begin{itemize}
+  \item[\textbf{1}] Distributions of a Random Variable
+  \item[\textbf{2}] Expected Values
+  \item[\textbf{3}] Moments and Moment Generating Functions
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 3: Common Families of Distributions \hfill Week 03-04**
+
+\begin{itemize}
+  \item[\textbf{1}] Introduction
+  \item[\textbf{2}] Discrete Distributions
+  \item[\textbf{3}] Continuous Distributions
+  \item[\textbf{4}] Exponential Families
+  \item[\textbf{5}] Location and Scale Families
+  \item[\textbf{6}] Inequality and Identities
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 4: Multiple Random Variables \hfill Week 05-06**
+
+\begin{itemize}
+  \item[\textbf{1}] Joint and Marginal Distributions
+  \item[\textbf{2}] Conditional Distributions and Independence
+  \item[\textbf{3}] Bivariate Transformations
+  \item[\textbf{4}] Hierarchical Models and Mixture Distributions
+  \item[\textbf{5}] Covariance and Correlation
+  \item[\textbf{6}] Multivariate Distributions
+  \item[\textbf{7}] Inequalities
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 5: Properties of a Random Sample \hfill Week 07-08**
+
+\begin{itemize}
+  \item[\textbf{1}] Basic Concepts of Random Samples
+  \item[\textbf{2}] Sums of Random Variables from a Random Sample
+  \item[\textbf{3}] Sampling from the Normal Distribution
+  \item[\textbf{4}] Order Statistics
+  \item[\textbf{5}] Convergence Concepts
+  \item[\textbf{6}] Generating a Random Sample
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 6: Principles of Data Reduction \hfill Week 09-10**
+
+\begin{itemize}
+  \item[\textbf{1}] Introduction
+  \item[\textbf{2}] The Sufficiency Principle
+  \item[\textbf{3}] The Likelihood Principle
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 7: Point Estimation \hfill Week 11-12**
+
+\begin{itemize}
+  \item[\textbf{1}] Introduction
+  \item[\textbf{2}] Methods of Finding Estimators
+  \item[\textbf{3}] Methods of Evaluating Estimators
+\end{itemize}
+:::
