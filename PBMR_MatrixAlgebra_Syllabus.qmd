@@ -77,7 +77,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Format
 
-- This session will last 10 weeks.
+- This session will last 12 weeks.
 - We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
 - We will not have face-to-face/online meetings due to the size of the group.
 - Members are expected to read the chapters from the main book.
@@ -122,11 +122,11 @@ In case we need to review a proof topic, we can use following book and its playl
 ## **Week 01-02 \hfill \faCalendar* 23 October - 05 November**
 
 \begin{itemize}
-  \item[\faBook] MA, Appendix A: Some mathematical tools
-  \item[\faBook] MA, Appendix B: Notation
-  \item[\faBook] MA, Chapter 1: Vectors
-  \item[\faBook] MA, Chapter 2: Matrices
-  \item[\faBook] MA, Chapter 4: Rank, inverse, and determinant
+  \item[\faBook] \textbf{MA}, Appendix A: Some mathematical tools
+  \item[\faBook] \textbf{MA}, Appendix B: Notation
+  \item[\faBook] \textbf{MA}, Chapter 1: Vectors
+  \item[\faBook] \textbf{MA}, Chapter 2: Matrices
+  \item[\faBook] \textbf{MA}, Chapter 4: Rank, inverse, and determinant
 \end{itemize}
 :::
 
@@ -134,8 +134,8 @@ In case we need to review a proof topic, we can use following book and its playl
 ## **Week 03-04 \hfill \faCalendar* 06 November - 19 November**
 
 \begin{itemize}
-  \item[\faBook] MA, Chapter 5: Partitioned matrices
-  \item[\faBook] MA, Chapter 6: Systems of equations
+  \item[\faBook] \textbf{MA}, Chapter 5: Partitioned matrices
+  \item[\faBook] \textbf{MA}, Chapter 6: Systems of equations
 \end{itemize}
 :::
 
@@ -143,8 +143,8 @@ In case we need to review a proof topic, we can use following book and its playl
 ## **Week 05-06 \hfill \faCalendar* 20 November - 03 December**
 
 \begin{itemize}
-  \item[\faBook] MA, Chapter 7: Eigenvalues, eigenvectors, and factorizations
-  \item[\faBook] MA, Chapter 8: Positive (semi)definite and idempotent matrices
+  \item[\faBook] \textbf{MA}, Chapter 7: Eigenvalues, eigenvectors, and factorizations
+  \item[\faBook] \textbf{MA}, Chapter 8: Positive (semi)definite and idempotent matrices
 \end{itemize}
 :::
 
@@ -152,8 +152,8 @@ In case we need to review a proof topic, we can use following book and its playl
 ## **Week 07-08-09 \hfill \faCalendar* 04 December - 24 December**
 
 \begin{itemize}
-  \item[\faBook] MA, Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
-  \item[\faBook] MA, Chapter 11: Patterned matrices: commutation- and duplication matrix
+  \item[\faBook] \textbf{MA}, Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
+  \item[\faBook] \textbf{MA}, Chapter 11: Patterned matrices: commutation- and duplication matrix
 \end{itemize}
 :::
 
@@ -161,9 +161,9 @@ In case we need to review a proof topic, we can use following book and its playl
 ## **Week 10-11-12 \hfill \faCalendar* 25 December - 14 January**
 
 \begin{itemize}
-  \item[\faBook] MA, Chapter 12: Matrix inequalities
-  \item[\faBook] MA, Chapter 13: Matrix calculus
-  \item[\faBook] MA, Chapter 3: Vector spaces (Optional)
+  \item[\faBook] \textbf{MA}, Chapter 12: Matrix inequalities
+  \item[\faBook] \textbf{MA}, Chapter 13: Matrix calculus
+  \item[\faBook] \textbf{MA}, Chapter 3: Vector spaces (Optional)
 \end{itemize}
 :::
 
