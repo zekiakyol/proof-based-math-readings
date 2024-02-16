@@ -9,7 +9,7 @@
   <tr>
     <td valign="top"><img src="https://github.com/zekiakyol/logos/blob/main/logos_png/proofbasedmath_readings_logo.png" width="300"></td>
   </tr>
-</table> 
+</table>
 
 ## Syllabuses
 
@@ -23,6 +23,14 @@
 2023 Fall   | Matrix Algebra <br> - Karim M. Abadir, Jan R. Magnus (2005) | [Matrix Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MatrixAlgebra_Syllabus.pdf) | 12 weeks
 2023 Fall   | Basic Analysis I <br> - Jiri Lebl (Version 6.0, 2023) | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | 12 weeks
 2023 Summer | Book of Proof <br> - Richard Hammack (3.3 Edition, 2022) | [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf) | 6 weeks
+
+## Dependency Tree
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github.com/zekiakyol/proof-based-math-readings/tree/main/figures/dependency_tree.png" width="800"></td>
+  </tr>
+</table>
 
 ## Licenses
 
