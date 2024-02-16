@@ -28,7 +28,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github.com/zekiakyol/proof-based-math-readings/tree/main/figures/dependency_tree.png" width="800"></td>
+    <td valign="top"><img src="https://github.com/zekiakyol/proof-based-math-readings/blob/main/figures/dependency_tree.png" width="800"></td>
   </tr>
 </table>
 
