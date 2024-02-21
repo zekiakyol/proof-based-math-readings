@@ -133,7 +133,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 - **TM** is the abbreviation of **Topology - James Munkres (2nd Edition, 2014)**.
 
 ::: {.callout-tip icon=false}
-## **Week 01 \hfill \faCalendar* 15 January - 21 January**
+## **\faCalendar* Week 01**
 
 \begin{itemize}
   \item[\faBook] \textbf{TM, Chapter 1: Set Theory and Logic}
@@ -152,7 +152,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 02-03-04-05 \hfill \faCalendar* 22 January - 18 February**
+## **\faCalendar* Week 02-03-04-05**
 
 \begin{itemize}
   \item[\faBook] \textbf{TM, Chapter 2: Topological Spaces and Continuous Functions}
@@ -171,7 +171,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 06-07-08-09 \hfill \faCalendar* 19 February - 10 March**
+## **\faCalendar* Week 06-07-08-09**
 
 \begin{itemize}
   \item[\faBook] \textbf{TM, Chapter 3: Connectedness and Compactness}
@@ -186,7 +186,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 10-11-12 \hfill \faCalendar* 11 March - 24 March**
+## **\faCalendar* Week 10-11-12**
 
 \begin{itemize}
   \item[] This chapter is optional.

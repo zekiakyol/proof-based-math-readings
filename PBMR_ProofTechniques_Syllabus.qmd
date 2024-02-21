@@ -131,7 +131,7 @@ I recommend the study routine below:
 6) Move on to the next chapter of the main book.
 
 ::: {.callout-tip icon=false}
-## **Week 01 \hfill \faCalendar* 12 June - 18 June**
+## **\faCalendar* Week 01**
 
 \begin{itemize}
   \item[\faBook] Book of Proof, Chapter 1: Sets
@@ -141,7 +141,7 @@ I recommend the study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 02 \hfill \faCalendar* 19 June - 25 June**
+## **\faCalendar* Week 02**
 
 \begin{itemize}
   \item[\faBook] Book of Proof, Chapter 4: Direct Proof
@@ -151,7 +151,7 @@ I recommend the study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 03 \hfill \faCalendar* 26 June - 02 July**
+## **\faCalendar* Week 03**
 
 \begin{itemize}
   \item[\faBook] Book of Proof, Chapter 7: Proving Non-Conditional Statements
@@ -162,7 +162,7 @@ I recommend the study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 04 \hfill \faCalendar* 03 July - 09 July**
+## **\faCalendar* Week 04**
 
 \begin{itemize}
   \item[\faBook] Book of Proof, Chapter 11: Relations
@@ -171,7 +171,7 @@ I recommend the study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 05-06 \hfill \faCalendar* 10 July - 23 July**
+## **\faCalendar* Week 05-06**
 
 \begin{itemize}
   \item[] We first read Chapter 14, then Chapter 13. These chapters are more challenging than the previous ones.

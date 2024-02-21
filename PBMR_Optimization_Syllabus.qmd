@@ -116,7 +116,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 **AFSOC** is the abbreviation of **A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)**.
 
 ::: {.callout-tip icon=false}
-## **Week 01-02**
+## **\faCalendar* Week 01-02**
 
 \begin{itemize}
   \item[\faBook] AFSOC, Appendix A: Set Theory and Logic: An Introduction
@@ -127,7 +127,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 03-04**
+## **\faCalendar* Week 03-04**
 
 \begin{itemize}
   \item[\faBook] AFSOC, Chapter 2: Optimization in $\mathbb{R}^n$
@@ -135,7 +135,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 05-06**
+## **\faCalendar* Week 05-06**
 
 \begin{itemize}
   \item[\faBook] AFSOC, Chapter 3: Existence of Solutions: The Weierstrass Theorem
@@ -144,7 +144,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 07-08**
+## **\faCalendar* Week 07-08**
 
 \begin{itemize}
   \item[\faBook] AFSOC, Chapter 5: Equality Constraints and the Theorem of Lagrange
@@ -153,7 +153,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 09-10**
+## **\faCalendar* Week 09-10**
 
 \begin{itemize}
   \item[\faBook] AFSOC, Chapter 7: Convex Structures in Optimization Theory
@@ -162,7 +162,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **Week 11-12**
+## **\faCalendar* Week 11-12**
 
 \begin{itemize}
   \item[\faBook] AFSOC, Chapter 11: Finite-Horizon Dynamic Programming

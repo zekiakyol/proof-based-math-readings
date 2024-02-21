@@ -123,7 +123,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 **SI** is the abbreviation of **Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)**.
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01**
+## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Set Theory, \textbf{2} Basics of Probability Theory, \textbf{3} Conditional Probability and Independence,
@@ -132,7 +132,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 2: Transformations and Expectations \hfill Week 02**
+## **\faBook SI, Chapter 2: Transformations and Expectations \hfill Week 02 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Distributions of a Random Variable
@@ -142,7 +142,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 3: Common Families of Distributions \hfill Week 03-04**
+## **\faBook SI, Chapter 3: Common Families of Distributions \hfill Week 03-04 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Introduction
@@ -155,7 +155,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 4: Multiple Random Variables \hfill Week 05-06**
+## **\faBook SI, Chapter 4: Multiple Random Variables \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Joint and Marginal Distributions
@@ -169,7 +169,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 5: Properties of a Random Sample \hfill Week 07-08**
+## **\faBook SI, Chapter 5: Properties of a Random Sample \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Basic Concepts of Random Samples
@@ -182,7 +182,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 6: Principles of Data Reduction \hfill Week 09-10**
+## **\faBook SI, Chapter 6: Principles of Data Reduction \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Introduction
@@ -192,7 +192,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 7: Point Estimation \hfill Week 11-12**
+## **\faBook SI, Chapter 7: Point Estimation \hfill Week 11-12 \faCalendar* **
 
 \begin{itemize}
   \item[\textbf{1}] Introduction
