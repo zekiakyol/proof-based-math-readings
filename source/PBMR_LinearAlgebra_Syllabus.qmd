@@ -73,14 +73,14 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 - CGPA: 3.00/4.00
 - [\faBook Book of Proof - Richard Hammack (3.3 Edition, 2022)](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 - [\faYoutube Linear Algebra - Gilbert Strang (2005)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-- Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
-- Applicants will be informed about their application results within a week via email.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Applicants are informed about their application results within a week via email.
 
 # Format
 
-- This session will last 12 weeks.
-- We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
-- We will not have face-to-face/online meetings due to the size of the group.
+- This session takes 12 weeks.
+- We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+- We do not have face-to-face/online meetings due to the size of the group.
 - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
 
 # Resources [All are open-access]

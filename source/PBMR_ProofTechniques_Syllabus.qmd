@@ -70,14 +70,14 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 # Prerequisites
 
 - CGPA: 3.00/4.00
-- Please use our [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
-- Applicants will be informed about their application results within a week via email.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Applicants are informed about their application results within a week via email.
 
 # Format
 
-- This session will last 6 weeks.
-- We will discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com/).
-- We will not have face-to-face/online meetings due to the size of the group.
+- This session takes 6 weeks.
+- We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+- We do not have face-to-face/online meetings due to the size of the group.
 - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
 
 # Resources [All are open-access]
@@ -97,7 +97,7 @@ Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his n
 ### Proof
 
 In case we need to watch a proof topic from another instructor, we have 2 additional companion playlists.  
-Because our main playlist does not cover Chapter 13-14, we will cover these chapters from Penn's playlist.
+Because our main playlist does not cover Chapter 13-14, we cover these chapters from Michael Penn's playlist.
 
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn, Chapter 1-14)}
@@ -121,14 +121,14 @@ In case we need to remember a topic from calculus, we can use these playlists.
 
 # Reading Schedule
 
-I recommend the study routine below:
+I recommend the following study routine below:
 
-1) Read a chapter from the main book.
-2) Watch the main playlist of the chapter.
-3) Solve odd-numbered exercises and check their solutions at the end of the main book.
-4) Solve even-numbered exercises in the main book.
+1) Read a chapter from the book.
+2) Watch the playlist of the chapter.
+3) Solve odd-numbered exercises and check their solutions at the end of the book.
+4) Solve even-numbered exercises in the book.
 5) If you cannot solve/understand an exercise, discuss the exercise in our Discord server.
-6) Move on to the next chapter of the main book.
+6) Move on to the next chapter of the book.
 
 ::: {.callout-tip icon=false}
 ## **\faCalendar* Week 01**
