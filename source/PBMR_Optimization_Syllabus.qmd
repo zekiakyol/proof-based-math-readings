@@ -84,7 +84,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**A First Course in Optimization Theory** by Rangarajan K. Sundaram is our main book because it is a well-written and well-structured.
+**A First Course in Optimization Theory** by Rangarajan K. Sundaram is our main book because it is well-written and well-structured.
 
 \begin{itemize}
   \item[\faBook] A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)

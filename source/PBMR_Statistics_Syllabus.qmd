@@ -87,17 +87,24 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Statistical Inference** by George Casella and Roger Berger is our main book because it is a well-written and well-structured.
+**Statistical Inference** by George Casella and Roger Berger is our main book because it is well-written and well-structured.
 
 \begin{itemize}
   \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)
   \item[\faBook] \href{https://archived.stat.ufl.edu/casella/class/errata7.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Errata)}
   \item[\faBook] \href{https://www.ams.sunysb.edu/~zhu/ams570/Solutions-Casella-Berger.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Solutions)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist by for Chapter 1-5)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist for Chapter 1-5)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist for Chapter 5-9)}
 \end{itemize}
 
 ## Supplementary
+
+### Statistics
+
+\begin{itemize}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg}{Introduction to Mathematical Statistics - Jingyi Jessica Li (2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR}{Mathematical Statistics - Jem N. Corcoran (2024)}
+\end{itemize}
 
 ### Proof
 
@@ -105,7 +112,6 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
   \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
-  \item[\faBook] \href{https://summit.plymouth.edu/bitstream/handle/20.500.12774/381/psu-oer-024.pdf?sequence=1&isAllowed=y}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion workbook by Justin Wright)}
 \end{itemize}
 
 ### Real Analysis
