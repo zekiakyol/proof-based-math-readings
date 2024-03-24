@@ -80,7 +80,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 - We do not have face-to-face/online meetings due to the size of the group.
 - Members are expected to read the chapters from the book.
 
-# Resources [All are open-access]
+# Resources
 
 ## Main Book and Main Book's Playlist
 
@@ -98,7 +98,6 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
   \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
   \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
-  \item[\faBook] \href{https://summit.plymouth.edu/bitstream/handle/20.500.12774/381/psu-oer-024.pdf?sequence=1&isAllowed=y}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion workbook by Justin Wright)}
 \end{itemize}
 
 ### Real Analysis
@@ -113,16 +112,16 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Reading Schedule
 
-**AFSOC** is the abbreviation of **A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)**.
+**AFCOT** is the abbreviation of **A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)**.
 
 ::: {.callout-tip icon=false}
 ## **\faCalendar* Week 01-02**
 
 \begin{itemize}
-  \item[\faBook] AFSOC, Appendix A: Set Theory and Logic: An Introduction
-  \item[\faBook] AFSOC, Appendix B: The Real Line
-  \item[\faBook] AFSOC, Appendix C: Structures on Vector Spaces
-  \item[\faBook] AFSOC, Chapter 1: Mathematical Preliminaries
+  \item[\faBook] AFCOT, Appendix A: Set Theory and Logic: An Introduction
+  \item[\faBook] AFCOT, Appendix B: The Real Line
+  \item[\faBook] AFCOT, Appendix C: Structures on Vector Spaces
+  \item[\faBook] AFCOT, Chapter 1: Mathematical Preliminaries
 \end{itemize}
 :::
 
@@ -130,7 +129,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 ## **\faCalendar* Week 03-04**
 
 \begin{itemize}
-  \item[\faBook] AFSOC, Chapter 2: Optimization in $\mathbb{R}^n$
+  \item[\faBook] AFCOT, Chapter 2: Optimization in $\mathbb{R}^n$
 \end{itemize}
 :::
 
@@ -138,8 +137,8 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 ## **\faCalendar* Week 05-06**
 
 \begin{itemize}
-  \item[\faBook] AFSOC, Chapter 3: Existence of Solutions: The Weierstrass Theorem
-  \item[\faBook] AFSOC, Chapter 4: Unconstrained Optima
+  \item[\faBook] AFCOT, Chapter 3: Existence of Solutions: The Weierstrass Theorem
+  \item[\faBook] AFCOT, Chapter 4: Unconstrained Optima
 \end{itemize}
 :::
 
@@ -147,8 +146,8 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 ## **\faCalendar* Week 07-08**
 
 \begin{itemize}
-  \item[\faBook] AFSOC, Chapter 5: Equality Constraints and the Theorem of Lagrange
-  \item[\faBook] AFSOC, Chapter 6: Inequality Constraints and the Theorem of Kuhn and Tucker
+  \item[\faBook] AFCOT, Chapter 5: Equality Constraints and the Theorem of Lagrange
+  \item[\faBook] AFCOT, Chapter 6: Inequality Constraints and the Theorem of Kuhn and Tucker
 \end{itemize}
 :::
 
@@ -156,8 +155,8 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 ## **\faCalendar* Week 09-10**
 
 \begin{itemize}
-  \item[\faBook] AFSOC, Chapter 7: Convex Structures in Optimization Theory
-  \item[\faBook] AFSOC, Chapter 8: Quasi-Convexity and Optimization
+  \item[\faBook] AFCOT, Chapter 7: Convex Structures in Optimization Theory
+  \item[\faBook] AFCOT, Chapter 8: Quasi-Convexity and Optimization
 \end{itemize}
 :::
 
@@ -165,7 +164,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 ## **\faCalendar* Week 11-12**
 
 \begin{itemize}
-  \item[\faBook] AFSOC, Chapter 11: Finite-Horizon Dynamic Programming
-  \item[\faBook] AFSOC, Chapter 12: Stationary Discounted Dynamic Programming
+  \item[\faBook] AFCOT, Chapter 11: Finite-Horizon Dynamic Programming
+  \item[\faBook] AFCOT, Chapter 12: Stationary Discounted Dynamic Programming
 \end{itemize}
 :::
