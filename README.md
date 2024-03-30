@@ -7,7 +7,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github.com/zekiakyol/logos/blob/main/logos_png/proofbasedmath_readings_logo.png" width="300"></td>
+    <td valign="top"><img src="https://github.com/zekiakyol/proof-based-math-readings/blob/main/source/figures/proofbasedmath_readings_logo_square.gif" width="300"></td>
   </tr>
 </table>
 
