@@ -166,7 +166,6 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
   \item[] \textbf{19} The Product Topology
   \item[] \textbf{20} The Metric Topology
   \item[] \textbf{21} The Metric Topology (continued)
-  \item[] \textbf{22} The Quotient Topology
 \end{itemize}
 :::
 
@@ -195,6 +194,5 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
   \item[] \textbf{32} Normal Spaces
   \item[] \textbf{33} The Urysohn Lemma
   \item[] \textbf{34} The Urysohn Metrization Theorem
-  \item[] \textbf{35} The Tietze Extension Theorem
 \end{itemize}
 :::

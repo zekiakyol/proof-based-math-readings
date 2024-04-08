@@ -126,7 +126,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 # Reading Schedule
 
-**SI** is the abbreviation of **Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)**.
+- **SI** is the abbreviation of **Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01 \faCalendar* **

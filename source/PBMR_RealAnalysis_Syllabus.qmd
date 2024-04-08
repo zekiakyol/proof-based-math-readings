@@ -182,22 +182,12 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 10-11**
+## **\faCalendar* Week 10-11-12**
 
 \begin{itemize}
   \item[\faBook] \textbf{BAI, Chapter 5: The Riemann Integral}
   \item[] BAI, Chapter 5.1: The Riemann integral
   \item[] BAI, Chapter 5.2: Properties of the integral
   \item[] BAI, Chapter 5.3: Fundamental theorem of calculus
-\end{itemize}
-:::
-
-::: {.callout-tip icon=false}
-## **\faCalendar* Week 12**
-
-\begin{itemize}
-  \item[\faBook] \textbf{BAI, Chapter 6: Sequence of Functions}
-  \item[] BAI, Chapter 6.1: Pointwise and uniform convergence
-  \item[] BAI, Chapter 6.2: Interchange of limits
 \end{itemize}
 :::
