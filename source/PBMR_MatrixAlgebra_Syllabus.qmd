@@ -117,13 +117,22 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 - **MA** is the abbreviation of **Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)**.
   
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 01-02**
+## **\faCalendar* Week 01**
 
 \begin{itemize}
   \item[\faBook] \textbf{MA}, Appendix A: Some mathematical tools
   \item[\faBook] \textbf{MA}, Appendix B: Notation
   \item[\faBook] \textbf{MA}, Chapter 1: Vectors
   \item[\faBook] \textbf{MA}, Chapter 2: Matrices
+  
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faCalendar* Week 02**
+
+\begin{itemize}
+  \item[\faBook] \textbf{MA}, Chapter 3: Vector spaces
   \item[\faBook] \textbf{MA}, Chapter 4: Rank, inverse, and determinant
 \end{itemize}
 :::
@@ -161,7 +170,6 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 \begin{itemize}
   \item[\faBook] \textbf{MA}, Chapter 12: Matrix inequalities
   \item[\faBook] \textbf{MA}, Chapter 13: Matrix calculus
-  \item[\faBook] \textbf{MA}, Chapter 3: Vector spaces (Optional)
 \end{itemize}
 :::
 

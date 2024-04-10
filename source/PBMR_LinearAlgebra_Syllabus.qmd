@@ -188,3 +188,7 @@ Robert Won's playlist is our main playlist because his narrative is just great.
   \item[] \textbf{7E:} Singular Value Decomposition
 \end{itemize}
 :::
+
+# Further Readings (Optional)
+
+You can check out our Matrix Algebra syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
