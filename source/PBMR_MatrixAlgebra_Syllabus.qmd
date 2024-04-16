@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -86,7 +86,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book
 
-**Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)** is our main book because it is well-structured and well-written.
+**Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)** is our main book because it is well-structured and well-written. It also provides detailed solutions for exercises in the book.
 
 \begin{itemize}
   \item[\faBook] Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)
@@ -117,59 +117,59 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 - **MA** is the abbreviation of **Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)**.
   
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 01**
+## **\faBook MA \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{MA}, Appendix A: Some mathematical tools
-  \item[\faBook] \textbf{MA}, Appendix B: Notation
-  \item[\faBook] \textbf{MA}, Chapter 1: Vectors
-  \item[\faBook] \textbf{MA}, Chapter 2: Matrices
+  \item[] Appendix A: Some mathematical tools
+  \item[] Appendix B: Notation
+  \item[] Chapter 1: Vectors
+  \item[] Chapter 2: Matrices
   
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 02**
+## **\faBook MA \hfill Week 02 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{MA}, Chapter 3: Vector spaces
-  \item[\faBook] \textbf{MA}, Chapter 4: Rank, inverse, and determinant
+  \item[] Chapter 3: Vector spaces
+  \item[] Chapter 4: Rank, inverse, and determinant
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 03-04**
+## **\faBook MA \hfill Week 03-04 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{MA}, Chapter 5: Partitioned matrices
-  \item[\faBook] \textbf{MA}, Chapter 6: Systems of equations
+  \item[] Chapter 5: Partitioned matrices
+  \item[] Chapter 6: Systems of equations
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 05-06**
+## **\faBook MA \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{MA}, Chapter 7: Eigenvalues, eigenvectors, and factorizations
-  \item[\faBook] \textbf{MA}, Chapter 8: Positive (semi)definite and idempotent matrices
+  \item[] Chapter 7: Eigenvalues, eigenvectors, and factorizations
+  \item[] Chapter 8: Positive (semi)definite and idempotent matrices
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 07-08-09**
+## **\faBook MA \hfill Week 07-08-09 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{MA}, Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
-  \item[\faBook] \textbf{MA}, Chapter 11: Patterned matrices: commutation- and duplication matrix
+  \item[] Chapter 10: Kronecker product, vec-operator, and Moore-Penrose inverse
+  \item[] Chapter 11: Patterned matrices: commutation- and duplication matrix
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 10-11-12**
+## **\faBook MA \hfill Week 10-11-12 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{MA}, Chapter 12: Matrix inequalities
-  \item[\faBook] \textbf{MA}, Chapter 13: Matrix calculus
+  \item[] Chapter 12: Matrix inequalities
+  \item[] Chapter 13: Matrix calculus
 \end{itemize}
 :::
 

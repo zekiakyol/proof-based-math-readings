@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -84,7 +84,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Book of Proof** by Richard Hammack is our main book because it is a well-written and well-structured pedagogical masterpiece. It is also open-access and provides detailed solutions for odd-numbered exercises at the end of the book.  
+**Book of Proof (3.3 Edition, 2022)** by Richard Hammack is our main book because it is a well-written and well-structured pedagogical masterpiece. It is also open-access and provides detailed solutions for odd-numbered exercises at the end of the book.  
 Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his narrative is just great.
 
 \begin{itemize}
@@ -96,7 +96,7 @@ Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his n
 
 ### Proof
 
-In case we need to watch a proof topic from another instructor, we have 2 additional companion playlists.  
+In case we need to watch a proof topic from another instructor, we have two additional companion playlists.  
 Because our main playlist does not cover Chapter 13-14, we cover these chapters from Michael Penn's playlist.
 
 \begin{itemize}
@@ -131,52 +131,52 @@ I recommend the following study routine below:
 6) Move on to the next chapter of the book.
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 01**
+## **\faBook Book of Proof \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] Book of Proof, Chapter 1: Sets
-  \item[\faBook] Book of Proof, Chapter 2: Logic
-  \item[\faBook] Book of Proof, Chapter 3: Counting
+  \item[] Chapter 1: Sets
+  \item[] Chapter 2: Logic
+  \item[] Chapter 3: Counting
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 02**
+## **\faBook Book of Proof \hfill Week 02 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] Book of Proof, Chapter 4: Direct Proof
-  \item[\faBook] Book of Proof, Chapter 5: Contrapositive Proof
-  \item[\faBook] Book of Proof, Chapter 6: Proof by Contradiction
+  \item[] Chapter 4: Direct Proof
+  \item[] Chapter 5: Contrapositive Proof
+  \item[] Chapter 6: Proof by Contradiction
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 03**
+## **\faBook Book of Proof \hfill Week 03 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] Book of Proof, Chapter 7: Proving Non-Conditional Statements
-  \item[\faBook] Book of Proof, Chapter 8: Proofs Involving Sets
-  \item[\faBook] Book of Proof, Chapter 9: Disproof
-  \item[\faBook] Book of Proof, Chapter 10: Mathematical Induction
+  \item[] Chapter 7: Proving Non-Conditional Statements
+  \item[] Chapter 8: Proofs Involving Sets
+  \item[] Chapter 9: Disproof
+  \item[] Chapter 10: Mathematical Induction
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 04**
+## **\faBook Book of Proof \hfill Week 04 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] Book of Proof, Chapter 11: Relations
-  \item[\faBook] Book of Proof, Chapter 12: Functions
+  \item[] Chapter 11: Relations
+  \item[] Chapter 12: Functions
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 05-06**
+## **\faBook Book of Proof \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
   \item[] We first read Chapter 14, then Chapter 13. These chapters are more challenging than the previous ones.
-  \item[\faBook] Book of Proof, Chapter 14: Cardinality of Sets
-  \item[\faBook] Book of Proof, Chapter 13: Proofs in Calculus
+  \item[] Chapter 14: Cardinality of Sets
+  \item[] Chapter 13: Proofs in Calculus
 \end{itemize}
 :::
 

@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -115,56 +115,56 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 **AFCOT** is the abbreviation of **A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)**.
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 01-02**
+## **\faBook AFCOT \hfill Week 01-02 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] AFCOT, Appendix A: Set Theory and Logic: An Introduction
-  \item[\faBook] AFCOT, Appendix B: The Real Line
-  \item[\faBook] AFCOT, Appendix C: Structures on Vector Spaces
-  \item[\faBook] AFCOT, Chapter 1: Mathematical Preliminaries
+  \item[] Appendix A: Set Theory and Logic: An Introduction
+  \item[] Appendix B: The Real Line
+  \item[] Appendix C: Structures on Vector Spaces
+  \item[] Chapter 1: Mathematical Preliminaries
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 03-04**
+## **\faBook AFCOT \hfill Week 03-04 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] AFCOT, Chapter 2: Optimization in $\mathbb{R}^n$
+  \item[] Chapter 2: Optimization in $\mathbb{R}^n$
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 05-06**
+## **\faBook AFCOT \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] AFCOT, Chapter 3: Existence of Solutions: The Weierstrass Theorem
-  \item[\faBook] AFCOT, Chapter 4: Unconstrained Optima
+  \item[] Chapter 3: Existence of Solutions: The Weierstrass Theorem
+  \item[] Chapter 4: Unconstrained Optima
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 07-08**
+## **\faBook AFCOT \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] AFCOT, Chapter 5: Equality Constraints and the Theorem of Lagrange
-  \item[\faBook] AFCOT, Chapter 6: Inequality Constraints and the Theorem of Kuhn and Tucker
+  \item[] Chapter 5: Equality Constraints and the Theorem of Lagrange
+  \item[] Chapter 6: Inequality Constraints and the Theorem of Kuhn and Tucker
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 09-10**
+## **\faBook AFCOT \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] AFCOT, Chapter 7: Convex Structures in Optimization Theory
-  \item[\faBook] AFCOT, Chapter 8: Quasi-Convexity and Optimization
+  \item[] Chapter 7: Convex Structures in Optimization Theory
+  \item[] Chapter 8: Quasi-Convexity and Optimization
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 11-12**
+## **\faBook AFCOT \hfill Week 11-12 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] AFCOT, Chapter 11: Finite-Horizon Dynamic Programming
-  \item[\faBook] AFCOT, Chapter 12: Stationary Discounted Dynamic Programming
+  \item[] Chapter 11: Finite-Horizon Dynamic Programming
+  \item[] Chapter 12: Stationary Discounted Dynamic Programming
 \end{itemize}
 :::

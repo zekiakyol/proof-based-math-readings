@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -87,7 +87,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Linear Algebra Done Right** by Sheldon Axler is our main book for this session because it is well-written, well-structured, and open-access.  
+**Linear Algebra Done Right (4th Edition, 2024)** by Sheldon Axler is our main book for this session because it is well-written, well-structured, and open-access.  
 
 Robert Won's playlist is our main playlist because his narrative is just great.
 

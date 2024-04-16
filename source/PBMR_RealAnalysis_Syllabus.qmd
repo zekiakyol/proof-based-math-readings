@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -129,65 +129,66 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 - We use Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions) for exercises.
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 01-02**
+## **\faBook BAI, Chapter 0: Introduction \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{BAI, List of Notation} (Page 309-312)
-  \item[\faBook] \textbf{BAI, Chapter 0: Introduction}
-  \item[] BAI, Chapter 0.1: About this book
-  \item[] BAI, Chapter 0.2: About analysis
-  \item[] BAI, Chapter 0.3: Basic set theory
-  \item[\faBook] \textbf{BAI, Chapter 1: Real Numbers}
-  \item[] BAI, Chapter 1.1: Basic properties
-  \item[] BAI, Chapter 1.2: The set of real numbers
-  \item[] BAI, Chapter 1.3: Absolute value and bounded functions
-  \item[] BAI, Chapter 1.4: Intervals and the size of $\mathbb{R}$
+  \item[] List of Notation (Page 309-312)
+  \item[] \textbf{0.1} About this book
+  \item[] \textbf{0.2} About analysis
+  \item[] \textbf{0.3} Basic set theory
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 03-04-05**
+## **\faBook BAI, Chapter 1: Real Numbers \hfill Week 02 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{BAI, Chapter 2: Sequence and Series}
-  \item[] BAI, Chapter 2.1: Sequences and limits
-  \item[] BAI, Chapter 2.2: Facts about limits of sequences
-  \item[] BAI, Chapter 2.3: Limit superior, limit inferior, and Bolzano-Weierstrass
-  \item[] BAI, Chapter 2.4: Cauchy sequences
-  \item[] BAI, Chapter 2.5: Series
+  \item[] \textbf{1.1} Basic properties
+  \item[] \textbf{1.2} The set of real numbers
+  \item[] \textbf{1.3} Absolute value and bounded functions
+  \item[] \textbf{1.4} Intervals and the size of $\mathbb{R}$
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 06-07**
+## **\faBook BAI, Chapter 2: Sequence and Series \hfill Week 03-04-05 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{BAI, Chapter 3: Continuous Functions}
-  \item[] BAI, Chapter 3.1: Limits of functions
-  \item[] BAI, Chapter 3.2: Continuous functions
-  \item[] BAI, Chapter 3.3: Extreme and intermediate value theorems
-  \item[] BAI, Chapter 3.4: Uniform continuity
+  \item[] \textbf{2.1} Sequences and limits
+  \item[] \textbf{2.2} Facts about limits of sequences
+  \item[] \textbf{2.3} Limit superior, limit inferior, and Bolzano-Weierstrass
+  \item[] \textbf{2.4} Cauchy sequences
+  \item[] \textbf{2.5} Series
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 08-09**
+## **\faBook BAI, Chapter 3: Continuous Functions \hfill Week 06-07-08 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{BAI, Chapter 4: The Derivative}
-  \item[] BAI, Chapter 4.1: The derivative
-  \item[] BAI, Chapter 4.2: Mean value theorem
-  \item[] BAI, Chapter 4.3: Taylor's theorem
+  \item[] \textbf{3.1} Limits of functions
+  \item[] \textbf{3.2} Continuous functions
+  \item[] \textbf{3.3} Extreme and intermediate value theorems
+  \item[] \textbf{3.4} Uniform continuity
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 10-11-12**
+## **\faBook BAI, Chapter 4: The Derivative \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{BAI, Chapter 5: The Riemann Integral}
-  \item[] BAI, Chapter 5.1: The Riemann integral
-  \item[] BAI, Chapter 5.2: Properties of the integral
-  \item[] BAI, Chapter 5.3: Fundamental theorem of calculus
+  \item[] \textbf{4.1} The derivative
+  \item[] \textbf{4.2} Mean value theorem
+  \item[] \textbf{4.3} Taylor's theorem
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BAI, Chapter 5: The Riemann Integral \hfill Week 11-12 \faCalendar* **
+
+\begin{itemize}
+  \item[] \textbf{5.1} The Riemann integral
+  \item[] \textbf{5.2} Properties of the integral
+  \item[] \textbf{5.3} Fundamental theorem of calculus
 \end{itemize}
 :::

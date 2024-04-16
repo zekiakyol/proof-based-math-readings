@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -133,10 +133,9 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 - **TM** is the abbreviation of **Topology - James Munkres (2nd Edition, 2014)**.
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 01**
+## **\faBook TM, Chapter 1: Set Theory and Logic \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{TM, Chapter 1: Set Theory and Logic}
   \item[] \textbf{1} Fundamental Concepts
   \item[] \textbf{2} Functions
   \item[] \textbf{3} Relations
@@ -152,10 +151,9 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 02-03-04-05**
+## **\faBook TM, Chapter 2: Topological Spaces and Continuous Functions \hfill Week 02-03-04-05 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{TM, Chapter 2: Topological Spaces and Continuous Functions}
   \item[] \textbf{12} Topological Spaces
   \item[] \textbf{13} Basis for a Topology
   \item[] \textbf{14} The Order Topology
@@ -170,10 +168,9 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 06-07-08-09**
+## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 06-07-08-09 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{TM, Chapter 3: Connectedness and Compactness}
   \item[] \textbf{23} Connected Spaces
   \item[] \textbf{24} Connected Subspaces of the Real Line
   \item[] \textbf{25} Components and Local Connectedness
@@ -185,10 +182,9 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **\faCalendar* Week 10-11-12**
+## **\faBook TM, Chapter 4: Countability and Separation Axioms \hfill Week 10-11-12 \faCalendar* **
 
 \begin{itemize}
-  \item[\faBook] \textbf{TM, Chapter 4: Countability and Separation Axioms}
   \item[] \textbf{30} The Countability Axioms
   \item[] \textbf{31} The Separation Axioms
   \item[] \textbf{32} Normal Spaces

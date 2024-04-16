@@ -57,7 +57,7 @@ library(knitr)
 #| echo: false
 #| fig-align: center
 #| out-width: 40%
-knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
 \newpage
@@ -87,7 +87,7 @@ knitr::include_graphics("figures/proofbasedmath_readings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Statistical Inference** by George Casella and Roger Berger is our main book because it is well-written and well-structured.
+**Statistical Inference (2nd Edition, 2001)** by George Casella and Roger Berger is our main book because it is well-written and well-structured.
 
 \begin{itemize}
   \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)
