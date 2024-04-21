@@ -87,7 +87,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 **A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006)** is our main book for this session because it is well-written and well-structured.
 
-Jem Corcoran's playlist is our main playlist because his narrative is just great.
+Jem Corcoran's playlist is our main playlist because her narrative is just great.
 
 \begin{itemize}
   \item[\faBook] A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006)
