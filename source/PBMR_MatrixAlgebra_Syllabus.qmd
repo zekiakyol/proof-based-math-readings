@@ -152,6 +152,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 \begin{itemize}
   \item[] Chapter 7: Eigenvalues, eigenvectors, and factorizations
   \item[] Chapter 8: Positive (semi)definite and idempotent matrices
+  \item[] Chapter 9: Matrix functions
 \end{itemize}
 :::
 

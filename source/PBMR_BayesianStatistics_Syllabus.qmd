@@ -19,8 +19,8 @@ format:
     papersize: letter
     fontsize: 10pt
     geometry: 
-      - right=1.9cm
-      - left=1.9cm
+      - right=1.6cm
+      - left=1.6cm
       - top=1.3cm
       - bottom=1.5cm
     toc: true
@@ -108,6 +108,14 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] \href{https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Summary Material)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Playlist)}
   \item[\faBook] \href{http://athenasc.com/probbook.html}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions \& Errata)}
+\end{itemize}
+
+### Bayesian Statistics
+
+\begin{itemize}
+  \item[\faBook] Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019)
+  \item[\faBook] \href{https://web.ics.purdue.edu/~jltobias/second_edition/errata.pdf}{Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019, Errata)}
+  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis, - Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin (3rd Edition, 2022)}
 \end{itemize}
 
 \newpage
