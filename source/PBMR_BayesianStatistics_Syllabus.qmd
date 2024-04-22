@@ -1,0 +1,175 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Bayesian Statistics**  \n 2024 Winter"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.9cm
+      - left=1.9cm
+      - top=1.3cm
+      - bottom=1.5cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
+```
+
+\newpage
+
+# Motivation 
+
+- *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+- This session of the reading group is on *Bayesian Statistics*.
+
+# Prerequisites
+
+- CGPA: 3.00/4.00.
+- Proof and Statistics books/playlists below are the prerequisites for this session.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Applicants are informed about their application results within a week via email.
+
+# Format
+
+- This session takes 12 weeks.
+- We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+- We do not have face-to-face/online meetings due to the size of the group.
+- Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+
+# Resources
+
+## Main Book
+
+**Bayesian Econometrics - Gary Koop (2003)** is our main book for this session because it is well-written and well-structured.
+
+\begin{itemize}
+  \item[\faBook] Bayesian Econometrics - Gary Koop (2003)
+  \item[\faBook] \href{http://personal.strath.ac.uk/gary.koop/sgpe_bayesian/corrections.pdf}{Bayesian Econometrics - Gary Koop (2003, Errata)}
+\end{itemize}
+
+## Supplementary
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+\end{itemize}
+
+### Statistics
+
+\begin{itemize}
+  \item[\faBook] \href{https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Summary Material)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Playlist)}
+  \item[\faBook] \href{http://athenasc.com/probbook.html}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions \& Errata)}
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+**BE** is the abbreviation of **Bayesian Econometrics - Gary Koop (2003)**.
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 01**
+
+\begin{itemize}
+  \item[] \textbf{Appendix A:} Introduction to Matrix Algebra
+  \item[] \textbf{Appendix B:} Introduction to Probability and Statistics
+  \item[] \textbf{1:} An Overview of Bayesian Econometrics
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 02**
+
+\begin{itemize}
+  \item[] \textbf{2:} The Normal Linear Regression Model with Natural Conjugate Prior and a Single Explanatory Variable
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 03-04**
+
+\begin{itemize}
+  \item[] \textbf{3:} The Normal Linear Regression Model with Natural Conjugate Prior and Many Explanatory Variables
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 05-06**
+
+\begin{itemize}
+  \item[] \textbf{4:} The Normal Linear Regression Model with Other Priors
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 07-08**
+
+\begin{itemize}
+  \item[] \textbf{5:} The Nonlinear Regression Model
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 09-10**
+
+\begin{itemize}
+  \item[] \textbf{6:} The Linear Regression Model with General Error Covariance Matrix
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook BE \hfill Week 11-12**
+
+\begin{itemize}
+  \item[] \textbf{7:} The Linear Regression Model with Panel Data
+\end{itemize}
+:::

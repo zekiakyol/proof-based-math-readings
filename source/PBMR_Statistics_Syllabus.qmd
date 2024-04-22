@@ -69,10 +69,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Prerequisites
 
-- CGPA: 3.00/4.00
+- CGPA: 3.00/4.00.
 - [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Summary Material)](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf)
 - [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Playlist)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-- [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions and Errata)](http://athenasc.com/probbook.html)
+- [Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions \& Errata)](http://athenasc.com/probbook.html)
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
 - Applicants are informed about their application results within a week via email.
 
