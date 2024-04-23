@@ -122,7 +122,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Reading Schedule
 
-**BE** is the abbreviation of **Bayesian Econometrics - Gary Koop (2003)**.
+- **BE** is the abbreviation of **Bayesian Econometrics - Gary Koop (2003)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook BE \hfill Week 01**
