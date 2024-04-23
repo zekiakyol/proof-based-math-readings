@@ -1,0 +1,180 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Large Sample Theory**  \n 2024 Summer"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.9cm
+      - left=1.9cm
+      - top=1.3cm
+      - bottom=2cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
+```
+
+\newpage
+
+# Motivation
+
+- *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+- This session of the reading group is on *Large Sample Theory*.
+
+# Prerequisites
+
+- CGPA: 3.00/4.00.
+- Proof and Real Analysis books/playlists listed below.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Applicants are informed about their application results within a week via email.
+
+# Format
+
+- This session takes 12 weeks.
+- We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+- We do not have face-to-face/online meetings due to the size of the group.
+- Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+
+# Resources
+
+## Main Book and Main Book's Playlist
+
+**Elements of Large-Sample Theory** is our main book for this session because it is well-written and well-structured.  
+Jingyi Jessica Li's playlist is our main playlist because her narrative is just great.
+
+\begin{itemize}
+  \item[\faBook] Elements of Large-Sample Theory - E. L. Lehmann (1999) $\mspace{107mu} \rightarrow$ Easier to read
+  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes/errata}{Elements of Large-Sample Theory - E. L. Lehmann (1999, Errata)}
+  \item[\faBook] A Course in Large Sample Theory - Thomas S. Ferguson (2002) $\mspace{62mu} \rightarrow$ Harder to read
+  \item[\faBook] \href{https://www.math.ucla.edu/~tom/LST/Errata.pdf}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Errata)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz}{Large Sample Theory - Jingyi Jessica Li (Playlist, 2021)}
+  \item[\faBook] \href{http://jsb.ucla.edu/stats-203-large-sample-theory}{Large Sample Theory - Jingyi Jessica Li (Notes, 2021)}
+\end{itemize}
+
+## Supplementary
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+\end{itemize}
+
+### Real Analysis
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
+\end{itemize}
+
+### Large-Sample Theory
+
+\begin{itemize}
+  \item[\faBook] \href{https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/166293/files/2024/04/asymp-6e0671a490515679.pdf}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
+  \item[\faBook] Asymptotic Theory for Econometricians - Halbert White (Revised Edition, 2000)
+\end{itemize}
+
+\newpage
+
+# Reading Schedule
+
+- **ELST** is the abbreviation of **Elements of Large-Sample Theory - E. L. Lehmann (1999)**.
+
+::: {.callout-tip icon=false}
+## **\faBook ELST, Chapter 1: Mathematical Background \hfill Week 01-02 \faCalendar* **
+
+\begin{itemize}
+  \item[] The concept of limit
+  \item[] Embedding sequences
+  \item[] Infinite series
+  \item[] Order relations and rates of convergence
+  \item[] Continuity
+  \item[] Distributions
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook ELST, Chapter 2: Convergence in Probability and in Law \hfill Week 03-04-05-06 \faCalendar* **
+
+\begin{itemize}
+  \item[] Convergence in probability
+  \item[] Applications
+  \item[] Convergence in law
+  \item[] The central limit theorem
+  \item[] Taylor's theorem and the delta method
+  \item[] Uniform convergence
+  \item[] The CLT for independent non-identical random variables
+  \item[] Central limit theorem for dependent variables
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook ELST, Chapter 3: Performance of Statistical Tests \hfill Week 07-08-09 \faCalendar* **
+
+\begin{itemize}
+  \item[] Critical values
+  \item[] Comparing two treatments
+  \item[] Power and sample size
+  \item[] Comparison of tests: Relative efficiency
+  \item[] Robustness
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook ELST, Chapter 4: Estimation \hfill Week 10-11-12 \faCalendar* **
+
+\begin{itemize}
+  \item[] Confidence intervals
+  \item[] Accuracy of point estimators
+  \item[] Comparing estimators
+  \item[] Sampling from a finite population
+\end{itemize}
+:::
