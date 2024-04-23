@@ -105,7 +105,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 \begin{itemize}
   \item[\faBook] Schaum's Outline of General Topology - Seymour Lipschutz (2011) $\rightarrow$ Beginner friendly
   \item[\faBook] \href{https://www.topologywithouttears.net}{Topology Without Tears - Sidney A. Morris (2023)} $\mspace{127mu} \rightarrow$ Beginner friendly and open-access
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLoWHl5YajIf6MNTh7Ok024T1JkhZEcYXm}{General Topology - Bernard Badzioch (2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLfKcn7LuYa_Kr3_aWePrYufu7MMYWYM5-}{General Topology - Bernard Badzioch (2020)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL9ERqa15B9_v10p-Agp4yq-90tRYoEUv6}{Intuitive Topology - Troy Kling (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0}{Topology - Marius Furter (2022)}
 \end{itemize}
