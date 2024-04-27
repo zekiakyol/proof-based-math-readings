@@ -69,7 +69,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Prerequisites
 
-- CGPA: 3.00/4.00 and Proof and Real Analysis books/playlists listed below.
+- CGPA: 3.00/4.00.
+- Proof and Real Analysis resources below are the prerequisites for this session.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
 - Applicants are informed about their application results within a week via email. \vspace*{-0.5cm}
 

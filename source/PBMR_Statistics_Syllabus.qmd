@@ -104,6 +104,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg}{Introduction to Mathematical Statistics - Jingyi Jessica Li (2022)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR}{Mathematical Statistics - Jem N. Corcoran (2024)}
+  \item[\faBook] \href{https://statproofbook.github.io}{The Book of Statistical Proofs - Joram Soch (2024)}
 \end{itemize}
 
 ### Proof

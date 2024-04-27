@@ -70,7 +70,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Prerequisites
 
 - CGPA: 3.00/4.00.
-- Proof and Statistics books/playlists below are the prerequisites for this session.
+- Proof and Statistics resources below are the prerequisites for this session.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
 - Applicants are informed about their application results within a week via email.
 
