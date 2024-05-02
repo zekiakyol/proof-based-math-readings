@@ -89,12 +89,12 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 Jingyi Jessica Li's playlist is our main playlist because her narrative is just great.
 
 \begin{itemize}
-  \item[\faBook] Elements of Large-Sample Theory - E. L. Lehmann (1999) $\mspace{107mu} \rightarrow$ Easier to read
+  \item[\faBook] Elements of Large-Sample Theory - E. L. Lehmann (1999) $\mspace{62mu} \rightarrow$ Easier to read but doesn't contain solutions
   \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes/errata}{Elements of Large-Sample Theory - E. L. Lehmann (1999, Errata)}
-  \item[\faBook] A Course in Large Sample Theory - Thomas S. Ferguson (2002) $\mspace{62mu} \rightarrow$ Harder to read
+  \item[\faBook] A Course in Large Sample Theory - Thomas S. Ferguson (2002) $\rightarrow$ Harder to read but contains solutions
   \item[\faBook] \href{https://www.math.ucla.edu/~tom/LST/Errata.pdf}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Errata)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz}{Large Sample Theory - Jingyi Jessica Li (Playlist, 2021)}
-  \item[\faBook] \href{http://jsb.ucla.edu/stats-203-large-sample-theory}{Large Sample Theory - Jingyi Jessica Li (Notes, 2021)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Playlist by Jingyi Jessica Li, 2021)}
+  \item[\faBook] \href{http://jsb.ucla.edu/stats-203-large-sample-theory}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Notes by Jingyi Jessica Li, 2021)}
 \end{itemize}
 
 ## Supplementary
@@ -118,7 +118,7 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 ### Large-Sample Theory
 
 \begin{itemize}
-  \item[\faBook] \href{https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/1/166293/files/2024/04/asymp-6e0671a490515679.pdf}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
+  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
   \item[\faBook] Asymptotic Theory for Econometricians - Halbert White (Revised Edition, 2000)
 \end{itemize}
 
@@ -132,12 +132,12 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 ## **\faBook ELST, Chapter 1: Mathematical Background \hfill Week 01-02 \faCalendar* **
 
 \begin{itemize}
-  \item[] The concept of limit
-  \item[] Embedding sequences
-  \item[] Infinite series
-  \item[] Order relations and rates of convergence
-  \item[] Continuity
-  \item[] Distributions
+  \item[] \textbf{1.1} The concept of limit
+  \item[] \textbf{1.2} Embedding sequences
+  \item[] \textbf{1.3} Infinite series
+  \item[] \textbf{1.4} Order relations and rates of convergence
+  \item[] \textbf{1.5} Continuity
+  \item[] \textbf{1.6} Distributions
 \end{itemize}
 :::
 
@@ -145,14 +145,14 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 ## **\faBook ELST, Chapter 2: Convergence in Probability and in Law \hfill Week 03-04-05-06 \faCalendar* **
 
 \begin{itemize}
-  \item[] Convergence in probability
-  \item[] Applications
-  \item[] Convergence in law
-  \item[] The central limit theorem
-  \item[] Taylor's theorem and the delta method
-  \item[] Uniform convergence
-  \item[] The CLT for independent non-identical random variables
-  \item[] Central limit theorem for dependent variables
+  \item[] \textbf{2.1} Convergence in probability
+  \item[] \textbf{2.2} Applications
+  \item[] \textbf{2.3} Convergence in law
+  \item[] \textbf{2.4} The central limit theorem
+  \item[] \textbf{2.5} Taylor's theorem and the delta method
+  \item[] \textbf{2.6} Uniform convergence
+  \item[] \textbf{2.7} The CLT for independent non-identical random variables
+  \item[] \textbf{2.8} Central limit theorem for dependent variables
 \end{itemize}
 :::
 
@@ -160,11 +160,11 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 ## **\faBook ELST, Chapter 3: Performance of Statistical Tests \hfill Week 07-08-09 \faCalendar* **
 
 \begin{itemize}
-  \item[] Critical values
-  \item[] Comparing two treatments
-  \item[] Power and sample size
-  \item[] Comparison of tests: Relative efficiency
-  \item[] Robustness
+  \item[] \textbf{3.1} Critical values
+  \item[] \textbf{3.2} Comparing two treatments
+  \item[] \textbf{3.3} Power and sample size
+  \item[] \textbf{3.4} Comparison of tests: Relative efficiency
+  \item[] \textbf{3.5} Robustness
 \end{itemize}
 :::
 
@@ -172,9 +172,9 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 ## **\faBook ELST, Chapter 4: Estimation \hfill Week 10-11-12 \faCalendar* **
 
 \begin{itemize}
-  \item[] Confidence intervals
-  \item[] Accuracy of point estimators
-  \item[] Comparing estimators
-  \item[] Sampling from a finite population
+  \item[] \textbf{4.1} Confidence intervals
+  \item[] \textbf{4.2} Accuracy of point estimators
+  \item[] \textbf{4.3} Comparing estimators
+  \item[] \textbf{4.4} Sampling from a finite population
 \end{itemize}
 :::

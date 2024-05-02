@@ -128,9 +128,9 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 ## **\faBook LADR, Chapter 1: Vector Spaces \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{1A:} $\mathbf{R}^n$ and $\mathbf{C}^n$
-  \item[] \textbf{1B:} Definition of Vector Space
-  \item[] \textbf{1C:} Subspaces
+  \item[] \textbf{1A} $\mathbf{R}^n$ and $\mathbf{C}^n$
+  \item[] \textbf{1B} Definition of Vector Space
+  \item[] \textbf{1C} Subspaces
 \end{itemize}
 :::
 
@@ -138,9 +138,9 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 ## **\faBook LADR, Chapter 2: Finite-Dimensional Vector Spaces \hfill Week 02-03 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{2A:} Span and Linear Independence
-  \item[] \textbf{2B:} Bases
-  \item[] \textbf{2C:} Dimension
+  \item[] \textbf{2A} Span and Linear Independence
+  \item[] \textbf{2B} Bases
+  \item[] \textbf{2C} Dimension
 \end{itemize}
 :::
 
@@ -148,10 +148,10 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 ## **\faBook LADR, Chapter 3: Linear Maps \hfill Week 04-05-06 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{3A:} Vector Space of Linear Maps
-  \item[] \textbf{3B:} Null Spaces and Ranges
-  \item[] \textbf{3C:} Matrices
-  \item[] \textbf{3D:} Invertibility and Isomorphisms
+  \item[] \textbf{3A} Vector Space of Linear Maps
+  \item[] \textbf{3B} Null Spaces and Ranges
+  \item[] \textbf{3C} Matrices
+  \item[] \textbf{3D} Invertibility and Isomorphisms
 \end{itemize}
 :::
 
@@ -159,10 +159,10 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 ## **\faBook LADR, Chapter 5: Eigenvalues and Eigenvectors \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{5A:} Invariant Subspaces
-  \item[] \textbf{5B:} The Minimal Polynomial
-  \item[] \textbf{5C:} Upper-Triangular Matrices
-  \item[] \textbf{5D:} Diagonalizable Operators
+  \item[] \textbf{5A} Invariant Subspaces
+  \item[] \textbf{5B} The Minimal Polynomial
+  \item[] \textbf{5C} Upper-Triangular Matrices
+  \item[] \textbf{5D} Diagonalizable Operators
 \end{itemize}
 :::
 
@@ -170,9 +170,9 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 ## **\faBook LADR, Chapter 6: Inner Product Spaces \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{6A:} Inner Products and Norms
-  \item[] \textbf{6B:} Orthonormal Bases
-  \item[] \textbf{6C:} Orthogonal Complements and Minimization Problems
+  \item[] \textbf{6A} Inner Products and Norms
+  \item[] \textbf{6B} Orthonormal Bases
+  \item[] \textbf{6C} Orthogonal Complements and Minimization Problems
 \end{itemize}
 :::
 
@@ -180,11 +180,11 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 ## **\faBook LADR, Chapter 7: Operators on Inner Product Spaces \hfill Week 11-12 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{7A:} Self-Adjoint and Normal Operators
-  \item[] \textbf{7B:} Spectral Theorem
-  \item[] \textbf{7C:} Positive Operators
-  \item[] \textbf{7D:} Isometries, Unitary Operators, and Matrix Factorization
-  \item[] \textbf{7E:} Singular Value Decomposition
+  \item[] \textbf{7A} Self-Adjoint and Normal Operators
+  \item[] \textbf{7B} Spectral Theorem
+  \item[] \textbf{7C} Positive Operators
+  \item[] \textbf{7D} Isometries, Unitary Operators, and Matrix Factorization
+  \item[] \textbf{7E} Singular Value Decomposition
 \end{itemize}
 :::
 

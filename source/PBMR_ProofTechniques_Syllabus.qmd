@@ -107,7 +107,7 @@ Because our main playlist does not cover Chapter 13-14, we cover these chapters 
 
 ### Calculus
 
-In case we need to remember a topic from calculus, we can use these playlists.
+In case we need to remember a topic from calculus, we can use these resources.
 
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr}{Essence of Calculus - 3Blue1Brown (2023)}

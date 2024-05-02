@@ -127,7 +127,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 - **BE** is the abbreviation of **Bayesian Econometrics - Gary Koop (2003)**.
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 01**
+## **\faBook BE \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{Appendix A:} Introduction to Matrix Algebra
@@ -137,7 +137,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 02**
+## **\faBook BE \hfill Week 02 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{2:} The Normal Linear Regression Model with Natural Conjugate Prior and a Single Explanatory Variable
@@ -145,7 +145,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 03-04**
+## **\faBook BE \hfill Week 03-04 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{3:} The Normal Linear Regression Model with Natural Conjugate Prior and Many Explanatory Variables
@@ -153,7 +153,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 05-06**
+## **\faBook BE \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{4:} The Normal Linear Regression Model with Other Priors
@@ -161,7 +161,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 07-08**
+## **\faBook BE \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{5:} The Nonlinear Regression Model
@@ -169,7 +169,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 09-10**
+## **\faBook BE \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{6:} The Linear Regression Model with General Error Covariance Matrix
@@ -177,7 +177,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook BE \hfill Week 11-12**
+## **\faBook BE \hfill Week 11-12 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{7:} The Linear Regression Model with Panel Data

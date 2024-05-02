@@ -180,3 +180,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[] \textbf{5C} Lebesgue Integration on $\mathbf{R}^n$
 \end{itemize}
 :::
+
+# Further Readings (Optional)
+
+You can check out our Measure Theoretic Probability syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)

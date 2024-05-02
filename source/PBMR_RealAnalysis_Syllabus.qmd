@@ -193,3 +193,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
   \item[] \textbf{5.3} Fundamental theorem of calculus
 \end{itemize}
 :::
+
+# Further Readings (Optional)
+
+You can check out our Topology syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)

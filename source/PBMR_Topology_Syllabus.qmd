@@ -193,3 +193,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
   \item[] \textbf{34} The Urysohn Metrization Theorem
 \end{itemize}
 :::
+
+# Further Readings (Optional)
+
+You can check out our Measure Theory syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
