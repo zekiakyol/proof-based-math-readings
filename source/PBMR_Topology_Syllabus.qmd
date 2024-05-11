@@ -90,7 +90,7 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
 
 \begin{itemize}
   \item[\faBook] Topology - James Munkres (2nd Edition, 2014)
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx}{Topology - James Munkres (2nd Edition, 2014, Companion playlist by Bruno Zimmermann, Video 1-15)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx}{Topology - James Munkres (2nd Edition, 2014, Playlist by Bruno Zimmermann, Video 1-15)}
   \item[\faBook] \href{https://math-study.net/topology}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by Dan Whitman)}
   \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by math.solverer)}
   \item[\faBook] \href{https://positron0802.wordpress.com/topology-munkres}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 2-3 by positron0802)}
@@ -115,15 +115,15 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 
 \begin{itemize}
   \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
 \end{itemize}
 
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis [Volume I] - Jiri Lebl (Version 6.0, 2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Real Analysis - Casey Rodriguez (2020, Companion playlist to Basic Analysis I)}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
 
@@ -196,4 +196,4 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 
 # Further Readings (Optional)
 
-You can check out our Measure Theory syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+You can check out our Measure Theory and Measure Theoretic Probability syllabuses at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)

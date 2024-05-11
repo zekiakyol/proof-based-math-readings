@@ -85,11 +85,12 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book
 
-**Bayesian Econometrics - Gary Koop (2003)** is our main book for this session because it is well-written and well-structured.
+**Bayesian Econometrics - Gary Koop (2003)** is our main book for this session because it is well-written and well-structured. Gary Koop's playlist is our main playlist because his narrative is just great.
 
 \begin{itemize}
   \item[\faBook] Bayesian Econometrics - Gary Koop (2003)
   \item[\faBook] \href{http://personal.strath.ac.uk/gary.koop/sgpe_bayesian/corrections.pdf}{Bayesian Econometrics - Gary Koop (2003, Errata)}
+  \item[\faYoutube] \href{https://strath-my.sharepoint.com/:f:/g/personal/ping_wu_strath_ac_uk/EgGn4azLQjtBhZJ7Sx3MAwMBxccM-CnOgleiOIN22gCq4Q?e=XEKe5u}{Bayesian Econometrics - Gary Koop (2003, Playlist)}
 \end{itemize}
 
 ## Supplementary
@@ -98,8 +99,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Companion playlist by Michael Penn)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
 \end{itemize}
 
 ### Statistics
