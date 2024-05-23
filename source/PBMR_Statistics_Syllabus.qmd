@@ -87,14 +87,14 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Statistical Inference (2nd Edition, 2001)** by George Casella and Roger Berger is our main book because it is well-written and well-structured.
+**Statistical Inference (2nd Edition, 2001 or 2024)** by George Casella and Roger Berger is our main book because it is well-written and well-structured. The 2024 version of the book is just errata-free reprint of the 2001 version.
 
 \begin{itemize}
-  \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)
+  \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024)
   \item[\faBook] \href{https://archived.stat.ufl.edu/casella/class/errata7.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Errata)}
-  \item[\faBook] \href{https://www.ams.sunysb.edu/~zhu/ams570/Solutions-Casella-Berger.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Solutions)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist for Chapter 1-5)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Playlist for Chapter 5-9)}
+  \item[\faBook] \href{https://www.ams.sunysb.edu/~zhu/ams570/Solutions-Casella-Berger.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Solutions)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Playlist for Chapter 1-5)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Playlist for Chapter 5-9)}
 \end{itemize}
 
 ## Supplementary
@@ -127,7 +127,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Reading Schedule
 
-- **SI** is the abbreviation of **Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001)**.
+- **SI** is the abbreviation of Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024).
 
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01 \faCalendar* **
