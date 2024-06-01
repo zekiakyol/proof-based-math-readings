@@ -70,12 +70,12 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Prerequisites
 
 - CGPA: 3.00/4.00.
-- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.
 - Applicants are informed about their application results within a week via email.
 
 # Format
 
-- This session takes 6 weeks.
+- This session takes 8 weeks.
 - We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
 - We do not have face-to-face/online meetings due to the size of the group.
 - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
@@ -89,8 +89,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his narrative is just great.
 
 \begin{itemize}
-  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum, Chapter 1-12)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum, Chapters 1-12)}
 \end{itemize}
 
 ## Supplementary
@@ -99,11 +99,11 @@ Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his n
 
 In case we need to watch a proof topic from another instructor, we have two additional playlists.
 
-Because our main playlist does not cover Chapter 13-14, we cover these chapters from Michael Penn's playlist.
+Because our main playlist does not cover Chapters 13-14, we cover these chapters from Michael Penn's playlist.
 
 \begin{itemize}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn, Chapter 1-14)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLpcwHaLYiaEUk-DVrPHjPpGmwL04WMbNQ}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Valerie Hower, Chapter 1-12)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn, Chapters 1-14)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLpcwHaLYiaEUk-DVrPHjPpGmwL04WMbNQ}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Valerie Hower, Chapters 1-12)}
   \item[\faBook] \href{https://summit.plymouth.edu/bitstream/handle/20.500.12774/381/psu-oer-024.pdf?sequence=1&isAllowed=y}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Workbook by Justin Wright)}
 \end{itemize}
 
@@ -153,7 +153,7 @@ I recommend the following study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 03 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 03-04 \faCalendar* **
 
 \begin{itemize}
   \item[] Chapter 7: Proving Non-Conditional Statements
@@ -164,7 +164,7 @@ I recommend the following study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 04 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
   \item[] Chapter 11: Relations
@@ -173,7 +173,7 @@ I recommend the following study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 05-06 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
   \item[] We first read Chapter 14, then Chapter 13. These chapters are more challenging than the previous ones.
@@ -189,9 +189,9 @@ We can use the following book to solve more problems. Although the book is not o
 ::: {.callout-note icon=false}
 ## 
 \begin{itemize}
-  \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapter 0-14}, 4th Edition, 2018)
-  \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapter 0-14}, 4th Edition, 2018, Slides)}
+  \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018)
+  \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018, Slides)}
 \end{itemize}
 :::
 
-You can check out our Real Analysis syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+You can check out our Real Analysis syllabuse at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
