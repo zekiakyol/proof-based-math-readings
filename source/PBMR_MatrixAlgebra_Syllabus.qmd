@@ -98,7 +98,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] Matrix Differential Calculus with Applications in Statistics and Econometrics - Jan R. Magnus, Heinz Neudecker (3rd Edition, 2019)
-  \item[\faBook] \href{https://media.pearsoncmg.com/ph/bp/bridgepages/bp_greene_bridgepage/Econometric_Analysis_8/Greene_Appendices.pdf}{Econometric Theory - William H. Greene (\textbf{Appendix A}, 8th Edition, 2020)}
+  \item[\faBook] \href{https://media.pearsoncmg.com/ph/bp/bridgepages/bp_greene_bridgepage/Econometric_Analysis_8/Greene_Appendices.pdf}{Econometric Theory - William H. Greene (Appendix A, 8th Edition, 2020)}
   \item[\faCalculator] \href{https://www.matrixcalculus.org}{matrixcalculus.org}
 \end{itemize}
 

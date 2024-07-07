@@ -88,8 +88,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 **Measure, Integration & Real Analysis** by Sheldon Axler is our main book for this session because it is well-written, well-structured, and open-access.
 
 \begin{itemize}
-  \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2023, Errata-free version)}
-  \item[\faYoutube] Measure, Integration \& Real Analysis - Sheldon Axler (2023) $\rightarrow$ will be added after the 2nd edition.
+  \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2024, Errata-free version)}
+  \item[\faYoutube] Measure, Integration \& Real Analysis - Sheldon Axler (202X) $\rightarrow$ will be added after the 2nd edition.
 \end{itemize}
 
 ## Supplementary
@@ -120,7 +120,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2023, Supplement)}
+  \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2024, Supplement)}
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
@@ -130,7 +130,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Reading Schedule
 
-- **MIRA** is the abbreviation of **Measure, Integration \& Real Analysis - Sheldon Axler (2023)**.
+- **MIRA** is the abbreviation of **Measure, Integration \& Real Analysis - Sheldon Axler (2024)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook MIRA, Chapter 1: Riemann Integration \hfill Week 01 \faCalendar* **

@@ -87,7 +87,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Statistical Inference (2nd Edition, 2001 or 2024)** by George Casella and Roger Berger is our main book because it is well-written and well-structured. The 2024 version of the book is just errata-free reprint of the 2001 version.
+**Statistical Inference (2nd Edition, 2001 or 2024)** by George Casella and Roger Berger is our main book because it is well-written and well-structured. The 2024 version of the book is just an errata-free reprint of the 2001 version.
 
 \begin{itemize}
   \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024)
@@ -133,7 +133,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{1.1} Set Theory, \textbf{1.2} Basics of Probability Theory, \textbf{1.3} Conditional Probability and Independence,
+  \item[] \textbf{1.1} Set Theory, \textbf{1.2} Probability Theory, \textbf{1.3} Conditional Probability and Independence,
   \item[] \textbf{1.4} Random Variables, \textbf{1.5} Distribution Functions, \textbf{1.6} Density and Mass Functions
 \end{itemize}
 :::

@@ -89,6 +89,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)
+  \item[\faBook] \href{https://github.com/frrad/optimization-368}{A First Course in Optimization Theory - Rangarajan K. Sundaram (1996, Solutions by Frederick Robinson)}
+  \item[\faBook] A First Course in Optimization Theory - Rangarajan K. Sundaram (1996, Solutions by Paolo Pin)
 \end{itemize}
 
 ## Supplementary

@@ -19,8 +19,8 @@ format:
     papersize: letter
     fontsize: 10pt
     geometry: 
-      - right=1.9cm
-      - left=1.9cm
+      - right=1.8cm
+      - left=1.8cm
       - top=1.3cm
       - bottom=1.5cm
     toc: true
@@ -93,7 +93,7 @@ Jem Corcoran's playlist is our main playlist because her narrative is just great
   \item[\faBook] A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006)
   \item[\faBook] \href{http://probability.ca/jeff/ftpdir/errata2.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006, Errata)}
   \item[\faBook] \href{http://probability.ca/jeff/ftpdir/grprobsol.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006, Solutions)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrO6VtBSiQLsNlo9QBm30nxC}{Measure Theoretic Probability - Jem Corcoran (Playlist, 2024)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrO6VtBSiQLsNlo9QBm30nxC}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006, Playlist by Jem Corcoran)}
 \end{itemize}
 
 ## Supplementary

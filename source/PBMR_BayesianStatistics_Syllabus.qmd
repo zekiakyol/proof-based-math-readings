@@ -118,7 +118,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] \href{https://web.ics.purdue.edu/~jltobias/second_edition/errata.pdf}{Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019, Errata)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm}{Bayesian Statistics: A Comprehensive Course - Ben Lambert (2014)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
-  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin (3rd Edition, 2022)}
+  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Edition, 2022, Playlist)}
 \end{itemize}
 
 \newpage

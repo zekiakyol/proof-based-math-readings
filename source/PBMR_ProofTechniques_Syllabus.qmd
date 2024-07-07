@@ -114,7 +114,7 @@ In case we need to remember a topic from calculus, we can use these resources.
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr}{Essence of Calculus - 3Blue1Brown (2023)}
   \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006}{Single Variable Calculus - David Jerison (2006)}
-  \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007}{Multi Variable Calculus - Denis Auroux (2007)}
+  \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007}{Multivariable Calculus - Denis Auroux (2007)}
   \item[\faCalculator] \href{https://www.geogebra.org/m/f08hfjvx}{Sequences and Series Calculator - Geogebra}
   \item[\faCalculator] \href{https://www.geogebra.org/graphing}{Function Graph - Geogebra}
 \end{itemize}
@@ -194,4 +194,4 @@ We can use the following book to solve more problems. Although the book is not o
 \end{itemize}
 :::
 
-You can check out our Real Analysis syllabuse at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+You can check out our Real Analysis syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)

@@ -92,9 +92,9 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
   \item[\faBook] Topology - James Munkres (2nd Edition, 2014)
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx}{Topology - James Munkres (2nd Edition, 2014, Playlist by Bruno Zimmermann, Video 1-15)}
   \item[\faBook] \href{https://math-study.net/topology}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by Dan Whitman)}
-  \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by math.solverer)}
+  \item[\faBook] \href{https://solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2 by solverer)}
   \item[\faBook] \href{https://positron0802.wordpress.com/topology-munkres}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 2-3 by positron0802)}
-  \item[\faBook] \href{https://math.solverer.com/library/james_munkres/topology_classic_version}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2-3-4 by dbFin)}
+  \item[\faBook] \href{https://dbfin.com/topology/munkres/}{Topology - James Munkres (2nd Edition, 2014, Solutions for Chapter 1-2-3-4 by dbFin)}
 \end{itemize}
 
 ## Supplementary

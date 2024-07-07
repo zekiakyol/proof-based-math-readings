@@ -110,7 +110,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr}{Essence of Calculus - 3Blue1Brown (2023)}
-  \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006}{Single Variable Calculus - David Jerison (2006)} and \href{https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007}{Multi Variable Calculus - Denis Auroux (2007)}
+  \item[\faBook\faYoutube] \href{https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006}{Single Variable Calculus - David Jerison (2006)} and \href{https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007}{Multivariable Calculus - Denis Auroux (2007)}
   \item[\faCalculator] \href{https://www.geogebra.org/m/f08hfjvx}{Sequences and Series Calculator - Geogebra} and \href{https://www.geogebra.org/graphing}{Function Graph - Geogebra}
 \end{itemize}
 
@@ -118,8 +118,8 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 \begin{itemize}
   \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum, Chapter 1-12)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn, Chapter 1-14)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum, Chapters 1-12)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn, Chapters 1-14)}
 \end{itemize}
 
 \newpage
