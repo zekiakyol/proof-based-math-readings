@@ -1,0 +1,195 @@
+---
+title: "**Proof-Based Math Readings  \n Session: Graph Theory**  \n 2025 Summer"
+date: now
+date-format: "[Version:] DD MMMM YYYY, hh:mm A"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+pdf-engine: pdflatex
+fig-dpi: 300
+df-print: tibble
+highlight-style: tango
+knitr:
+  opts_chunk: 
+    collapse: true
+    message: false
+    fig.align: center
+    comment: "#>"
+format:
+  pdf: 
+    documentclass: article
+    papersize: letter
+    fontsize: 10pt
+    geometry: 
+      - right=1.8cm
+      - left=1.8cm
+      - top=1.5cm
+      - bottom=2cm
+    toc: true
+    toc-depth: 3
+    toccolor: blue
+    number-sections: true
+    colorlinks: true
+    urlcolor: magenta
+    citecolor: blue
+    execute:
+      echo: true
+      warning: false
+    include-in-header: 
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{blue}}
+        \setcounter{section}{-1}
+        \usepackage{microtype}
+        \DisableLigatures{encoding = *, family = *}
+        \usepackage[fixed]{fontawesome5}
+        \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
+        \usepackage[dvipsnames]{xcolor}
+        \usepackage{hyperref}
+        \hypersetup{pdfpagemode=UseNone}
+editor: source
+---
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| out-width: 40%
+knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
+```
+
+\newpage
+
+# Motivation 
+
+- *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+- This session of the reading group is on *Graph Theory*.
+
+# Prerequisites
+
+- CGPA: 3.00/4.00.
+- Proof resources below are the prerequisites for this session.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Applicants are informed about their application results within a week via email.
+
+# Format
+
+- This session takes 12 weeks.
+- We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
+- We do not have face-to-face/online meetings due to the size of the group.
+- Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+
+# Resources
+
+## Main Book and Main Book's Playlist
+
+**A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012)** is our main book because it is well-structured and well-written.
+
+Mikhail Lavrov's playlist is our playlist because the narrative is great.
+
+\begin{itemize}
+  \item[\faBook] A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012)
+  \item[\faYoutube] \href{https://facultyweb.kennesaw.edu/mlavrov/courses/3322-spring-2021.php}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Playlist by Mikhail Lavrov)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Playlist by Wrath of Math)}
+  \item[\faBook] \href{https://web.evanchen.cc/notes/SJSU179.pdf}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Notes by Evan Chen)}
+\end{itemize}
+
+## Supplementary
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
+\end{itemize}
+
+### Graph Theory
+
+\begin{itemize}
+  \item[\faYoutube] \href{https://www.youtube.com/watch?v=LFKZLXVO-Dg}{Introduction to Graph Theory: A Computer Science Perspective - Reducible (2020)}
+  \item[\faMouse] \href{https://d3gt.com/index.html}{D3 Graph Theory (Interactive)}
+  \item[\faMouse] \href{https://graphonline.ru/en/}{Graph Online (Interactive)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7}{Graph Theory - Don Sheehy (2020)}
+\end{itemize}
+
+\newpage
+
+#  Reading Schedule
+
+- **FCGT** is the abrevviation of **A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012)**.
+  
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 01 \faCalendar* **
+
+\begin{itemize}
+  \item[] Appendix 1: Sets and Logic
+  \item[] Appendix 2: Equivalence Relations and Functions
+  \item[] Appendix 3: Methods of Proof
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 02 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 1: Introduction
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 03-04 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 2: Degrees
+  \item[] Chapter 3: Isomorphic Graphs
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 05-06 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 4: Trees
+  \item[] Chapter 5: Connectivity
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 07-08 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 6: Traversability
+  \item[] Chapter 7: Digraphs
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 09-10 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 8: Matchings and Factorization
+  \item[] Chapter 9: Planarity
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook FCGT \hfill Week 11-12 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 10: Coloring Graphs
+\end{itemize}
+:::
+
+# Further Reading (Optional)
+
+If we want to read a more comprehensive book, the following book is great from the same authors.
+
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] Graphs and Digraphs - Gary Chartrand, Heather Jordon, Vincent Vatter, Ping Zhang (7th Edition, 2024)
+\end{itemize}
+:::
