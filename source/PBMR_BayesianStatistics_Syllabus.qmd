@@ -83,7 +83,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Resources
 
-## Main Book
+## Main Book and Main Book's Playlist
 
 **Bayesian Econometrics - Gary Koop (2003)** is our main book for this session because it is well-written and well-structured. Gary Koop's playlist is our main playlist because his narrative is just great.
 

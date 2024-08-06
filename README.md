@@ -15,7 +15,7 @@
 
 :date: Term | :scroll: Syllabus | :closed_book: Book | :hourglass: Duration
 :-- | :--: | :--: | :--:
-2026 Summer | [Graph Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_GraphTheory_Syllabus.pdf) | A First Course in Graph Theory <br> - Gary Chartrand, Ping Zhang (2012)| 12 Weeks
+2025 Summer | [Graph Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_GraphTheory_Syllabus.pdf) | A First Course in Graph Theory <br> - Gary Chartrand, Ping Zhang (2012)| 12 Weeks
 2025 Summer | [Measure Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheory_Syllabus.pdf) | Measure, Integration & Real Analysis <br> - Sheldon Axler (2023) | 12 Weeks
 2025 Summer | [Numerical <br> Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_NumericalLinearAlgebra_Syllabus.pdf) | Numerical Linear Algebra <br> - Lloyd N. Trefethen, David Bau III (2022)| 12 Weeks
 2025 Spring | [Optimization](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Optimization_Syllabus.pdf) | A First Course in Optimization Theory <br> - Rangarajan K. Sundaram (1996) | 12 Weeks

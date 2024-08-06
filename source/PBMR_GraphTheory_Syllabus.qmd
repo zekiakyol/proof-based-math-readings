@@ -1,5 +1,5 @@
 ---
-title: "**Proof-Based Math Readings  \n Session: Graph Theory**  \n 2026 Summer"
+title: "**Proof-Based Math Readings  \n Session: Graph Theory**  \n 2025 Summer"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
 author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"

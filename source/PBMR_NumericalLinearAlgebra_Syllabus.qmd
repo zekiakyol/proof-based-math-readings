@@ -83,7 +83,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Resources
 
-## Main Book and Main Book's Playlist
+## Main Book
 
 **Numerical Linear Algebra - Lloyd N. Trefethen, David Bau III (1997 or 2022)** is our main book because it is well-structured and well-written.
 
