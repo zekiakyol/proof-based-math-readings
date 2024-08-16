@@ -85,7 +85,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Topology (2nd Edition, 2014)** by James Munkres is our main book for this session because it is well-written, well-structured, and has plenty of intuitive figures.  
+**Topology - James Munkres (2nd Edition, 2014)** is our main book for this session because it is well-written, well-structured, and has plenty of intuitive figures.  
 Bruno Zimmermann's playlist is our main playlist because his narrative is just great.
 
 \begin{itemize}

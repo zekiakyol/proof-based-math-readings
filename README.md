@@ -27,7 +27,7 @@
 2023 Winter | [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf) | Topology <br> - James Munkres (2nd Edition, 2014) | 12 Weeks
 2023 Fall   | [Matrix Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MatrixAlgebra_Syllabus.pdf) | Matrix Algebra <br> - Karim M. Abadir, Jan R. Magnus (2005) | 12 Weeks
 2023 Summer | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | Basic Analysis I <br> - Jiri Lebl (Version 6.0, 2023) | 12 Weeks
-2023 Summer | [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf) | Book of Proof <br> - Richard Hammack (3.3 Edition, 2022) | 8 Weeks
+2023 Summer | [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf) | Book of Proof <br> - Richard Hammack (3.3 Edition, 2022) | 12 Weeks
 
 ## Dependency Tree
 

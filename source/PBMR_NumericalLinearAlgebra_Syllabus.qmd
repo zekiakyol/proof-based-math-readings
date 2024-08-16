@@ -70,8 +70,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Prerequisites
 
 - CGPA: 3.00/4.00.
-- Proof book/playlists below are the prerequisites for this session.
-- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Proof resources below are the prerequisites for this session.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.
 - Applicants are informed about their application results within a week via email.
 
 # Format
@@ -79,7 +79,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 - This session takes 12 weeks.
 - We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
 - We do not have face-to-face/online meetings due to the size of the group.
-- Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
+- Members are expected to read the chapters from the book.
 
 # Resources
 
@@ -98,21 +98,14 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Proof
 
 \begin{itemize}
-  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
   \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
 \end{itemize}
 
-### Numerical Linear Algebra
-
-\begin{itemize}
-  \item[\faBook] Matrix Computations - Gene H. Golub, Charles F. Van Loan (4th Edition, 2013)
-  \item[\faBook]  \href{https://www.cs.cornell.edu/cv/cvl_home/books/}{Matrix Computations - Gene H. Golub, Charles F. Van Loan (4th Edition, 2013, Errata and M-files)}
-\end{itemize}
-
 \newpage
 
-#  Reading Schedule
+# Reading Schedule
 
 - **NLA** is the abrevviation of **Numerical Linear Algebra - Lloyd N. Trefethen, David Bau III (1997 or 2022)**.
   
@@ -161,5 +154,15 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[] Part VI: Iterative Methods
+\end{itemize}
+:::
+
+# Further Readings (Optional)
+
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] Matrix Computations - Gene H. Golub, Charles F. Van Loan (4th Edition, 2013)
+  \item[\faBook] \href{https://www.cs.cornell.edu/cv/cvl_home/books/}{Matrix Computations - Gene H. Golub, Charles F. Van Loan (4th Edition, 2013, Errata and M-files)}
 \end{itemize}
 :::

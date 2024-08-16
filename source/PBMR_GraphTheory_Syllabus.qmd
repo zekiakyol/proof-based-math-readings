@@ -71,7 +71,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 - CGPA: 3.00/4.00.
 - Proof resources below are the prerequisites for this session.
-- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group anytime.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.
 - Applicants are informed about their application results within a week via email.
 
 # Format
@@ -98,26 +98,26 @@ Mikhail Lavrov's playlist is our playlist because the narrative is great.
 
 ## Supplementary
 
-### Proof
-
-\begin{itemize}
-  \item[\faBook] \href{https://www.people.vcu.edu/~rhammack/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
-\end{itemize}
-
 ### Graph Theory
 
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/watch?v=LFKZLXVO-Dg}{Introduction to Graph Theory: A Computer Science Perspective - Reducible (2020)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7}{Graph Theory - Don Sheehy (2020)}
   \item[\faMouse] \href{https://d3gt.com/index.html}{D3 Graph Theory (Interactive)}
   \item[\faMouse] \href{https://graphonline.ru/en/}{Graph Online (Interactive)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7}{Graph Theory - Don Sheehy (2020)}
+\end{itemize}
+
+### Proof
+
+\begin{itemize}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
 \end{itemize}
 
 \newpage
 
-#  Reading Schedule
+# Reading Schedule
 
 - **FCGT** is the abrevviation of **A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012)**.
   
@@ -184,8 +184,6 @@ Mikhail Lavrov's playlist is our playlist because the narrative is great.
 :::
 
 # Further Readings (Optional)
-
-If we want to read a more comprehensive book, the following book is great from the same authors.
 
 ::: {.callout-note icon=false}
 ## 

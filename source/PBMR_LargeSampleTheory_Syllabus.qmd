@@ -85,7 +85,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Elements of Large-Sample Theory** is our main book for this session because it is well-written and well-structured.
+**Elements of Large-Sample Theory - E. L. Lehmann (1999)** is our main book for this session because it is well-written and well-structured.
 
 Jingyi Jessica Li's playlist is our main playlist because her narrative is just great.
 
@@ -99,6 +99,12 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 \end{itemize}
 
 ## Supplementary
+
+### Large-Sample Theory
+
+\begin{itemize}
+  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
+\end{itemize}
 
 ### Proof
 
@@ -114,13 +120,6 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
-\end{itemize}
-
-### Large-Sample Theory
-
-\begin{itemize}
-  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
-  \item[\faBook] Asymptotic Theory for Econometricians - Halbert White (Revised Edition, 2000)
 \end{itemize}
 
 \newpage
@@ -182,4 +181,9 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 
 # Further Readings (Optional)
 
-You can check out our Bayesian Statistics and Measure Theoretic Probability syllabuses at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] Asymptotic Theory for Econometricians - Halbert White (Revised Edition, 2000)
+\end{itemize}
+:::

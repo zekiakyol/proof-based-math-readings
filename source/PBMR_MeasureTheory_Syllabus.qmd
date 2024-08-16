@@ -101,14 +101,6 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLyqSpQzTE6M_DZRQxHUafLgeLxZxMpVGS}{Measure Theory - Indrava Roy (2020)}
 \end{itemize}
 
-### Topology
-
-\begin{itemize}
-  \item[\faBook] Schaum's Outline of General Topology - Seymour Lipschutz (2011)
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLfKcn7LuYa_Kr3_aWePrYufu7MMYWYM5-}{General Topology - Bernard Badzioch (2020)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx}{Topology - Bruno Zimmermann (2016, Video 1-15)}
-\end{itemize}
-
 ### Proof
 
 \begin{itemize}

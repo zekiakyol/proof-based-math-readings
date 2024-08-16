@@ -95,6 +95,16 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Supplementary
 
+### Bayesian Statistics
+
+\begin{itemize}
+  \item[\faBook] \href{https://www.bayesrulesbook.com}{Bayes Rules! - Alicia A. Johnson, Miles Q. Ott, Mine Dogucu (2021)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm}{Bayesian Statistics: A Comprehensive Course - Ben Lambert (2014)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
+  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2022, Playlist)}
+\end{itemize}
+
 ### Proof
 
 \begin{itemize}
@@ -109,17 +119,6 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] \href{https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Summary Material)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Playlist)}
   \item[\faBook] \href{http://athenasc.com/probbook.html}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions \& Errata)}
-\end{itemize}
-
-### Bayesian Statistics
-
-\begin{itemize}
-  \item[\faBook] Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019)
-  \item[\faBook] \href{https://web.ics.purdue.edu/~jltobias/second_edition/errata.pdf}{Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019, Errata)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm}{Bayesian Statistics: A Comprehensive Course - Ben Lambert (2014)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
-  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Edition, 2022, Playlist)}
 \end{itemize}
 
 \newpage
@@ -183,5 +182,15 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[] \textbf{7:} The Linear Regression Model with Panel Data
+\end{itemize}
+:::
+
+# Further Readings (Optional)
+
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019)
+  \item[\faBook] \href{https://web.ics.purdue.edu/~jltobias/second_edition/errata.pdf}{Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019, Errata)}
 \end{itemize}
 :::

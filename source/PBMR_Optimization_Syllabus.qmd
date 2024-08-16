@@ -95,6 +95,13 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Supplementary
 
+### Optimization
+
+\begin{itemize}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLcjqUUQt__ZE6wp_c4-FcRdmzBvx8VN7O}{Foundations for Optimization - Mark Walker (2020)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLcjqUUQt__ZE0ZSTNRyBIgLJ5obPHdmxC}{Optimization - Mark Walker (2020)}
+\end{itemize}
+
 ### Proof
 
 \begin{itemize}
@@ -109,15 +116,6 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
-\end{itemize}
-
-### Optimization
-
-\begin{itemize}
-  \item[\faBook]Optimization by Vector Space Methods - David G. Luenberger (1997)
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLmI22X7juoWVgfWKyuQM0ZdiwghWXOOHY}{Optimization by Vector Space Methods - David G. Luenberger (1997, Playlist by Peter Galbacs)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLcjqUUQt__ZE6wp_c4-FcRdmzBvx8VN7O}{Foundations for Optimization - Mark Walker (2020)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLcjqUUQt__ZE0ZSTNRyBIgLJ5obPHdmxC}{Optimization - Mark Walker (2020)}
 \end{itemize}
 
 \newpage
@@ -171,3 +169,14 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[] Chapter 8: Quasi-Convexity and Optimization
 \end{itemize}
 :::
+
+# Further Readings (Optional)
+
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook]Optimization by Vector Space Methods - David G. Luenberger (1997)
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLmI22X7juoWVgfWKyuQM0ZdiwghWXOOHY}{Optimization by Vector Space Methods - David G. Luenberger (1997, Playlist by Peter Galbacs)}
+\end{itemize}
+:::
+

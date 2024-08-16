@@ -97,8 +97,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Matrix Algebra
 
 \begin{itemize}
-  \item[\faBook] Matrix Differential Calculus with Applications in Statistics and Econometrics - Jan R. Magnus, Heinz Neudecker (3rd Edition, 2019)
   \item[\faBook] \href{https://media.pearsoncmg.com/ph/bp/bridgepages/bp_greene_bridgepage/Econometric_Analysis_8/Greene_Appendices.pdf}{Econometric Theory - William H. Greene (Appendix A, 8th Edition, 2020)}
+  \item[\faCalculator] \href{https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf}{The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen (2012)}
   \item[\faCalculator] \href{https://www.matrixcalculus.org}{matrixcalculus.org}
 \end{itemize}
 
@@ -175,4 +175,9 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Further Readings (Optional)
 
-You can check out our Linear Algebra syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] Matrix Differential Calculus with Applications in Statistics and Econometrics - Jan R. Magnus, Heinz Neudecker (3rd Edition, 2019)
+\end{itemize}
+:::

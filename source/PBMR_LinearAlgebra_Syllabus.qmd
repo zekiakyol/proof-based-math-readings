@@ -86,7 +86,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Linear Algebra Done Right (4th Edition, 2024)** by Sheldon Axler is our main book for this session because it is well-written, well-structured, and open-access.  
+**Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Errata-free version)** is our main book for this session because it is well-written, well-structured, and open-access.  
 
 Robert Won's playlist is our main playlist because his narrative is just great.
 
@@ -192,4 +192,9 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 
 # Further Readings (Optional)
 
-You can check out our Matrix Algebra syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+::: {.callout-note icon=false}
+## 
+\begin{itemize}
+  \item[\faBook] Matrix Analysis - Roger A. Horn, Charles R. Johnson (2nd Edition, 2013)
+\end{itemize}
+:::

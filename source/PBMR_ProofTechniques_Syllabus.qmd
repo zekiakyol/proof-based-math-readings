@@ -75,7 +75,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Format
 
-- This session takes 8 weeks.
+- This session takes 12 weeks.
 - We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
 - We do not have face-to-face/online meetings due to the size of the group.
 - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
@@ -123,14 +123,13 @@ In case we need to remember a topic from calculus, we can use these resources.
 
 # Reading Schedule
 
-I recommend the following study routine below:
+I recommend the following study routine below: 
 
-1) Read a chapter from the book.
-2) Watch the playlist of the chapter.
-3) Solve odd-numbered exercises and check their solutions at the end of the book.
-4) Solve even-numbered exercises in the book.
-5) If you cannot solve/understand an exercise, discuss the exercise in our Discord server.
-6) Move on to the next chapter of the book.
+1) First read a chapter from the book, then watch the playlist of the chapter
+2) Solve odd-numbered exercises and check their solutions at the end of the book.
+3) Solve even-numbered exercises and check their solutions from our unofficial solutions manual.
+4) If you cannot solve/understand an exercise, discuss the exercise in our Discord.
+5) Move on to the next chapter of the book
 
 ::: {.callout-tip icon=false}
 ## **\faBook Book of Proof \hfill Week 01 \faCalendar* **
@@ -143,7 +142,7 @@ I recommend the following study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 02 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 02-03 \faCalendar* **
 
 \begin{itemize}
   \item[] Chapter 4: Direct Proof
@@ -153,18 +152,25 @@ I recommend the following study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 03-04 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 04-05 \faCalendar* **
 
 \begin{itemize}
   \item[] Chapter 7: Proving Non-Conditional Statements
   \item[] Chapter 8: Proofs Involving Sets
   \item[] Chapter 9: Disproof
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook Book of Proof \hfill Week 06 \faCalendar* **
+
+\begin{itemize}
   \item[] Chapter 10: Mathematical Induction
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 05-06 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
   \item[] Chapter 11: Relations
@@ -173,18 +179,22 @@ I recommend the following study routine below:
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook Book of Proof \hfill Week 07-08 \faCalendar* **
+## **\faBook Book of Proof \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
-  \item[] We first read Chapter 14, then Chapter 13. These chapters are more challenging than the previous ones.
-  \item[] Chapter 14: Cardinality of Sets
-  \item[] Chapter 13: Proofs in Calculus
+  \item[] Chapter 14: Cardinality of Sets \hfill (If we struggle in this chapter, we should review Chapter 12)
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook Book of Proof \hfill Week 11-12 \faCalendar* **
+
+\begin{itemize}
+  \item[] Chapter 13: Proofs in Calculus \hfill (It is natural to struggle in this chapter)
 \end{itemize}
 :::
 
 # Further Readings (Optional)
-
-We can use the following book to solve more problems. Although the book is not open-access, its official slides are.
 
 ::: {.callout-note icon=false}
 ## 
@@ -193,5 +203,3 @@ We can use the following book to solve more problems. Although the book is not o
   \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018, Slides)}
 \end{itemize}
 :::
-
-You can check out our Real Analysis syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
