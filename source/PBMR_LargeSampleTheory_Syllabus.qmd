@@ -22,7 +22,7 @@ format:
       - right=1.9cm
       - left=1.9cm
       - top=1.3cm
-      - bottom=2cm
+      - bottom=1.5cm
     toc: true
     toc-depth: 3
     toccolor: blue
@@ -104,6 +104,7 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 
 \begin{itemize}
   \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
+  \item[\faScroll] \href{https://www.jstor.org/stable/25652246}{Understanding Convergence Concepts: A Visual-Minded and Graphical Simulation-Based Approach - Pierre Lafaye de Micheaux, Benoit Liquet (2009)}
 \end{itemize}
 
 ### Proof

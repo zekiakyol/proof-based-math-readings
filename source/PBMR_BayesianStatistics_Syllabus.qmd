@@ -103,6 +103,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
   \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2022)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2022, Playlist)}
+  \item[\faScroll] \href{https://www.jstor.org/stable/2685208}{Explaining the Gibbs Sampler - George Casella, Edward I. George (1992)}
+  \item[\faScroll] \href{https://www.jstor.org/stable/2684568}{Understanding the Metropolis-Hastings Algorithm (Siddhartha Chib, Edward Greenberg, 1995)}
 \end{itemize}
 
 ### Proof

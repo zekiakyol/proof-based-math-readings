@@ -85,7 +85,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book
 
-**Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)** is our main book because it is well-structured and well-written. It also provides detailed solutions for exercises in the book.
+**Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)** is our main book because it is well-structured and well-written. It also provides detailed solutions for the exercises in the book.
 
 \begin{itemize}
   \item[\faBook] Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)
@@ -97,9 +97,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Matrix Algebra
 
 \begin{itemize}
-  \item[\faBook] \href{https://media.pearsoncmg.com/ph/bp/bridgepages/bp_greene_bridgepage/Econometric_Analysis_8/Greene_Appendices.pdf}{Econometric Theory - William H. Greene (Appendix A, 8th Edition, 2020)}
-  \item[\faCalculator] \href{https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf}{The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen (2012)}
+  \item[\faScroll] \href{https://www.sciencedirect.com/science/article/pii/S0304407624002070}{A Gentle Introduction to Matrix Calculus - Jan R. Magnus (2024)}
+  \item[\faBook] \href{https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf}{The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen (2012)}
   \item[\faCalculator] \href{https://www.matrixcalculus.org}{matrixcalculus.org}
+  \item[\faBook] \href{https://media.pearsoncmg.com/ph/bp/bridgepages/bp_greene_bridgepage/Econometric_Analysis_8/Greene_Appendices.pdf}{Econometric Theory - William H. Greene (Appendix A, 8th Edition, 2020)}
 \end{itemize}
 
 ### Proof

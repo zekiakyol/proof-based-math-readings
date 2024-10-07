@@ -21,8 +21,8 @@ format:
     geometry: 
       - right=1.75cm
       - left=1.75cm
-      - top=1.5cm
-      - bottom=2cm
+      - top=1.3cm
+      - bottom=1.5cm
     toc: true
     toc-depth: 3
     toccolor: blue
@@ -96,6 +96,7 @@ Robert Won's playlist is our main playlist because his narrative is just great.
   \item[\faYoutube] \href{https://linear.axler.net/LADRvideos4e.html}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Playlist by Sheldon Axler)}
   \item[\faBook] \href{https://blogs.gwu.edu/robertwon/2024/02/02/linear-algebra-done-right-course/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Notes by Robert Won)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUOF6EOFxCQ2BY71kLBGleN0c9aKke3Vd}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Solutions by MathwithoutCommentary)}
+  \item[\faBook] \href{https://github.com/motivationss/Linear_Algebra_Done_Right_4th_ManualSolution}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Solutions by Oliver Li)}
   \item[\faBook] \href{https://github.com/nehc0/Linear-Algebra-Done-Right-4th-Solutions}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Solutions by nehc0)}
   \item[\faBook] \href{https://linearalgebras.com}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
   \item[\faBook] \href{https://github.com/jubnoske08/linear_algebra}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by jubnoske08)}
@@ -109,7 +110,7 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab}{Essence of Linear Algebra - 3Blue1Brown (2023)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLflMyS1QOtxwiN5oOuyY4W_8fZlTTnRcF}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Playlist by Jason Morton)}
-  \item[\faYoutube] \href{https://mediaspace.illinois.edu/channel/MATH%2B416%2BAbstract%2BLinear%2BAlgebra/223194603}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Playlist by Felix Leditzky)}
+  \item[\faScroll] \href{https://www.axler.net/DwD.pdf}{Down with Determinants! - Sheldon Axler (1994)}
 \end{itemize}
 
 ### Proof

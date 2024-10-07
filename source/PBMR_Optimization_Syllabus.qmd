@@ -85,7 +85,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**A First Course in Optimization Theory (1996)** by Rangarajan K. Sundaram is our main book because it is well-written and well-structured.
+**A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)** is our main book because it is well-written and well-structured.
 
 \begin{itemize}
   \item[\faBook] A First Course in Optimization Theory - Rangarajan K. Sundaram (1996)
@@ -175,7 +175,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-note icon=false}
 ## 
 \begin{itemize}
-  \item[\faBook]Optimization by Vector Space Methods - David G. Luenberger (1997)
+  \item[\faBook] Optimization by Vector Space Methods - David G. Luenberger (1997)
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLmI22X7juoWVgfWKyuQM0ZdiwghWXOOHY}{Optimization by Vector Space Methods - David G. Luenberger (1997, Playlist by Peter Galbacs)}
 \end{itemize}
 :::

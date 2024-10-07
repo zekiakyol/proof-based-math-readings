@@ -21,8 +21,8 @@ format:
     geometry: 
       - right=1.8cm
       - left=1.8cm
-      - top=1.7cm
-      - bottom=1.7cm
+      - top=1.3cm
+      - bottom=1.5cm
     toc: true
     toc-depth: 3
     toccolor: blue
@@ -105,6 +105,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg}{Introduction to Mathematical Statistics - Jingyi Jessica Li (2022)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR}{Mathematical Statistics - Jem N. Corcoran (2024)}
   \item[\faBook] \href{https://statproofbook.github.io}{The Book of Statistical Proofs - Joram Soch (2024)}
+  \item[\faScroll] \href{https://arxiv.org/pdf/0804.2996}{The Epic Story of Maximum Likelihood Stephen - M. Stigler (2008)}
 \end{itemize}
 
 ### Proof
