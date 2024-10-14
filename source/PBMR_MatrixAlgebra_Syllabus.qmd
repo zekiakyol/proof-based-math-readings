@@ -176,8 +176,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Matrix Differential Calculus with Applications in Statistics and Econometrics - Jan R. Magnus, Heinz Neudecker (3rd Edition, 2019)
 \end{itemize}

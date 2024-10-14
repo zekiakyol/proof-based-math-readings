@@ -185,8 +185,7 @@ Mikhail Lavrov's playlist is our playlist because the narrative is great.
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Graphs and Digraphs - Gary Chartrand, Heather Jordon, Vincent Vatter, Ping Zhang (7th Edition, 2024)
 \end{itemize}

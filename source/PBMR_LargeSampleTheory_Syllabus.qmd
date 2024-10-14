@@ -182,8 +182,7 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Asymptotic Theory for Econometricians - Halbert White (Revised Edition, 2000)
 \end{itemize}

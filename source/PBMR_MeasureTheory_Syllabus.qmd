@@ -176,4 +176,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Further Readings (Optional)
 
-You can check out our Measure Theoretic Probability syllabus at [\faGithub github.com/zekiakyol/proof-based-math-readings](https://github.com/zekiakyol/proof-based-math-readings)
+::: {.callout-note appearance="minimal"}
+\begin{itemize}
+  \item[] Our Measure Theoretic Probability syllabus at \href{https://github.com/zekiakyol/proof-based-math-readings}{\faGithub github.com/zekiakyol/proof-based-math-readings}
+\end{itemize}
+:::

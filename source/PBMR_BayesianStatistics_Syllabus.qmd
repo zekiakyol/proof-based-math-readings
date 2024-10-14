@@ -189,8 +189,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019)
   \item[\faBook] \href{https://web.ics.purdue.edu/~jltobias/second_edition/errata.pdf}{Bayesian Econometric Methods - Joshua Chan, Gary Koop, Dale Poirier, Justin Tobias (2nd Edition, 2019, Errata)}

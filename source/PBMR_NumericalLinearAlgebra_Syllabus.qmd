@@ -159,8 +159,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Matrix Computations - Gene H. Golub, Charles F. Van Loan (4th Edition, 2013)
   \item[\faBook] \href{https://www.cs.cornell.edu/cv/cvl_home/books/}{Matrix Computations - Gene H. Golub, Charles F. Van Loan (4th Edition, 2013, Errata and M-files)}

@@ -172,11 +172,9 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Optimization by Vector Space Methods - David G. Luenberger (1997)
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLmI22X7juoWVgfWKyuQM0ZdiwghWXOOHY}{Optimization by Vector Space Methods - David G. Luenberger (1997, Playlist by Peter Galbacs)}
 \end{itemize}
 :::
-

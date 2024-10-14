@@ -195,8 +195,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is just gr
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}

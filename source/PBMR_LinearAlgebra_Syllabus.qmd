@@ -193,8 +193,7 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Matrix Analysis - Roger A. Horn, Charles R. Johnson (2nd Edition, 2013)
 \end{itemize}

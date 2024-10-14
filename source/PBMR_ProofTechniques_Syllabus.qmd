@@ -21,8 +21,8 @@ format:
     geometry: 
       - right=1.8cm
       - left=1.8cm
-      - top=1.9cm
-      - bottom=1.9cm
+      - top=1.5cm
+      - bottom=1.5cm
     toc: true
     toc-depth: 3
     toccolor: blue
@@ -193,8 +193,7 @@ I recommend the following study routine below:
 
 # Further Readings (Optional)
 
-::: {.callout-note icon=false}
-## 
+::: {.callout-note appearance="minimal"}
 \begin{itemize}
   \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018)
   \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018, Slides)}
