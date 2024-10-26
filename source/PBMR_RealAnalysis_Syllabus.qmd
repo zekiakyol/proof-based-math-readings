@@ -85,13 +85,13 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)** is our main book for this session because it is well-written, well-structured, and open-access.  
+**Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024)** is our main book for this session because it is well-written, well-structured, and open-access.  
 Casey Rodriguez's playlist is our main playlist because his narrative is just great.
 
 \begin{itemize}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Playlist by Casey Rodriguez)}
-  \item[\faBook] \href{https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/resources/mit18_100af20_lec_full2/}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Notes by Casey Rodriguez)}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024, Playlist by Casey Rodriguez)}
+  \item[\faBook] \href{https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/resources/mit18_100af20_lec_full2/}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024, Notes by Casey Rodriguez)}
 \end{itemize}
 
 ## Supplementary

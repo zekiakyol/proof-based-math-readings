@@ -1,7 +1,6 @@
 ## Proof-Based Math Readings
 
 - **Proof-Based Math Readings** is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-- Our reading group has **27 members** for now and accepts new members.
 - Please use the [:page_facing_up: Application Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join the reading group.
 - Applicants will be informed about their application results within a week via email.
 
@@ -15,6 +14,7 @@
 
 :date: Term | :scroll: Syllabus | :closed_book: Book | :hourglass: Duration
 :-- | :--: | :--: | :--:
+2026 Summer | [Algorithms](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Algorithms_Syllabus.pdf) | Introduction to Algorithms <br> - T. Cormen, C. Leiserson, R. Rivest, <br> C. Stein (4th Edition, 2022) | 12 Weeks
 2025 Summer | [Graph Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_GraphTheory_Syllabus.pdf) | A First Course in Graph Theory <br> - Gary Chartrand, Ping Zhang (2012)| 12 Weeks
 2025 Summer | [Measure Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheory_Syllabus.pdf) | Measure, Integration & Real Analysis <br> - Sheldon Axler (2024) | 12 Weeks
 2025 Summer | [Numerical <br> Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_NumericalLinearAlgebra_Syllabus.pdf) | Numerical Linear Algebra <br> - Lloyd N. Trefethen, David Bau III (2022)| 12 Weeks
@@ -26,7 +26,7 @@
 2024 Spring | [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) | Linear Algebra Done Right <br> - Sheldon Axler (4th Edition, 2024) | 12 Weeks
 2023 Winter | [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf) | Topology <br> - James Munkres (2nd Edition, 2014) | 12 Weeks
 2023 Fall   | [Matrix Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MatrixAlgebra_Syllabus.pdf) | Matrix Algebra <br> - Karim M. Abadir, Jan R. Magnus (2005) | 12 Weeks
-2023 Summer | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | Basic Analysis I <br> - Jiri Lebl (Version 6.0, 2023) | 12 Weeks
+2023 Summer | [Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | Basic Analysis I <br> - Jiri Lebl (Version 6.1, 2024) | 12 Weeks
 2023 Summer | [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf) | Book of Proof <br> - Richard Hammack (3.3 Edition, 2022) | 12 Weeks
 
 ## Dependency Tree

@@ -114,8 +114,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2024, Supplement)}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.0, 2023, Playlist by Casey Rodriguez)}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
 
