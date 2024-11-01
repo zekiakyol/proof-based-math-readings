@@ -19,10 +19,10 @@ format:
     papersize: letter
     fontsize: 10pt
     geometry: 
-      - right=1.8cm
-      - left=1.8cm
-      - top=1.5cm
-      - bottom=1.5cm
+      - right=2cm
+      - left=2cm
+      - top=2cm
+      - bottom=2cm
     toc: true
     toc-depth: 3
     toccolor: blue
@@ -62,29 +62,27 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \newpage
 
-# Motivation 
+# Motivation
 
 - *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
 - This session of the reading group is on *Proof Techniques*.
 
 # Prerequisites
 
-- CGPA: 3.00/4.00.
-- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group.
-- Applicants are informed about their application results within a week via email.
+- CGPA: 3.00/4.00. Calculus resources below.
+- Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
 
 # Format
 
-- This session takes 12 weeks.
-- We discuss the topics/exercises that we struggle with at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
-- We do not have face-to-face/online meetings due to the size of the group.
+- This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
+- We discuss the topics and exercises at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
 - Members are expected to read the chapters, and watch the chapter videos from the book's playlist.
 
 # Resources [All are open-access]
 
 ## Main Book and Main Book's Playlist
 
-**Book of Proof (3.3 Edition, 2022)** by Richard Hammack is our main book because it is a well-written and well-structured pedagogical masterpiece. It is also open-access and provides detailed solutions for odd-numbered exercises at the end of the book.
+**Book of Proof - Richard Hammack (3.3 Edition, 2022)** is our main book because it is a well-written and well-structured pedagogical masterpiece. It is also open-access and provides detailed solutions for odd-numbered exercises at the end of the book.
 
 Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his narrative is just great.
 
@@ -95,7 +93,7 @@ Jeremy Teitelbaum's playlist on Book of Proof is our main playlist because his n
 
 ## Supplementary
 
-### Proof
+### Proof Techniques
 
 Because our main playlist does not cover Chapters 13-14, we cover these chapters from Michael Penn's playlist.
 
@@ -120,13 +118,13 @@ Because our main playlist does not cover Chapters 13-14, we cover these chapters
 
 # Reading Schedule
 
-I recommend the following study routine below: 
+I recommend the following study routine below:
 
-1) First read a chapter from the book, then watch the playlist of the chapter
+1) First read a chapter from the book, then watch the playlist of the chapter.
 2) Solve odd-numbered exercises and check their solutions at the end of the book.
 3) Solve even-numbered exercises and check their solutions from our unofficial solutions manual.
 4) If you cannot solve/understand an exercise, discuss the exercise in our Discord.
-5) Move on to the next chapter of the book
+5) Move on to the next chapter of the book.
 
 ::: {.callout-tip icon=false}
 ## **\faBook Book of Proof \hfill Week 01 \faCalendar* **
@@ -195,7 +193,7 @@ I recommend the following study routine below:
 
 ::: {.callout-note appearance="minimal"}
 \begin{itemize}
-  \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018)
-  \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Polimeni, Ping Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018, Slides)}
+  \item[\faBook] Mathematical Proofs A Transition to Advanced Mathematics - G. Chartrand, A. Polimeni, P. Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018)
+  \item[\faDesktop] \href{https://media.pearsoncmg.com/cmg/pmmg_mml_shared/Chartrand_4e}{Mathematical Proofs A Transition to Advanced Mathematics - G. Chartrand, A. Polimeni, P. Zhang (\textbf{Chapters 0-14}, 4th Edition, 2018, Slides)}
 \end{itemize}
 :::
