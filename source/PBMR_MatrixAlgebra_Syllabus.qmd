@@ -64,7 +64,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Motivation
 
-- *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
+- *Proof-Based Math Readings* is a free, independent online reading group where we study the mathematics required for economics master’s and PhD programs through an intuitive approach. Active since May 2023.
 - This session of the reading group is on *Matrix Algebra*.
 
 # Prerequisites
@@ -75,8 +75,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Format
 
 - This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
-- We discuss the topics and exercises at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
-- Members are expected to read the chapters from the book.
+- Members read the main book and discuss the topics/exercises in the Proof-Based Math Readings Discord \faDiscord.
 
 # Resources
 

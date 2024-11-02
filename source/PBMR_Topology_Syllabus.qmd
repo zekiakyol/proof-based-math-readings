@@ -21,7 +21,7 @@ format:
     geometry: 
       - right=2cm
       - left=2cm
-      - top=1.9cm
+      - top=2cm
       - bottom=2cm
     toc: true
     toc-depth: 3
@@ -64,8 +64,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Motivation
 
-- *Proof-Based Math Readings* is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-- This session of the reading group is on *Topology*. \vspace*{-0.5cm}
+- *Proof-Based Math Readings* is a free, independent online reading group where we study the mathematics required for economics master’s and PhD programs through an intuitive approach. Active since May 2023.
+- This session of the reading group is on *Topology*.
 
 # Prerequisites
 
@@ -75,8 +75,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Format
 
 - This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
-- We discuss the topics and exercises at [\faDiscord Proof-Based Math Readings \[Discord\]](https://discord.com).
-- Members are expected to read the chapters, and watch the chapter videos from the book's playlist. \vspace*{-0.5cm}
+- Members read the main book and discuss the topics/exercises in the Proof-Based Math Readings Discord \faDiscord.
 
 # Resources
 
@@ -98,11 +97,9 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
 
 ### Topology
 
-We use **Schaum's Outline of General Topology** for exercises because it has solutions for all 391 exercises. 
-
 \begin{itemize}
-  \item[\faBook] Schaum's Outline of General Topology - Seymour Lipschutz (2011) $\rightarrow$ Beginner friendly
-  \item[\faBook] \href{https://www.topologywithouttears.net}{Topology Without Tears - Sidney A. Morris (2024)} $\mspace{127mu} \rightarrow$ Beginner friendly and open-access
+  \item[\faBook] Schaum's Outline of General Topology - Seymour Lipschutz (2011) $\rightarrow$ Beginner friendly and contains solutions
+  \item[\faBook] \href{https://www.topologywithouttears.net}{Topology Without Tears - Sidney A. Morris (2024)} $\mspace{112mu} \rightarrow$ Beginner friendly and open-access
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLfKcn7LuYa_Kr3_aWePrYufu7MMYWYM5-}{General Topology - Bernard Badzioch (2020)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL9ERqa15B9_v10p-Agp4yq-90tRYoEUv6}{Intuitive Topology - Troy Kling (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0}{Topology - Marius Furter (2022)}
@@ -165,7 +162,7 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 06-07-08-09 \faCalendar* **
+## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 06-07-08-09-10 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{23} Connected Spaces
@@ -179,13 +176,11 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 4: Countability and Separation Axioms \hfill Week 10-11-12 \faCalendar* **
+## **\faBook TM, Chapter 4: Countability and Separation Axioms \hfill Week 11-12 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{30} The Countability Axioms
   \item[] \textbf{31} The Separation Axioms
-  \item[] \textbf{32} Normal Spaces
-  \item[] \textbf{33} The Urysohn Lemma
 \end{itemize}
 :::
 
@@ -193,6 +188,6 @@ We use **Schaum's Outline of General Topology** for exercises because it has sol
 
 ::: {.callout-note appearance="minimal"}
 \begin{itemize}
-  \item[] Our Measure Theory syllabus at \href{https://github.com/zekiakyol/proof-based-math-readings}{\faGithub github.com/zekiakyol/proof-based-math-readings}
+  \item[] Our Measure Theory and Measure Theoretic Probability syllabuses at \href{https://github.com/zekiakyol/proof-based-math-readings}{\faGithub github.com/zekiakyol/proof-based-math-readings}
 \end{itemize}
 :::

@@ -1,8 +1,7 @@
 ## Proof-Based Math Readings
 
-- **Proof-Based Math Readings** is a free and independent online reading group where we study mathematics required in economics master's/PhD programs using an intuitive approach.
-- Please use the [:page_facing_up: Application Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join the reading group.
-- Applicants will be informed about their application results within a week via email.
+- **Proof-Based Math Readings** is a free, independent online reading group where we study the mathematics required for economics master’s and PhD programs through an intuitive approach. Active since May 2023.
+- Please use the [:page_facing_up: Application Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
 
 <table align="center">
   <tr>
