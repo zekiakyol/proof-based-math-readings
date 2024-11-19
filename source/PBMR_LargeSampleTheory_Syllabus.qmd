@@ -81,13 +81,13 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Elements of Large-Sample Theory - E. L. Lehmann (1999)** is our main book for this session because it is well-written and well-structured.
+**Elements of Large-Sample Theory - Erich L. Lehmann (1999)** is our main book for this session because it is well-written and well-structured.
 
 Jingyi Jessica Li's playlist is our main playlist because her narrative is just great.
 
 \begin{itemize}
-  \item[\faBook] Elements of Large-Sample Theory - E. L. Lehmann (1999) $\mspace{42mu} \rightarrow$ Easier but doesn't contain solutions
-  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes/errata}{Elements of Large-Sample Theory - E. L. Lehmann (1999, Errata)}
+  \item[\faBook] Elements of Large-Sample Theory - Erich L. Lehmann (1999) $\mspace{18mu} \rightarrow$ Easier but doesn't contain solutions
+  \item[\faBook] \href{https://github.com/zekiakyol/compact-erratas/blob/main/ElementsOfLargeSampleTheory_ErichLehmann_Errata.pdf}{Elements of Large-Sample Theory - Erich L. Lehmann (1999, Errata)}
   \item[\faBook] A Course in Large Sample Theory - Thomas S. Ferguson (2002) $\rightarrow$ Harder but contains solutions
   \item[\faBook] \href{https://www.math.ucla.edu/~tom/LST/Errata.pdf}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Errata)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Playlist by Jingyi Jessica Li)}
@@ -123,7 +123,7 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is just 
 
 # Reading Schedule
 
-- **ELST** is the abbreviation of **Elements of Large-Sample Theory - E. L. Lehmann (1999)**.
+- **ELST** is the abbreviation of **Elements of Large-Sample Theory - Erich L. Lehmann (1999)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook ELST, Chapter 1: Mathematical Background \hfill Week 01-02 \faCalendar* **

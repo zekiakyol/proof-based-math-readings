@@ -85,7 +85,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)
-  \item[\faBook] \href{https://www.janmagnus.nl/misc/corrections03.pdf}{Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005, Errata)}
+  \item[\faBook] \href{https://github.com/zekiakyol/compact-erratas/blob/main/MatrixAlgebra_KarimAbadirJanMagnus_Errata.pdf}{Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005, Errata)}
 \end{itemize}
 
 ## Supplementary

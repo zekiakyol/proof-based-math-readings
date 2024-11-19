@@ -20,7 +20,7 @@
 2025 Spring | [Optimization](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Optimization_Syllabus.pdf) | A First Course in Optimization Theory <br> - Rangarajan K. Sundaram (1996) | 12 Weeks
 2024 Winter | [Bayesian <br> Statistics](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_BayesianStatistics_Syllabus.pdf) | Bayesian Econometrics <br> - Gary Koop (2003) | 12 Weeks
 2024 Fall   | [Measure <br> Theoretic <br> Probability](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheoreticProbability_Syllabus.pdf) | A First Look at Rigorous Probability Theory <br> - Jeffrey S. Rosenthal (2nd Edition, 2006) | 12 Weeks
-2024 Summer | [Large Sample <br> Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LargeSampleTheory_Syllabus.pdf) | Elements of Large-Sample Theory <br> - E. L. Lehmann (1999) | 12 Weeks
+2024 Summer | [Large Sample <br> Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LargeSampleTheory_Syllabus.pdf) | Elements of Large-Sample Theory <br> - Erich L. Lehmann (1999) | 12 Weeks
 2024 Summer | [Statistics](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Statistics_Syllabus.pdf) | Statistical Inference <br> - George Casella, Roger Berger (2nd Edition, 2024) | 12 Weeks
 2024 Spring | [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) | Linear Algebra Done Right <br> - Sheldon Axler (4th Edition, 2024) | 12 Weeks
 2023 Winter | [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf) | Topology <br> - James Munkres (2nd Edition, 2014) | 12 Weeks
