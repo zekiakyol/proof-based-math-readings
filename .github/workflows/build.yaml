@@ -33,7 +33,7 @@ jobs:
       - name: Setup Quarto and TinyTeX
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: 1.6.39
+          version: 1.6.40
           tinytex: true
 
       - name: TEST Render Quarto files to PDF
@@ -45,3 +45,20 @@ jobs:
             printf "Rendering $file to PDF"
             quarto render "$file" --to pdf || exit 1
           done
+
+      - name: Install Poppler tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+  
+      - name: TEST PDF pages
+        run: |
+          for file in $(find . -type f -name "*.pdf"); do
+            echo "Checking $file..."
+            pages=$(pdfinfo "$file" | grep Pages | awk '{print $2}')
+            if [ "$pages" -ne 3 ]; then
+              echo "$file does not have exactly 3 pages! It has $pages pages."
+              exit 1
+            fi
+          done
+          echo "All PDF files have exactly 3 pages."
