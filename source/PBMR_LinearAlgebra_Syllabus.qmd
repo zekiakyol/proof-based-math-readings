@@ -70,7 +70,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Prerequisites
 
-- CGPA: 3.00/4.00. Proof Techniques resources below and [\faYoutube Linear Algebra - Gilbert Strang (2005)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8).
+- Proof Techniques resources below and [\faYoutube Linear Algebra - Gilbert Strang (2005)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8).
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
 
 # Format
@@ -82,18 +82,18 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Errata-free version)** is our main book for this session because it is well-written, well-structured, and open-access.  
+**Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Errata-free version)** is our main book for this session because it is well-written, well-structured, and open-access.
 
-Robert Won's playlist is our main playlist because his narrative is just great.
+Robert Won's playlist is our main playlist because his narrative is great.
 
 \begin{itemize}
-  \item[\faBook] \href{https://linear.axler.net/LADR4e.pdf}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Errata-free version)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Playlist by Robert Won)}
-  \item[\faYoutube] \href{https://linear.axler.net/LADRvideos4e.html}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Playlist by Sheldon Axler)}
-  \item[\faBook] \href{https://blogs.gwu.edu/robertwon/2024/02/02/linear-algebra-done-right-course/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Notes by Robert Won)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUOF6EOFxCQ2BY71kLBGleN0c9aKke3Vd}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Solutions by MathwithoutCommentary)}
-  \item[\faBook] \href{https://github.com/motivationss/Linear_Algebra_Done_Right_4th_ManualSolution}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Solutions by Oliver Li)}
-  \item[\faBook] \href{https://github.com/nehc0/Linear-Algebra-Done-Right-4th-Solutions}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024, Solutions by nehc0)}
+  \item[\faBook] \href{https://linear.axler.net/LADR4e.pdf}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Errata-free version)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Playlist by Robert Won)}
+  \item[\faYoutube] \href{https://linear.axler.net/LADRvideos4e.html}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Playlist by Sheldon Axler)}
+  \item[\faBook] \href{https://blogs.gwu.edu/robertwon/2024/02/02/linear-algebra-done-right-course/}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Notes by Robert Won)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUOF6EOFxCQ2BY71kLBGleN0c9aKke3Vd}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Solutions by MathwithoutCommentary)}
+  \item[\faBook] \href{https://github.com/motivationss/Linear_Algebra_Done_Right_4th_ManualSolution}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Solutions by Oliver Li)}
+  \item[\faBook] \href{https://github.com/nehc0/Linear-Algebra-Done-Right-4th-Solutions}{Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025, Solutions by nehc0)}
   \item[\faBook] \href{https://linearalgebras.com}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by linearalgebras)}
   \item[\faBook] \href{https://github.com/jubnoske08/linear_algebra}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by jubnoske08)}
   \item[\faBook] \href{https://solverer.com/library/sheldon_axler/linear_algebra_done_right?utm_source=reddit&utm_medium=link}{Linear Algebra Done Right - Sheldon Axler (3rd Edition, 2015, Solutions by Solverer)}
@@ -121,7 +121,7 @@ Robert Won's playlist is our main playlist because his narrative is just great.
 
 # Reading Schedule
 
-- **LADR** is the abbreviation of **Linear Algebra Done Right - Sheldon Axler (4th Edition, 2024)**.
+- **LADR** is the abbreviation of **Linear Algebra Done Right - Sheldon Axler (4th Edition, 2025)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 1: Vector Spaces \hfill Week 01 \faCalendar* **

@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Prerequisites
 
-- CGPA: 3.00/4.00. Proof Techniques and Real Analysis resources below.
+- Proof Techniques and Real Analysis resources below.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
 
 # Format
@@ -81,8 +81,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Topology - James Munkres (2nd Edition, 2014)** is our main book for this session because it is well-written, well-structured, and has plenty of intuitive figures.  
-Bruno Zimmermann's playlist is our main playlist because his narrative is just great.
+**Topology - James Munkres (2nd Edition, 2014)** is our main book for this session because it is well-written, well-structured, and has plenty of intuitive figures.
 
 \begin{itemize}
   \item[\faBook] Topology - James Munkres (2nd Edition, 2014)
@@ -103,6 +102,7 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLfKcn7LuYa_Kr3_aWePrYufu7MMYWYM5-}{General Topology - Bernard Badzioch (2020)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL9ERqa15B9_v10p-Agp4yq-90tRYoEUv6}{Intuitive Topology - Troy Kling (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0}{Topology - Marius Furter (2022)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1y0GB1oYh0HZ8UTIyMJN03J}{Topology - Michael Penn (2025)}
 \end{itemize}
 
 ### Proof Techniques
@@ -145,7 +145,7 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 2: Topological Spaces and Continuous Functions \hfill Week 02-03-04-05 \faCalendar* **
+## **\faBook TM, Chapter 2: Topological Spaces and Continuous Functions \hfill Week 02-03-04-05-06 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{12} Topological Spaces
@@ -162,7 +162,7 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 06-07-08-09-10 \faCalendar* **
+## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 07-08-09-10-11 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{23} Connected Spaces
@@ -176,7 +176,7 @@ Bruno Zimmermann's playlist is our main playlist because his narrative is just g
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 4: Countability and Separation Axioms \hfill Week 11-12 \faCalendar* **
+## **\faBook TM, Chapter 4: Countability and Separation Axioms \hfill Week 12 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{30} The Countability Axioms

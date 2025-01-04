@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Prerequisites
 
-- CGPA: 3.00/4.00. Proof Techniques and Statistics resources below.
+- Proof Techniques and Statistics resources below.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
 
 # Format
@@ -81,11 +81,13 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Bayesian Econometrics - Gary Koop (2003)** is our main book for this session because it is well-written and well-structured. Gary Koop's playlist is our main playlist because his narrative is just great.
+**Bayesian Econometrics - Gary Koop (2003)** is our main book for this session because it is well-written and well-structured.
+
+Gary Koop's playlist is our main playlist because his narrative is great.
 
 \begin{itemize}
   \item[\faBook] Bayesian Econometrics - Gary Koop (2003)
-  \item[\faBook] \href{http://personal.strath.ac.uk/gary.koop/sgpe_bayesian/corrections.pdf}{Bayesian Econometrics - Gary Koop (2003, Errata)}
+  \item[\faBook] \href{https://www.wiley.com/legacy/wileychi/koopbayesian/supp/corrections.pdf}{Bayesian Econometrics - Gary Koop (2003, Errata)}
   \item[\faYoutube] \href{https://strath-my.sharepoint.com/:f:/g/personal/ping_wu_strath_ac_uk/EgGn4azLQjtBhZJ7Sx3MAwMBxccM-CnOgleiOIN22gCq4Q?e=XEKe5u}{Bayesian Econometrics - Gary Koop (2003, Playlist)}
 \end{itemize}
 
@@ -97,10 +99,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] \href{https://www.bayesrulesbook.com}{Bayes Rules! - Alicia A. Johnson, Miles Q. Ott, Mine Dogucu (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm}{Bayesian Statistics: A Comprehensive Course - Ben Lambert (2014)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
-  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2022, Playlist)}
+  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2024)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2024, Playlist)}
   \item[\faScroll] \href{https://www.jstor.org/stable/2685208}{Explaining the Gibbs Sampler - George Casella, Edward I. George (1992)}
-  \item[\faScroll] \href{https://www.jstor.org/stable/2684568}{Understanding the Metropolis-Hastings Algorithm (Siddhartha Chib, Edward Greenberg, 1995)}
+  \item[\faScroll] \href{https://www.jstor.org/stable/2684568}{Understanding the Metropolis-Hastings Algorithm - Siddhartha Chib, Edward Greenberg (1995)}
 \end{itemize}
 
 ### Proof Techniques
@@ -114,9 +116,9 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Statistics
 
 \begin{itemize}
-  \item[\faBook] \href{https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Summary Material)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Playlist)}
-  \item[\faBook] \href{http://athenasc.com/probbook.html}{Introduction to Probability - Dimitri P. Bertsekas, John N. Tsitsiklis (2nd Edition, 2008, Solutions \& Errata)}
+  \item[\faBook] \href{https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf}{Introduction to Probability - Dimitri Bertsekas, John Tsitsiklis (2nd Edition, 2008, Summary Material)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6}{Introduction to Probability - Dimitri Bertsekas, John Tsitsiklis (2nd Edition, 2008, Playlist)}
+  \item[\faBook] \href{http://athenasc.com/probbook.html}{Introduction to Probability - Dimitri Bertsekas, John Tsitsiklis (2nd Edition, 2008, Solutions \& Errata)}
 \end{itemize}
 
 \newpage
@@ -129,9 +131,9 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 01 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{Appendix A:} Introduction to Matrix Algebra
-  \item[] \textbf{Appendix B:} Introduction to Probability and Statistics
-  \item[] \textbf{1:} An Overview of Bayesian Econometrics
+  \item[] \textbf{Appendix A} Introduction to Matrix Algebra
+  \item[] \textbf{Appendix B} Introduction to Probability and Statistics
+  \item[] \textbf{1} An Overview of Bayesian Econometrics
 \end{itemize}
 :::
 
@@ -139,7 +141,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 02 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{2:} The Normal Linear Regression Model with Natural Conjugate Prior and a Single Explanatory Variable
+  \item[] \textbf{2} The Normal Linear Regression Model with Natural Conjugate Prior and a Single Explanatory Variable
 \end{itemize}
 :::
 
@@ -147,7 +149,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 03-04 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{3:} The Normal Linear Regression Model with Natural Conjugate Prior and Many Explanatory Variables
+  \item[] \textbf{3} The Normal Linear Regression Model with Natural Conjugate Prior and Many Explanatory Variables
 \end{itemize}
 :::
 
@@ -155,7 +157,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 05-06 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{4:} The Normal Linear Regression Model with Other Priors
+  \item[] \textbf{4} The Normal Linear Regression Model with Other Priors
 \end{itemize}
 :::
 
@@ -163,7 +165,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 07-08 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{5:} The Nonlinear Regression Model
+  \item[] \textbf{5} The Nonlinear Regression Model
 \end{itemize}
 :::
 
@@ -171,7 +173,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{6:} The Linear Regression Model with General Error Covariance Matrix
+  \item[] \textbf{6} The Linear Regression Model with General Error Covariance Matrix
 \end{itemize}
 :::
 
@@ -179,7 +181,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook BE \hfill Week 11-12 \faCalendar* **
 
 \begin{itemize}
-  \item[] \textbf{7:} The Linear Regression Model with Panel Data
+  \item[] \textbf{7} The Linear Regression Model with Panel Data
 \end{itemize}
 :::
 

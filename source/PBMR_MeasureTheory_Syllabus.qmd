@@ -69,7 +69,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Prerequisites
 
-- CGPA: 3.00/4.00. Proof Techniques, Real Analysis, and Topology resources below.
+- Proof Techniques, Real Analysis, and Topology resources below.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
 
 # Format
@@ -95,7 +95,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 \begin{itemize}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j}{Measure Theory - The Bright Side of Mathematics (2024)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLyqSpQzTE6M_DZRQxHUafLgeLxZxMpVGS}{Measure Theory - Indrava Roy (2020)}
-  \item[\faScroll] \href{https://www.youtube.com/watch?v=LDNDTOVnKJk}{A horizontal integral?! Introduction to Lebesgue Integration - vcubingx (2020)}
+  \item[\faYoutube] \href{https://www.youtube.com/watch?v=LDNDTOVnKJk}{A horizontal integral?! Introduction to Lebesgue Integration - vcubingx (2020)}
+  \item[\faYoutube] \href{https://www.open.ac.uk/library/digital-archive/module/xcri:M331/program}{The Lebesgue Integral - BBC (1975)}
 \end{itemize}
 
 ### Proof Techniques
