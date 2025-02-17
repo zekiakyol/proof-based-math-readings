@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Measure Theoretic Probability**  \n 2024 Fall"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -55,7 +55,6 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| fig-align: center
 #| out-width: 40%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
@@ -81,15 +80,15 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006)** is our main book for this session because it is well-written and well-structured.
+**A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020)** is our main book for this session because it is well-written and well-structured.
 
 Jem Corcoran's playlist is our main playlist because her narrative is great.
 
 \begin{itemize}
-  \item[\faBook] A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006)
-  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/errata2.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006, Errata)}
-  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/grprobsol.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006, Solutions)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrO6VtBSiQLsNlo9QBm30nxC}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006, Playlist by J. Corcoran)}
+  \item[\faBook] A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020)
+  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/errata2.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020, Errata)}
+  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/grprobsol.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020, Solutions)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrO6VtBSiQLsNlo9QBm30nxC}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020, Playlist by J. Corcoran)}
 \end{itemize}
 
 ## Supplementary
@@ -107,9 +106,9 @@ Jem Corcoran's playlist is our main playlist because her narrative is great.
 ### Proof Techniques
 
 \begin{itemize}
-  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.4 Edition, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Michael Penn)}
 \end{itemize}
 
 ### Real Analysis
@@ -124,7 +123,7 @@ Jem Corcoran's playlist is our main playlist because her narrative is great.
 
 # Reading Schedule
 
-**RPT** is the abbreviation of **A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006)**.
+**RPT** is the abbreviation of **A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook RPT \hfill Week 01-02 \faCalendar* **

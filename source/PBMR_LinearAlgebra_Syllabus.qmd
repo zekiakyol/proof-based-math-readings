@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Linear Algebra**  \n 2024 Spring"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -55,7 +55,6 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| fig-align: center
 #| out-width: 40%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
@@ -66,7 +65,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 - *Proof-Based Math Readings* is a free, independent online reading group where we study the mathematics required for economics master’s and PhD programs through an intuitive approach. Active since May 2023.
 - This session of the reading group is on *Linear Algebra*.
-- This session is dedicated to Sheldon Axler's lovely cat, [\faCat Moon](https://twitter.com/AxlerLinear/status/1691162877888204800), who passed away in August 2023.
+- This session is dedicated to Sheldon Axler's lovely cat, [\faCat Moon](https://x.com/AxlerLinear/status/1691162877888204800), who passed away in August 2023.
 
 # Prerequisites
 
@@ -112,9 +111,9 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ### Proof Techniques
 
 \begin{itemize}
-  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.4 Edition, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Michael Penn)}
 \end{itemize}
 
 \newpage

@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Real Analysis**  \n 2023 Summer"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -55,7 +55,6 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| fig-align: center
 #| out-width: 40%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
@@ -96,10 +95,10 @@ Casey Rodriguez's playlist is our main playlist because his narrative is great.
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLztBpqftvzxWo4HxUYV58ENhxHV32Wxli}{Real Analysis - Wrath of Math (2024)} $\quad \rightarrow$ Start with this playlist if you find the main book challenging
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLztBpqftvzxWo4HxUYV58ENhxHV32Wxli}{Real Analysis - Wrath of Math (2025)} $\quad \rightarrow$ Start with this playlist if you find the main book challenging
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1_xaQoS}{Real Analysis - Michael Penn (2021)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLysi2xmniDSzz6xT7IzOifpoexeKccThh}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Playlist by Marc Renault)}
-  \item[\faBook] \href{https://uli.rocks/abbott}{Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions by Ulisse Mini, Jesse Liby)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLysi2xmniDSzz6xT7IzOifpoexeKccThh}{Understanding Analysis - Stephen Abbott (2nd Edition, 2016, Playlist by Marc Renault)}
+  \item[\faBook] \href{https://uli.rocks/abbott}{Understanding Analysis - Stephen Abbott (2nd Edition, 2016, Solutions by Ulisse Mini, Jesse Liby)}
 \end{itemize}
 
 ### Calculus
@@ -114,9 +113,9 @@ Casey Rodriguez's playlist is our main playlist because his narrative is great.
 ### Proof Techniques
 
 \begin{itemize}
-  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum, Chapters 1-12)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn, Chapters 1-14)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.4 Edition, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Jeremy Teitelbaum, Chapters 1-12)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Michael Penn, Chapters 1-14)}
 \end{itemize}
 
 \newpage
@@ -124,7 +123,7 @@ Casey Rodriguez's playlist is our main playlist because his narrative is great.
 # Reading Schedule
 
 - **BAI** is the abbreviation of Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024).
-- We use [Understanding Analysis - Stephen Abbott (2nd Edition 2016, Solutions by Ulisse Mini, Jesse Liby)](https://uli.rocks/abbott) for exercises.
+- We use [Understanding Analysis - Stephen Abbott (2nd Edition, 2016, Solutions by Ulisse Mini, Jesse Liby)](https://uli.rocks/abbott) for exercises.
 
 ::: {.callout-tip icon=false}
 ## **\faBook BAI, Chapter 0: Introduction \hfill Week 01 \faCalendar* **

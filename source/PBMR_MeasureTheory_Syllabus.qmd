@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Measure Theory**  \n 2025 Summer"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -55,7 +55,6 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| fig-align: center
 #| out-width: 40%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
@@ -81,10 +80,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Measure, Integration & Real Analysis** by Sheldon Axler is our main book for this session because it is well-written, well-structured, and open-access.
+**Measure, Integration & Real Analysis - Sheldon Axler (2025, Errata-free version)** is our main book for this session because it is well-written, well-structured, and open-access.
 
 \begin{itemize}
-  \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2024, Errata-free version)}
+  \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2025, Errata-free version)}
   \item[\faYoutube] Measure, Integration \& Real Analysis - Sheldon Axler (202X) $\rightarrow$ will be added after the 2nd edition.
 \end{itemize}
 
@@ -93,7 +92,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Measure Theory
 
 \begin{itemize}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j}{Measure Theory - The Bright Side of Mathematics (2024)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j}{Measure Theory - The Bright Side of Mathematics (2025)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLyqSpQzTE6M_DZRQxHUafLgeLxZxMpVGS}{Measure Theory - Indrava Roy (2020)}
   \item[\faYoutube] \href{https://www.youtube.com/watch?v=LDNDTOVnKJk}{A horizontal integral?! Introduction to Lebesgue Integration - vcubingx (2020)}
   \item[\faYoutube] \href{https://www.open.ac.uk/library/digital-archive/module/xcri:M331/program}{The Lebesgue Integral - BBC (1975)}
@@ -102,15 +101,15 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Proof Techniques
 
 \begin{itemize}
-  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.4 Edition, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Michael Penn)}
 \end{itemize}
 
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2024, Supplement)}
+  \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2025, Supplement)}
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
@@ -120,7 +119,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Reading Schedule
 
-- **MIRA** is the abbreviation of **Measure, Integration \& Real Analysis - Sheldon Axler (2024)**.
+- **MIRA** is the abbreviation of **Measure, Integration & Real Analysis - Sheldon Axler (2025)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook MIRA, Chapter 1: Riemann Integration \hfill Week 01 \faCalendar* **

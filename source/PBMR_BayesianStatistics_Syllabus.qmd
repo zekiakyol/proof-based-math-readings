@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Bayesian Statistics**  \n 2024 Winter"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -55,7 +55,6 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| fig-align: center
 #| out-width: 40%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
@@ -99,8 +98,8 @@ Gary Koop's playlist is our main playlist because his narrative is great.
   \item[\faBook] \href{https://www.bayesrulesbook.com}{Bayes Rules! - Alicia A. Johnson, Miles Q. Ott, Mine Dogucu (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm}{Bayesian Statistics: A Comprehensive Course - Ben Lambert (2014)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
-  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2024)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2024, Playlist)}
+  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2025, Playlist)}
   \item[\faScroll] \href{https://www.jstor.org/stable/2685208}{Explaining the Gibbs Sampler - George Casella, Edward I. George (1992)}
   \item[\faScroll] \href{https://www.jstor.org/stable/2684568}{Understanding the Metropolis-Hastings Algorithm - Siddhartha Chib, Edward Greenberg (1995)}
 \end{itemize}
@@ -108,9 +107,9 @@ Gary Koop's playlist is our main playlist because his narrative is great.
 ### Proof Techniques
 
 \begin{itemize}
-  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.4 Edition, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Michael Penn)}
 \end{itemize}
 
 ### Statistics

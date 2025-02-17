@@ -2,7 +2,7 @@
 title: "**Proof-Based Math Readings  \n Session: Statistics**  \n 2024 Summer"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent versions of the syllabuses](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -55,7 +55,6 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| fig-align: center
 #| out-width: 40%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
@@ -83,7 +82,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024)** is our main book because it is well-written and well-structured. The 2024 version is an errata-free reprint of the 2001 version.
+**Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024)** is our main book because it is well-written and well-structured.
 
 \begin{itemize}
   \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024)
@@ -95,9 +94,11 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Supplementary
 
-### Statistics
+### Probability and Statistics
 
 \begin{itemize}
+  \item[\faBook] \href{https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019, Playlist)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg}{Introduction to Mathematical Statistics - Jingyi Jessica Li (2022)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR}{Mathematical Statistics - Jem N. Corcoran (2024)}
   \item[\faBook] \href{https://statproofbook.github.io}{The Book of Statistical Proofs - Joram Soch (2024)}
@@ -107,17 +108,9 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Proof Techniques
 
 \begin{itemize}
-  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.3 Edition, 2022)}
-  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Jeremy Teitelbaum)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.3 Edition, 2022, Playlist by Michael Penn)}
-\end{itemize}
-
-### Real Analysis
-
-\begin{itemize}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024, Playlist by Casey Rodriguez)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
+  \item[\faBook] \href{https://richardhammack.github.io/BookOfProof/}{Book of Proof - Richard Hammack (3.4 Edition, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/@jeremy9959/playlists?view=50&sort=dd&shelf_id=5}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Jeremy Teitelbaum)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-}{Book of Proof - Richard Hammack (3.4 Edition, 2025, Playlist by Michael Penn)}
 \end{itemize}
 
 \newpage
