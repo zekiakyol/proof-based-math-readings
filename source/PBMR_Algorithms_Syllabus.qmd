@@ -1,5 +1,5 @@
 ---
-title: "**Proof-Based Math Readings  \n Session: Algorithms**  \n 2026 Summer"
+title: "**Proof-Based Math Readings  \n Session: Algorithms**  \n 2025 Summer"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
 author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
@@ -106,6 +106,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] Data Structures and Algorithms in Python - M. T. Goodrich, R. Tamassia, M. H. Goldwasser (2013)
   \item[\faBook] \href{https://runestone.academy/ns/books/published/pythonds3/index.html}{Problem Solving with Algorithms and Data Structures using Python - B. Miller, D. Ranum, R. Yasinovskyy (3rd Edition, 2023)}
   \item[\faYoutube] \href{https://www.youtube.com/@gjenkinsedu/featured}{Problem Solving with Algorithms and Data Structures using Python - B. Miller, D. Ranum, R. Yasinovskyy (3rd Edition, 2023, Playlist by Gerry Jenkins)}
+  \item[\faMouse] \href{https://leetcode.com/problemset/}{leetcode.com}
 \end{itemize}
 
 ### Proof Techniques

@@ -98,7 +98,7 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is great
 ### Large-Sample Theory
 
 \begin{itemize}
-  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2024)}
+  \item[\faBook] \href{https://sites.psu.edu/drh20/david-hunters-home-page/asymptotics-notes}{Notes for a Graduate-Level Course in Asymptotics for Statisticians - David R. Hunter (2025)}
   \item[\faScroll] \href{https://www.jstor.org/stable/25652246}{Understanding Convergence Concepts: A Visual-Minded and Graphical Simulation-Based Approach - P. Micheaux, B. Liquet (2009)}
 \end{itemize}
 
