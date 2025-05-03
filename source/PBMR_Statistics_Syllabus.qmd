@@ -1,8 +1,9 @@
 ---
-title: "**Proof-Based Math Readings  \n Session: Statistics**  \n 2024 Summer"
+title: "**Proof-Based Math Readings  \n Session: Statistics**"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
+thanks: "[zekiakyol.com](https://zekiakyol.com)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
@@ -88,8 +89,8 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
   \item[\faBook] Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024)
   \item[\faBook] \href{https://archived.stat.ufl.edu/casella/class/errata7.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001, Errata)}
   \item[\faBook] \href{https://www.ams.sunysb.edu/~zhu/ams570/Solutions-Casella-Berger.pdf}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Solutions)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Playlist for Chapter 1-5)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Playlist for Chapter 5-9)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL5LSj-W8URK2VkbA8HCeoyMLr2783GSZN}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Playlist for Chapter 1-5 by Stephen Carden)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLbRMhDVUMngeD_vOeveVE-3b7wu_AZph9}{Statistical Inference - George Casella, Roger Berger (2nd Edition, 2001 or 2024, Playlist for Chapter 5-9 by Somesh Kumar)}
 \end{itemize}
 
 ## Supplementary
@@ -98,10 +99,12 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019)}
+  \item[\faBook] \href{https://projects.iq.harvard.edu/sites/projects.iq.harvard.edu/files/stat110/files/selected_solutions_blitzstein_hwang_probability.pdf}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019, Selected Solutions)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019, Playlist)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg}{Introduction to Mathematical Statistics - Jingyi Jessica Li (2022)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR}{Mathematical Statistics - Jem N. Corcoran (2024)}
   \item[\faBook] \href{https://statproofbook.github.io}{The Book of Statistical Proofs - Joram Soch (2024)}
+  \item[\faYoutube] \href{https://ledaliang.github.io/journalclub/index.html#}{Statistical Ideas that Changed the World - Robert Tibshirani (2024, Interview Series)}
   \item[\faScroll] \href{https://arxiv.org/pdf/0804.2996}{The Epic Story of Maximum Likelihood Stephen - M. Stigler (2008)}
 \end{itemize}
 
@@ -179,21 +182,21 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 6: Principles of Data Reduction \hfill Week 09-10 \faCalendar* **
-
-\begin{itemize}
-  \item[] \textbf{6.1} Introduction
-  \item[] \textbf{6.2} The Sufficiency Principle
-  \item[] \textbf{6.3} The Likelihood Principle
-\end{itemize}
-:::
-
-::: {.callout-tip icon=false}
-## **\faBook SI, Chapter 7: Point Estimation \hfill Week 11-12 \faCalendar* **
+## **\faBook SI, Chapter 7: Point Estimation \hfill Week 09-10 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{7.1} Introduction
   \item[] \textbf{7.2} Methods of Finding Estimators
   \item[] \textbf{7.3} Methods of Evaluating Estimators
+\end{itemize}
+:::
+
+::: {.callout-tip icon=false}
+## **\faBook SI, Chapter 8: Hypothesis Testing \hfill Week 11-12 \faCalendar* **
+
+\begin{itemize}
+  \item[] \textbf{8.1} Introduction
+  \item[] \textbf{8.2} Methods of Finding Tests
+  \item[] \textbf{8.3} Methods of Evaluating Tests
 \end{itemize}
 :::

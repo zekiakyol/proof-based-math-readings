@@ -1,8 +1,9 @@
 ---
-title: "**Proof-Based Math Readings  \n Session: Numerical Linear Algebra**  \n 2026 Summer"
+title: "**Proof-Based Math Readings  \n Session: Numerical Linear Algebra**"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
-author: "[**Zeki Akyol**](https://zekiakyol.com)^[[zekiakyol.com](https://zekiakyol.com)]  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
+author: "[**Zeki Akyol**](https://zekiakyol.com)  \n Department of Economics  \n Istanbul Technical University  \n [Click here for the most recent version](https://github.com/zekiakyol/proof-based-math-readings)"
+thanks: "[zekiakyol.com](https://zekiakyol.com)"
 pdf-engine: pdflatex
 fig-dpi: 300
 df-print: tibble
