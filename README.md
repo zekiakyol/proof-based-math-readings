@@ -11,7 +11,7 @@
 
 ## Syllabuses
 
-:scroll: Syllabus | :closed_book: Book | :hourglass: Duration
+:scroll: Syllabus | :closed_book: Book | :hourglass: Time
 :-- | :--: | :--:
 [Measure Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheory_Syllabus.pdf) | Measure, Integration & Real Analysis <br> - Sheldon Axler (2025) | 12 Weeks
 [Graph Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_GraphTheory_Syllabus.pdf) | A First Course in Graph Theory <br> - Gary Chartrand, Ping Zhang (2012) | 12 Weeks
