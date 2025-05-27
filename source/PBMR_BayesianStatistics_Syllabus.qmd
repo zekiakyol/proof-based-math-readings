@@ -99,7 +99,7 @@ Gary Koop's playlist is our main playlist because his narrative is great.
   \item[\faBook] \href{https://www.bayesrulesbook.com}{Bayes Rules! - Alicia A. Johnson, Miles Q. Ott, Mine Dogucu (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm}{Bayesian Statistics: A Comprehensive Course - Ben Lambert (2014)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG}{A Student's Guide to Bayesian Statistics - Ben Lambert (2020)}
-  \item[\faBook] \href{https://users.aalto.fi/~ave/BDA3.pdf}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2025)}
+  \item[\faBook] \href{https://sites.stat.columbia.edu/gelman/book/}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2025)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6}{Bayesian Data Analysis - A. Gelman, J. Carlin, H. Stern, D. Dunson, A. Vehtari, D. Rubin (3rd Ed., 2025, Playlist)}
   \item[\faScroll] \href{https://www.jstor.org/stable/2685208}{Explaining the Gibbs Sampler - George Casella, Edward I. George (1992)}
   \item[\faScroll] \href{https://www.jstor.org/stable/2684568}{Understanding the Metropolis-Hastings Algorithm - Siddhartha Chib, Edward Greenberg (1995)}

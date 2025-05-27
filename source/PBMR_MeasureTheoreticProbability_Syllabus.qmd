@@ -115,8 +115,8 @@ Jem Corcoran's playlist is our main playlist because her narrative is great.
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.1, 2024, Playlist by Casey Rodriguez)}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.2, 2025)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.2, 2025, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
 

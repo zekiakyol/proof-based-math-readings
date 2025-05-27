@@ -25,7 +25,7 @@
 [Linear Algebra](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LinearAlgebra_Syllabus.pdf) | Linear Algebra Done Right <br> - Sheldon Axler (4th Edition, 2025) | 12 Weeks
 [Measure Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheory_Syllabus.pdf) | Measure, Integration & Real Analysis <br> - Sheldon Axler (2025) | 12 Weeks
 [Topology](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Topology_Syllabus.pdf) | Topology <br> - James Munkres (2nd Edition, 2014) | 12 Weeks
-[Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | Basic Analysis I <br> - Jiri Lebl (Version 6.1, 2024) | 12 Weeks
+[Real Analysis](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_RealAnalysis_Syllabus.pdf) | Basic Analysis I <br> - Jiri Lebl (Version 6.2, 2025) | 12 Weeks
 [Proof Techniques](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_ProofTechniques_Syllabus.pdf) | Book of Proof <br> - Richard Hammack (3.4 Edition, 2025) | 12 Weeks
 
 ## Dependency Tree
