@@ -145,7 +145,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 2: Topological Spaces and Continuous Functions \hfill Week 02-03-04-05-06 \faCalendar* **
+## **\faBook TM, Chapter 2: Topological Spaces and Continuous Functions \hfill Week 02-03-04-05-06-07 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{12} Topological Spaces
@@ -162,7 +162,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 :::
 
 ::: {.callout-tip icon=false}
-## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 07-08-09-10-11-12 \faCalendar* **
+## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 08-09-10-11-12 \faCalendar* **
 
 \begin{itemize}
   \item[] \textbf{23} Connected Spaces

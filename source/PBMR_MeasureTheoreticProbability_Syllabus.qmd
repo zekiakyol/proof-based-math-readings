@@ -81,15 +81,15 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020)** is our main book for this session because it is well-written and well-structured.
+**A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2025)** is our main book for this session because it is well-written and well-structured.
 
 Jem Corcoran's playlist is our main playlist because her narrative is great.
 
 \begin{itemize}
-  \item[\faBook] A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020)
-  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/errata2.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020, Errata)}
-  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/grprobsol.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020, Solutions)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrO6VtBSiQLsNlo9QBm30nxC}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020, Playlist by J. Corcoran)}
+  \item[\faBook] A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2025)
+  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/errata2.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2025, Errata)}
+  \item[\faBook] \href{http://probability.ca/jeff/ftpdir/grprobsol.pdf}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2025, Solutions)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrO6VtBSiQLsNlo9QBm30nxC}{A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2025, Playlist by J. Corcoran)}
 \end{itemize}
 
 ## Supplementary
@@ -100,7 +100,7 @@ Jem Corcoran's playlist is our main playlist because her narrative is great.
   \item[\faBook] \href{https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf}{Probability: Theory and Examples - Rick Durrett (5th Edition, 2019)}
   \item[\faBook] \href{https://hoillee.wordpress.com/wp-content/uploads/2021/09/durrett-5e-solutions.pdf}{Probability: Theory and Examples - Rick Durrett (5th Edition, 2019, Solutions by Hoil Lee, Wonjun Seo)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLQHzlagV3jqLPA6Jy-Lia-NAniMZ3kw08}{Probability: Theory and Examples - Rick Durrett (5th Edition, 2019, Solutions by Luke Andrejek)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2jWy81M94YUJKFejoR7dal}{Measure Theoretic Probability-I - Supriyo Bhar (2021)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2jWy81M94YUJKFejoR7dal}{Measure Theoretic Probability I - Supriyo Bhar (2021)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FbA7OwN2jI2Ime2yb5REk}{Probability Foundations - Krishna Jagannathan (2020)}
 \end{itemize}
 

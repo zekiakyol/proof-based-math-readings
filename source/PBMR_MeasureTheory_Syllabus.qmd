@@ -85,7 +85,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2025, Errata-free version)}
-  \item[\faYoutube] Measure, Integration \& Real Analysis - Sheldon Axler (202X) $\rightarrow$ will be added after the 2nd edition.
+  \item[\faYoutube] Measure, Integration \& Real Analysis - Sheldon Axler (202X, Playlist) $\rightarrow$ will be added after the 2nd edition.
 \end{itemize}
 
 ## Supplementary

@@ -117,13 +117,13 @@ Because our main playlist does not cover Chapters 13-14, we cover these chapters
 
 # Reading Schedule
 
-I recommend the following study routine below:
+I recommend the following study routine:
 
-1) First read a chapter from the book, then watch the playlist of the chapter.
-2) Solve odd-numbered exercises and check their solutions at the end of the book.
-3) Solve even-numbered exercises and check their solutions from our unofficial solutions manual.
-4) If you cannot solve/understand an exercise, discuss the exercise in our Discord.
-5) Move on to the next chapter of the book.
+1) First, read a chapter from the book, then watch the corresponding playlist.
+2) Solve the odd-numbered exercises and check their solutions at the end of the book.
+3) Solve the even-numbered exercises and check their solutions using our unofficial solutions manual.
+4) If you cannot solve or understand an exercise, discuss it in our Discord.
+5) Then, move on to the next chapter.
 
 ::: {.callout-tip icon=false}
 ## **\faBook Book of Proof \hfill Week 01 \faCalendar* **

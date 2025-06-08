@@ -16,7 +16,7 @@
 [Algorithms](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Algorithms_Syllabus.pdf) | Introduction to Algorithms <br> - T. Cormen, C. Leiserson, R. Rivest, C. Stein (4th Edition, 2022) | 12 Weeks
 [Graph Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_GraphTheory_Syllabus.pdf) | A First Course in Graph Theory <br> - Gary Chartrand, Ping Zhang (2012) | 12 Weeks
 [Optimization](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Optimization_Syllabus.pdf) | A First Course in Optimization Theory <br> - Rangarajan K. Sundaram (1996) | 12 Weeks
-[Measure Theoretic Probability](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheoreticProbability_Syllabus.pdf) | A First Look at Rigorous Probability Theory <br> - Jeffrey S. Rosenthal (2nd Edition, 2020) | 12 Weeks
+[Measure Theoretic Probability](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_MeasureTheoreticProbability_Syllabus.pdf) | A First Look at Rigorous Probability Theory <br> - Jeffrey S. Rosenthal (2nd Edition, 2025) | 12 Weeks
 [Bayesian Statistics](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_BayesianStatistics_Syllabus.pdf) | Bayesian Econometrics <br> - Gary Koop (2003) | 12 Weeks
 [Large Sample Theory](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_LargeSampleTheory_Syllabus.pdf) | Elements of Large-Sample Theory <br> - Erich L. Lehmann (1999) | 12 Weeks
 [Statistics](https://github.com/zekiakyol/proof-based-math-readings/blob/main/PBMR_Statistics_Syllabus.pdf) | Statistical Inference <br> - George Casella, Roger Berger (2nd Edition, 2024) | 12 Weeks
