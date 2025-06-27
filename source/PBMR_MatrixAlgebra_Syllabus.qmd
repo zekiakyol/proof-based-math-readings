@@ -1,4 +1,4 @@
- ---
+---
 title: "**Proof-Based Math Readings  \n Session: Matrix Algebra**"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
