@@ -169,10 +169,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ## **\faBook CLRS \hfill Week 08-09-10 \faCalendar* **
 
 \begin{itemize}
-  \item[] Chapter 10: Elementary Data Structures 
+  \item[] Chapter 10: Elementary Data Structures
   \item[] Chapter 11: Hash Tables
   \item[] Chapter 12: Binary Search Trees
-  \item[] Chapter 13: Red-Black Trees  
+  \item[] Chapter 13: Red-Black Trees
 \end{itemize}
 :::
 

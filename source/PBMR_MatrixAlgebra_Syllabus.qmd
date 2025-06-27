@@ -1,4 +1,4 @@
----
+ ---
 title: "**Proof-Based Math Readings  \n Session: Matrix Algebra**"
 date: now
 date-format: "[Version:] DD MMMM YYYY, hh:mm A"
@@ -94,7 +94,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faScroll] \href{https://www.sciencedirect.com/science/article/pii/S0304407624002070}{A Gentle Introduction to Matrix Calculus - Jan R. Magnus (2024)}
-  \item[\faBook] \href{https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf}{The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen (2012)}
+  \item[\faBook] \href{https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf}{The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen (2012)}
   \item[\faBook] \href{https://media.pearsoncmg.com/ph/bp/bridgepages/bp_greene_bridgepage/Econometric_Analysis_8/Greene_Appendices.pdf}{Econometric Theory - William H. Greene (Appendix A, 8th Edition, 2020)}
   \item[\faCalculator] \href{https://www.matrixcalculus.org}{matrixcalculus.org}
 \end{itemize}
@@ -112,7 +112,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Reading Schedule
 
 - **MA** is the abbreviation of **Matrix Algebra - Karim M. Abadir, Jan R. Magnus (2005)**.
-  
+
 ::: {.callout-tip icon=false}
 ## **\faBook MA \hfill Week 01 \faCalendar* **
 

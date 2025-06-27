@@ -104,7 +104,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 # Reading Schedule
 
 - **NLA** is the abrevviation of **Numerical Linear Algebra - Lloyd N. Trefethen, David Bau III (1997 or 2022)**.
-  
+
 ::: {.callout-tip icon=false}
 ## **\faBook NLA \hfill Week 01-02 \faCalendar* **
 
