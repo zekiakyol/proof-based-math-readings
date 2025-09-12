@@ -44,6 +44,8 @@ format:
         \usepackage[fixed]{fontawesome5}
         \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
         \usepackage[dvipsnames]{xcolor}
+        \usepackage{enumitem}
+        \setlist[itemize]{itemsep=0cm}
         \usepackage{hyperref}
         \hypersetup{pdfpagemode=UseNone}
 editor: source
@@ -56,7 +58,7 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| out-width: 40%
+#| out-width: 35%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
@@ -67,13 +69,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 - *Proof-Based Math Readings* is a free, independent online reading group where we study the mathematics required for economics master’s and PhD programs through an intuitive approach. Active since May 2023.
 - This session of the reading group is on *Topology*.
 
-# Prerequisites
+# Prerequisites and Format
 
 - Proof Techniques and Real Analysis resources below.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
-
-# Format
-
 - This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
 - Members read the main book and discuss the topics/exercises in the Proof-Based Math Readings Discord \faDiscord.
 
@@ -129,7 +128,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook TM, Chapter 1: Set Theory and Logic \hfill Week 01 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.1cm}
   \item[] \textbf{1} Fundamental Concepts
   \item[] \textbf{2} Functions
   \item[] \textbf{3} Relations
@@ -147,7 +146,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook TM, Chapter 2: Topological Spaces and Continuous Functions \hfill Week 02-03-04-05-06-07 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.1cm}
   \item[] \textbf{12} Topological Spaces
   \item[] \textbf{13} Basis for a Topology
   \item[] \textbf{14} The Order Topology
@@ -164,7 +163,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook TM, Chapter 3: Connectedness and Compactness \hfill Week 08-09-10-11-12 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.1cm}
   \item[] \textbf{23} Connected Spaces
   \item[] \textbf{24} Connected Subspaces of the Real Line
   \item[] \textbf{25} Components and Local Connectedness

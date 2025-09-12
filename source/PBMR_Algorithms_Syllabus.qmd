@@ -20,8 +20,8 @@ format:
     papersize: letter
     fontsize: 10pt
     geometry: 
-      - right=1.6cm
-      - left=1.6cm
+      - right=1.5cm
+      - left=1.5cm
       - top=2cm
       - bottom=2cm
     toc: true
@@ -44,6 +44,8 @@ format:
         \usepackage[fixed]{fontawesome5}
         \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
         \usepackage[dvipsnames]{xcolor}
+        \usepackage{enumitem}
+        \setlist[itemize]{itemsep=0cm}
         \usepackage{hyperref}
         \hypersetup{pdfpagemode=UseNone}
 editor: source
@@ -56,7 +58,7 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| out-width: 40%
+#| out-width: 35%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
@@ -67,13 +69,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 - *Proof-Based Math Readings* is a free, independent online reading group where we study the mathematics required for economics master’s and PhD programs through an intuitive approach. Active since May 2023.
 - This session of the reading group is on *Algorithms*.
 
-# Prerequisites
+# Prerequisites and Format
 
 - Supplementary Python and one of the Algorithms resources below.
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
-
-# Format
-
 - This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
 - Members read the main book and discuss the topics/exercises in the Proof-Based Math Readings Discord \faDiscord.
 

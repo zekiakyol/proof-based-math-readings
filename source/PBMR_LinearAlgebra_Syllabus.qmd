@@ -44,6 +44,8 @@ format:
         \usepackage[fixed]{fontawesome5}
         \usepackage{float, amsmath, amssymb, amsfonts, bm, mathtools, mathastext}
         \usepackage[dvipsnames]{xcolor}
+        \usepackage{enumitem}
+        \setlist[itemize]{itemsep=0cm}
         \usepackage{hyperref}
         \hypersetup{pdfpagemode=UseNone}
 editor: source
@@ -56,7 +58,7 @@ library(knitr)
 
 ```{r}
 #| echo: false
-#| out-width: 40%
+#| out-width: 35%
 knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ```
 
@@ -68,13 +70,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 - This session of the reading group is on *Linear Algebra*.
 - This session is dedicated to Sheldon Axler's lovely cat, [\faCat Moon](https://x.com/AxlerLinear/status/1691162877888204800), who passed away in August 2023.
 
-# Prerequisites
+# Prerequisites and Format
 
 - Proof Techniques resources below and [\faYoutube Linear Algebra - Gilbert Strang (2005)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8).
 - Please use the [\faLink Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf3OxwYuAwiDXMVTCQ_x3FTtKnHmRRkl_SXlpdfqTDty06PxQ/viewform) to join our reading group; you will receive a response within a week.
-
-# Format
-
 - This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
 - Members read the main book and discuss the topics/exercises in the Proof-Based Math Readings Discord \faDiscord.
 
@@ -126,7 +125,7 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 1: Vector Spaces \hfill Week 01 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.2cm}
   \item[] \textbf{1A} $\mathbf{R}^n$ and $\mathbf{C}^n$
   \item[] \textbf{1B} Definition of Vector Space
   \item[] \textbf{1C} Subspaces
@@ -136,7 +135,7 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 2: Finite-Dimensional Vector Spaces \hfill Week 02-03 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.2cm}
   \item[] \textbf{2A} Span and Linear Independence
   \item[] \textbf{2B} Bases
   \item[] \textbf{2C} Dimension
@@ -146,7 +145,7 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 3: Linear Maps \hfill Week 04-05-06 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.2cm}
   \item[] \textbf{3A} Vector Space of Linear Maps
   \item[] \textbf{3B} Null Spaces and Ranges
   \item[] \textbf{3C} Matrices
@@ -157,7 +156,7 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 5: Eigenvalues and Eigenvectors \hfill Week 07-08 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.2cm}
   \item[] \textbf{5A} Invariant Subspaces
   \item[] \textbf{5B} The Minimal Polynomial
   \item[] \textbf{5C} Upper-Triangular Matrices
@@ -168,7 +167,7 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 6: Inner Product Spaces \hfill Week 09-10 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.2cm}
   \item[] \textbf{6A} Inner Products and Norms
   \item[] \textbf{6B} Orthonormal Bases
   \item[] \textbf{6C} Orthogonal Complements and Minimization Problems
@@ -178,7 +177,7 @@ Robert Won's playlist is our main playlist because his narrative is great.
 ::: {.callout-tip icon=false}
 ## **\faBook LADR, Chapter 7: Operators on Inner Product Spaces \hfill Week 11-12 \faCalendar* **
 
-\begin{itemize}
+\begin{itemize}\setlength\itemsep{-0.2cm}
   \item[] \textbf{7A} Self-Adjoint and Normal Operators
   \item[] \textbf{7B} Spectral Theorem
   \item[] \textbf{7C} Positive Operators
