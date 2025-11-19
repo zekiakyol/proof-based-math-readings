@@ -90,7 +90,7 @@ Jingyi Jessica Li's playlist is our main playlist because her narrative is great
   \item[\faBook] A Course in Large Sample Theory - Thomas S. Ferguson (2002) $\rightarrow$ Harder but contains solutions
   \item[\faBook] \href{https://www.math.ucla.edu/~tom/LST/Errata.pdf}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Errata)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Playlist by Jingyi Jessica Li)}
-  \item[\faBook] \href{http://jsb.ucla.edu/stats-203-large-sample-theory}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Notes by Jingyi Jessica Li)}
+  \item[\faBook] \href{https://jsb-lab.org/stats-203-large-sample-theory}{A Course in Large Sample Theory - Thomas S. Ferguson (2002, Notes by Jingyi Jessica Li)}
 \end{itemize}
 
 ## Supplementary

@@ -98,7 +98,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 \begin{itemize}
   \item[\faBook] \href{https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019)}
-  \item[\faBook] \href{https://projects.iq.harvard.edu/sites/projects.iq.harvard.edu/files/stat110/files/selected_solutions_blitzstein_hwang_probability.pdf}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019, Selected Solutions)}
+  \item[\faBook] \href{https://stat110.hsites.harvard.edu/strategic-practice-problems}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019, Selected Solutions)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo}{Introduction to Probability - Joseph K. Blitzstein, Jessiza Hwang (2nd Edition, 2019, Playlist)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg}{Introduction to Mathematical Statistics - Jingyi Jessica Li (2022)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR}{Mathematical Statistics - Jem N. Corcoran (2024)}
