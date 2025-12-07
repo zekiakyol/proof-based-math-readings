@@ -76,7 +76,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 - This session takes 12 weeks. We do not have face-to-face/online meetings due to the size of the group.
 - Members read the main book and discuss the topics/exercises in the Proof-Based Math Readings Discord \faDiscord.
 
-# Resources
+# Resources [All are open-access]
 
 ## Main Book and Main Book's Playlist
 

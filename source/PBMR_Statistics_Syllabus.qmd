@@ -124,16 +124,20 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 1: Probability Theory \hfill Week 01 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.1cm}
-  \item[] \textbf{1.1} Set Theory, \textbf{1.2} Probability Theory, \textbf{1.3} Conditional Probability and Independence,
-  \item[] \textbf{1.4} Random Variables, \textbf{1.5} Distribution Functions, \textbf{1.6} Density and Mass Functions
+\begin{itemize}\setlength\itemsep{-0.22cm}
+  \item[] \textbf{1.1} Set Theory
+  \item[] \textbf{1.2} Probability Theory
+  \item[] \textbf{1.3} Conditional Probability and Independence
+  \item[] \textbf{1.4} Random Variables
+  \item[] \textbf{1.5} Distribution Functions
+  \item[] \textbf{1.6} Density and Mass Functions
 \end{itemize}
 :::
 
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 2: Transformations and Expectations \hfill Week 02 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.2cm}
+\begin{itemize}\setlength\itemsep{-0.22cm}
   \item[] \textbf{2.1} Distributions of a Random Variable
   \item[] \textbf{2.2} Expected Values
   \item[] \textbf{2.3} Moments and Moment Generating Functions
@@ -143,7 +147,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 3: Common Families of Distributions \hfill Week 03-04 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.2cm}
+\begin{itemize}\setlength\itemsep{-0.22cm}
   \item[] \textbf{3.1} Introduction
   \item[] \textbf{3.2} Discrete Distributions
   \item[] \textbf{3.3} Continuous Distributions
@@ -156,7 +160,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 4: Multiple Random Variables \hfill Week 05-06 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.2cm}
+\begin{itemize}\setlength\itemsep{-0.22cm}
   \item[] \textbf{4.1} Joint and Marginal Distributions
   \item[] \textbf{4.2} Conditional Distributions and Independence
   \item[] \textbf{4.3} Bivariate Transformations
@@ -170,7 +174,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 5: Properties of a Random Sample \hfill Week 07-08 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.2cm}
+\begin{itemize}\setlength\itemsep{-0.22cm}
   \item[] \textbf{5.1} Basic Concepts of Random Samples
   \item[] \textbf{5.2} Sums of Random Variables from a Random Sample
   \item[] \textbf{5.3} Sampling from the Normal Distribution
@@ -183,7 +187,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 7: Point Estimation \hfill Week 09-10 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.2cm}
+\begin{itemize}\setlength\itemsep{-0.22cm}
   \item[] \textbf{7.1} Introduction
   \item[] \textbf{7.2} Methods of Finding Estimators
   \item[] \textbf{7.3} Methods of Evaluating Estimators
@@ -193,7 +197,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ::: {.callout-tip icon=false}
 ## **\faBook SI, Chapter 8: Hypothesis Testing \hfill Week 11-12 \faCalendar* **
 
-\begin{itemize}\setlength\itemsep{-0.2cm}
+\begin{itemize}\setlength\itemsep{-0.22cm}
   \item[] \textbf{8.1} Introduction
   \item[] \textbf{8.2} Methods of Finding Tests
   \item[] \textbf{8.3} Methods of Evaluating Tests
