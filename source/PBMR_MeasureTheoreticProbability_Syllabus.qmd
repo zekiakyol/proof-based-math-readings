@@ -114,8 +114,8 @@ Jem Corcoran's playlist is our main playlist because her narrative is great.
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.2, 2025)}
-  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.2, 2025, Playlist by Casey Rodriguez)}
+  \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.3, 2026)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.3, 2026, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
 \end{itemize}
 
@@ -123,13 +123,13 @@ Jem Corcoran's playlist is our main playlist because her narrative is great.
 
 # Reading Schedule
 
-**RPT** is the abbreviation of **A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2020)**.
+**RPT** is the abbreviation of **A First Look at Rigorous Probability Theory - Jeffrey S. Rosenthal (2nd Edition, 2006 or 2025)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook RPT \hfill Week 01-02 \faCalendar* **
 
 \begin{itemize}
-  \item[] Appendix A: Mathematical Background
+  \item[] Appendix A: Mathematical background
   \item[] Chapter 1: The need for measure theory
   \item[] Chapter 2: Probability triples
 \end{itemize}
