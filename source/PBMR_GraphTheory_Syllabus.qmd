@@ -86,7 +86,7 @@ Mikhail Lavrov's playlist is our playlist because the narrative is great.
 
 \begin{itemize}
   \item[\faBook] A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012)
-  \item[\faYoutube] \href{https://facultyweb.kennesaw.edu/mlavrov/courses/3322-spring-2021.php}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Playlist by Mikhail Lavrov)}
+  \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLejEFOjD9-HUxWE6uJVtYdDwFhgDyAdHg}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Playlist by Mikhail Lavrov)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Playlist by Wrath of Math)}
   \item[\faBook] \href{https://web.evanchen.cc/notes/SJSU179.pdf}{A First Course in Graph Theory - Gary Chartrand, Ping Zhang (2012, Notes by Evan Chen)}
 \end{itemize}
@@ -96,6 +96,7 @@ Mikhail Lavrov's playlist is our playlist because the narrative is great.
 ### Graph Theory
 
 \begin{itemize}
+  \item[\faBook] \href{https://vertex.degree}{Start Doing Graph Theory - Mikhail Lavrov (2026)}
   \item[\faYoutube] \href{https://www.youtube.com/watch?v=LFKZLXVO-Dg}{Introduction to Graph Theory: A Computer Science Perspective - Reducible (2020)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7}{Graph Theory - Don Sheehy (2020)}
   \item[\faMouse] \href{https://d3gt.com/index.html}{D3 Graph Theory (Interactive)}
