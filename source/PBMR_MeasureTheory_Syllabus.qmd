@@ -80,10 +80,10 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 ## Main Book and Main Book's Playlist
 
-**Measure, Integration & Real Analysis - Sheldon Axler (2025, Errata-free version)** is our main book for this session because it is well-written, well-structured, and open-access.
+**Measure, Integration & Real Analysis - Sheldon Axler (2026, Errata-free version)** is our main book for this session because it is well-written, well-structured, and open-access.
 
 \begin{itemize}
-  \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2025, Errata-free version)}
+  \item[\faBook] \href{https://measure.axler.net/MIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2026, Errata-free version)}
   \item[\faYoutube] Measure, Integration \& Real Analysis - Sheldon Axler (202X, Playlist) $\rightarrow$ will be added after the 2nd edition.
 \end{itemize}
 
@@ -109,7 +109,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 ### Real Analysis
 
 \begin{itemize}
-  \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2025, Supplement)}
+  \item[\faBook] \href{https://measure.axler.net/SupplementMIRA.pdf}{Measure, Integration \& Real Analysis - Sheldon Axler (2026, Supplement)}
   \item[\faBook] \href{https://www.jirka.org/ra}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.3, 2026)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw}{Basic Analysis I: Introduction to Real Analysis - Jiri Lebl (Version 6.3, 2026, Playlist by Casey Rodriguez)}
   \item[\faYoutube] \href{https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S}{Introduction To Metric Spaces - Paige Bright (2023)}
@@ -119,7 +119,7 @@ knitr::include_graphics("figures/proofbasedmathreadings_logo_square.png")
 
 # Reading Schedule
 
-- **MIRA** is the abbreviation of **Measure, Integration & Real Analysis - Sheldon Axler (2025)**.
+- **MIRA** is the abbreviation of **Measure, Integration & Real Analysis - Sheldon Axler (2026)**.
 
 ::: {.callout-tip icon=false}
 ## **\faBook MIRA, Chapter 1: Riemann Integration \hfill Week 01 \faCalendar* **
